@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"4d9d012fce07aafa","type":"text","text":"<span class=\"big-1\"><span class=\"lore-title\">Items</span></span>","x":-280,"y":-420,"width":1120,"height":180,"color":"#497ee9"},
+		{"id":"f2da2bbc40c95d44","type":"text","text":"<span class=\"lore-title\"><span class=\"big-3\">White</span></span>","x":-280,"y":-220,"width":560,"height":100,"color":"#ffffff"}
+	],
+	"edges":[]
+}

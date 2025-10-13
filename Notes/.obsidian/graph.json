@@ -1,12 +1,20 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-tag:#hidden  -file:.canvas",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Petrichor/Lore/Items  ",
+      "color": {
+        "a": 1,
+        "rgb": 4816617
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181623,
+  "scale": 1,
   "close": true
 }

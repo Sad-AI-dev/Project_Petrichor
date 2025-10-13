@@ -1,0 +1,74 @@
+/* Lore block */
+.lore {
+	display: block;
+	color: #CCD3E0;
+	background: #40515EDE;
+	line-height: 115%;
+	white-space: pre-wrap;
+	border: 2px solid #4F6372;
+	overflow: hidden;
+	font-family: Bombardier;
+	font-size: 1.3em;
+	text-shadow: 1.2px 1.2px 0 #090d11;
+	padding: 1em;
+	word-wrap: break-word;
+}
+
+.lore-mono {
+	color: #8595A4;
+	line-height: 130%;
+	letter-spacing: 10px;
+	font-weight: 100;
+}
+
+/* Inline Lore?? */
+
+/* Lore Text */
+.lore-text {
+	color: #CCD3E0;
+	font-family: Bombardier;
+	font-size: 1.3em;
+	text-shadow: 1.2px 1.2px 0 #090d11;
+}
+
+.lore-text-dark {
+	color: #8595A4;
+}
+
+.lore-text-mono {
+	letter-spacing: 10px;
+	font-weight: 100;
+}
+
+/* Lore Title */
+.lore-title {
+	display: block;
+	color: #CCD3E0;
+	font-family: Bombardier;
+	font-size: 1.3em;
+	text-shadow: 1.2px 1.2px 0 #090d11;
+	text-align: center;
+	font-weight: bold;
+}
+
+.lore-title-dark {
+	display: block;
+	color: #8595A4;
+	font-family: Bombardier;
+	font-size: 1.3em;
+	text-shadow: 1.2px 1.2px 0 #090d11;
+	text-align: center;
+	font-weight: bold;
+}
+
+.big-1 {
+	font-size: 5em;
+}
+
+.big-2 {
+	font-size: 3.5em;
+}
+
+.big-3 {
+	font-size: 2.5em;
+}
