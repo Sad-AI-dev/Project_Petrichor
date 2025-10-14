@@ -9,20 +9,17 @@
         "dimension": 77.09390862944163,
         "children": [
           {
-            "id": "f3919937d8feae39",
+            "id": "9ab34f265686c8ae",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Petrichor/Lore/Items/Items.canvas",
-                "viewState": {
-                  "x": 260.2273018447761,
-                  "y": 150.34822362263463,
-                  "zoom": -0.3333333333333334
-                }
+                "file": "Petrichor/Lore/Items/White/Bundle of Fireworks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Items"
+              "icon": "lucide-file",
+              "title": "Bundle of Fireworks"
             }
           }
         ]
@@ -190,23 +187,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "f178769d38f44506",
+  "active": "110af8e63f2c31a3",
   "lastOpenFiles": [
-    "Petrichor/Lore/Items/Imgs/Thumb/WarpedEcho_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/WarpedEcho_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/High_Res/Warped_Echo.webp",
-    "Petrichor/Lore/Items/Boss",
-    "Petrichor/Lore/Items/Imgs/High_Res",
-    "Petrichor/Lore/Items/Imgs/Thumb",
+    "Petrichor/Lore/Items/White/Bundle of Fireworks.md",
+    "Petrichor/Lore/Items/White/Bolstering Lantern.md",
+    "Petrichor/Lore/Items/White/Bison Steak.md",
+    "Petrichor/Lore/Items/White/Backup Magazine.md",
+    "Petrichor/Lore/Items/White/Lens-Maker's Glasses.md",
     "Petrichor/Lore/Items/Items.canvas",
-    "Petrichor/Lore/Items/Equipment",
-    "Petrichor/Lore/Items/Lunar",
-    "Petrichor/Lore/Items/Void",
-    "Petrichor/Lore/Items/Red",
-    "Petrichor/Lore/Items/Green",
-    "Petrichor/Lore/Items/Imgs",
-    "Petrichor/Lore/Items/test.md",
-    "Petrichor/Project Petrichor.md",
-    "Petrichor/Lore/Lore Reference.md"
+    "Petrichor/Lore/Items/White/Armor-Piercing Rounds.md",
+    "Petrichor/Lore/Items/White/Warped Echo.md",
+    "Petrichor/Lore/Items/White/Warbanner.md",
+    "Petrichor/Lore/Items/White/Tri-Tip Dagger.md",
+    "Petrichor/Lore/Items/White/Tougher Times.md",
+    "Petrichor/Lore/Items/White/Topaz Brooch.md",
+    "Petrichor/Lore/Items/White/Stun Grenade.md",
+    "Petrichor/Lore/Items/White/Sticky Bomb.md",
+    "Petrichor/Lore/Items/White/Soldier's Syringe.md",
+    "Petrichor/Lore/Items/White/Rusted Key.md",
+    "Petrichor/Lore/Items/White/Roll of Pennies.md",
+    "Petrichor/Lore/Items/White/Repulsion Armor Plate.md",
+    "Petrichor/Lore/Items/White/Power Elixir.md",
+    "Petrichor/Lore/Items/White/Personal Shield Generator.md",
+    "Petrichor/Lore/Items/White/Paul's Goat Hoof.md",
+    "Petrichor/Lore/Items/White/Oddly-shaped Opal.md",
+    "Petrichor/Lore/Items/White/Monster Tooth.md",
+    "Petrichor/Lore/Items/White/Mocha.md",
+    "Petrichor/Lore/Items/White/Medkit.md",
+    "Petrichor/Lore/Items/White/Item Scrap.md",
+    "Petrichor/Lore/Items/White/Gasoline.md",
+    "Petrichor/Lore/Items/Imgs/Thumb/SoldiersSyringe_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/ArmorPiercingRounds_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/BackupMagazine_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/ArmorPiercingRounds_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/BackupMagazine_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/BolsteringLantern_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/BolsteringLantern_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/BundleOfFireworks_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/BundleOfFireworks_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/ChronicExpansion_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/ChronicExpansion_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/Crowbar_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/Crowbar_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/EnergyDrink_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/EnergyDrink_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/Gasoline_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/Gasoline_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/LensMakersGlasses_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/LensMakersGlasses_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/Medkit_Thumb.png.0.pdnSave"
   ]
 }
