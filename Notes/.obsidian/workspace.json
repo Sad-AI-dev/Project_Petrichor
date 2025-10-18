@@ -6,20 +6,23 @@
       {
         "id": "89f6889ccc7f93da",
         "type": "tabs",
-        "dimension": 77.09390862944163,
+        "dimension": 76.71319796954315,
         "children": [
           {
             "id": "9ab34f265686c8ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Petrichor/Lore/Items/White/Bundle of Fireworks.md",
-                "mode": "source",
-                "source": false
+                "file": "Petrichor/Lore/Items/Items.canvas",
+                "viewState": {
+                  "x": 418.9243391066543,
+                  "y": 312.4703737465816,
+                  "zoom": -0.8358172392005023
+                }
               },
-              "icon": "lucide-file",
-              "title": "Bundle of Fireworks"
+              "icon": "lucide-layout-dashboard",
+              "title": "Items"
             }
           }
         ]
@@ -27,7 +30,7 @@
       {
         "id": "481ea692187464fd",
         "type": "tabs",
-        "dimension": 22.90609137055838,
+        "dimension": 23.28680203045685,
         "children": [
           {
             "id": "110af8e63f2c31a3",
@@ -187,15 +190,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "110af8e63f2c31a3",
+  "active": "9ab34f265686c8ae",
   "lastOpenFiles": [
-    "Petrichor/Lore/Items/White/Bundle of Fireworks.md",
-    "Petrichor/Lore/Items/White/Bolstering Lantern.md",
-    "Petrichor/Lore/Items/White/Bison Steak.md",
-    "Petrichor/Lore/Items/White/Backup Magazine.md",
-    "Petrichor/Lore/Items/White/Lens-Maker's Glasses.md",
     "Petrichor/Lore/Items/Items.canvas",
-    "Petrichor/Lore/Items/White/Armor-Piercing Rounds.md",
     "Petrichor/Lore/Items/White/Warped Echo.md",
     "Petrichor/Lore/Items/White/Warbanner.md",
     "Petrichor/Lore/Items/White/Tri-Tip Dagger.md",
@@ -214,8 +211,13 @@
     "Petrichor/Lore/Items/White/Monster Tooth.md",
     "Petrichor/Lore/Items/White/Mocha.md",
     "Petrichor/Lore/Items/White/Medkit.md",
-    "Petrichor/Lore/Items/White/Item Scrap.md",
+    "Petrichor/Lore/Items/White/Lens-Maker's Glasses.md",
     "Petrichor/Lore/Items/White/Gasoline.md",
+    "Petrichor/Lore/Items/White/Focus Crystal.md",
+    "Petrichor/Lore/Items/White/Energy Drink.md",
+    "Petrichor/Lore/Items/White/Elusive Antlers.md",
+    "Petrichor/Lore/Items/White/Delicate Watch.md",
+    "Petrichor/Lore/Items/White/Crowbar.md",
     "Petrichor/Lore/Items/Imgs/Thumb/SoldiersSyringe_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/ArmorPiercingRounds_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/BackupMagazine_Thumb.png",

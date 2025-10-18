@@ -51,8 +51,6 @@
 	text-shadow: 1.2px 1.2px 0 #090d11;
 	text-align: center;
 	font-weight: bold;
-	margin-top: -50px;
-	margin-bottom: -30px;
 }
 
 .lore-title-dark {
@@ -63,6 +61,18 @@
 	text-shadow: 1.2px 1.2px 0 #090d11;
 	text-align: center;
 	font-weight: bold;
+}
+
+.lore-title-inline {
+	display: block;
+	color: #CCD3E0;
+	font-family: Bombardier;
+	font-size: 1.3em;
+	text-shadow: 1.2px 1.2px 0 #090d11;
+	text-align: center;
+	font-weight: bold;
+	margin-top: -50px;
+	margin-bottom: -30px;
 }
 
 /* Card */
