@@ -16,9 +16,9 @@
               "state": {
                 "file": "Petrichor/Lore/Items/Items.canvas",
                 "viewState": {
-                  "x": 418.9243391066543,
-                  "y": 312.4703737465816,
-                  "zoom": -0.8358172392005023
+                  "x": 439.2462885010794,
+                  "y": 1489.6058374023291,
+                  "zoom": -1.1691505725338356
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -190,9 +190,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ab34f265686c8ae",
+  "active": "110af8e63f2c31a3",
   "lastOpenFiles": [
     "Petrichor/Lore/Items/Items.canvas",
+    "Runald's Band.md",
+    "Petrichor/Lore/Items/Imgs/Thumb/AtGMissileMk1_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/AtGMissileMk1_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/Bandolier_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/Bandolier_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/BerzerkersPauldron_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/BerzerkersPauldron_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/Chronobauble_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/Chronobauble_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/FuelCell_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/FuelCell_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/HarvestersScythe_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/HarvestersScythe_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/HopooFeather_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/HopooFeather_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/Infusion_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/Infusion_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/KjarosBand_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/KjarosBand_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/OldWarStealthkit_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/OldWarStealthkit_Thumb.png.0.pdnSave",
     "Petrichor/Lore/Items/White/Warped Echo.md",
     "Petrichor/Lore/Items/White/Warbanner.md",
     "Petrichor/Lore/Items/White/Tri-Tip Dagger.md",
@@ -216,27 +237,6 @@
     "Petrichor/Lore/Items/White/Focus Crystal.md",
     "Petrichor/Lore/Items/White/Energy Drink.md",
     "Petrichor/Lore/Items/White/Elusive Antlers.md",
-    "Petrichor/Lore/Items/White/Delicate Watch.md",
-    "Petrichor/Lore/Items/White/Crowbar.md",
-    "Petrichor/Lore/Items/Imgs/Thumb/SoldiersSyringe_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/ArmorPiercingRounds_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/BackupMagazine_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/ArmorPiercingRounds_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/BackupMagazine_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/BolsteringLantern_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/BolsteringLantern_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/BundleOfFireworks_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/BundleOfFireworks_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/ChronicExpansion_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/ChronicExpansion_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/Crowbar_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/Crowbar_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/EnergyDrink_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/EnergyDrink_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/Gasoline_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/Gasoline_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/LensMakersGlasses_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/LensMakersGlasses_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/Medkit_Thumb.png.0.pdnSave"
+    "Petrichor/Lore/Items/White/Delicate Watch.md"
   ]
 }
