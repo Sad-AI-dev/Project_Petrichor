@@ -17,4 +17,5 @@ Liz took a deep breath and slipped the opal back into her pocket. "It just helps
 This log reveals details about the recruitment process employed by UES for the [[UES [REDACTED] ]]mission.
 UES veterans are deployed for debriefing, making mention of the various monsters on [[Petrichor V]] and the "missing" [[UES Contact Light]].
 
+The [[Galactic Outback]] as a generic region is mentioned.
 #### <span class="lore-text">Tags</span>
