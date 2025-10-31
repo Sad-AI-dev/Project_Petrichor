@@ -1,6 +1,9 @@
-![[Delicate_Watch.png|128]]
+![[Delicate_Watch.png|128]]![[Delicate_Watch_(Broken).webp|128]]
 *Delicate Watch* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+#### <span class="lore-title-inline">Consumed Description</span>
+<span class="lore-text"><span class="lore-text-dark">...well, it's still right twice a day</span></span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">The wind blows over the plains. Two soldiers trudge along on their routine patrol, filling their boredom with casual conversation. "Hm. Hey, Shelly, have I ever showed you my new Patex?" Quinton mused. Shelly shot him a quizzical look. "Tell me you didn't bring a $75,000 watch with you on a dangerous expedition into unknown territories..."
 
