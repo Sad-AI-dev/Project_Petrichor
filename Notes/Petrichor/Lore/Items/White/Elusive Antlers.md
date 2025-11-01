@@ -1,6 +1,9 @@
 ![[Elusive_Antlers.webp|128]]
 *Elusive Antlers* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Spawns orbs of energy that give bonus movement speed.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Shipping details
 Order: Questionable Antlers

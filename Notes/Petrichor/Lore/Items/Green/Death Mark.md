@@ -2,6 +2,9 @@
 
 *Death Mark* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Enemies with 4 or more debuffs are marked for death, taking bonus damage.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: “Death Mark”
 Tracking Number: 66******

@@ -2,6 +2,9 @@
 
 *Chance Doll* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Chance to increase item rarity at Shrines of Chance.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Two reptilian figures walk deep into Stone territory, the smaller one carries a stone-string doll. Cairns and more dolls decorate the path.
 - - -

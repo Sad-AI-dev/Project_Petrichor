@@ -1,6 +1,9 @@
 ![[Oddly-shaped_Opal.webp|128]]
 *Oddly-shaped Opal* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Reduce damage the first time you are hit.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</span>
 

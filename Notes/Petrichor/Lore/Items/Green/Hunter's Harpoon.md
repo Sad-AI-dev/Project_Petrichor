@@ -2,6 +2,9 @@
 
 *Hunter's Harpoon* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Killing an enemy gives you a burst of movement speed.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Harpoon
 Tracking Number: 01******

@@ -1,6 +1,9 @@
 ![[Mocha.webp|128]]
 *Mocha* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Slightly increase attack speed and movement speed.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: To-Go Coffee Cup, 16 ounces
 Tracking Number: 32******

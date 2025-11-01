@@ -2,6 +2,9 @@
 
 *Runald's Band* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">High damage hits also blasts enemies with runic Ice. Recharges over time.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">"Should memories be lost,
 Should oceans be clouded,

@@ -1,6 +1,9 @@
 ![[Roll_of_Pennies.png|128]]
 *Roll of Pennies* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Gain gold on taking damage.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">The sounds of gunfire rang in Johnson's ears. Biting down and tugging on the bandage covering his wounded leg, he hastily reloaded his firearm.
 

@@ -1,6 +1,9 @@
 ![[Bison_Steak.png|128]]
 *Bison Steak* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Gain 25 max health.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Assorted Saturnian Bison Steak, 10lbs
 Tracking Number: 31***********

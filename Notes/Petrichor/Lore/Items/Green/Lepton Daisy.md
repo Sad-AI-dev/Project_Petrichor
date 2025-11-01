@@ -2,6 +2,9 @@
 
 *Lepton Daisy* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Periodically release a healing nova during the Teleporter event and 'Holdout Zones' such as the Void Fields.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Lepton Daisy
 Tracking Number: 23******

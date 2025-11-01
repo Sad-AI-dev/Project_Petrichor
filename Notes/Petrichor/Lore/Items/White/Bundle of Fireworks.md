@@ -1,6 +1,9 @@
 ![[128px-Bundle_of_Fireworks.webp|128]]
 *Bundle of Fireworks* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Activating an interactable launches fireworks at nearby enemies.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">"Hey, happy anniversary!
 

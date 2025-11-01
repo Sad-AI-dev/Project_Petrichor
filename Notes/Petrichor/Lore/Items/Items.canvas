@@ -94,7 +94,6 @@
 		{"id":"cc2c1e653d0d33ba","type":"text","text":"<span class=\"card\">![[HardlightAfterburner_Thumb.png]]\n[[Hardlight Afterburner]]</span>","x":720,"y":3060,"width":180,"height":240,"color":"1"},
 		{"id":"4df574bd08f1f75d","type":"text","text":"<span class=\"card\">![[InterstellarDeskPlant_Thumb.png]]\n[[Interstellar Desk Plant]]</span>","x":920,"y":3060,"width":180,"height":240,"color":"1"},
 		{"id":"be866b5f0684bbdb","type":"text","text":"<span class=\"card\">![[ItemScrapRed_Thumb.png]]\n[[Item Scrap|Item Scrap, Red]]</span>","x":1120,"y":3060,"width":180,"height":240,"color":"1"},
-		{"id":"f03bceb644cc1228","type":"text","text":"<span class=\"card\">![[LaserScope_Thumb.png]]\n[[Laser Scope]]</span>","x":-480,"y":3320,"width":180,"height":240,"color":"1"},
 		{"id":"5cc981f463db2f80","type":"text","text":"<span class=\"card\">![[NkuhanasOpinion_Thumb.png]]\n[[N'kuhana's Opinion]]</span>","x":-280,"y":3320,"width":180,"height":240,"color":"1"},
 		{"id":"76ef57ef51a0e167","type":"text","text":"<span class=\"card\">![[PocketICBM_Thumb.png]]\n[[Pocket I.C.B.M.]]</span>","x":-80,"y":3320,"width":180,"height":240,"color":"1"},
 		{"id":"5a6eafffa3e1e223","type":"text","text":"<span class=\"card\">![[RejuvinationRack_Thumb.png]]\n[[Rejuvination Rack]]</span>","x":120,"y":3320,"width":180,"height":240,"color":"1"},
@@ -108,7 +107,8 @@
 		{"id":"43efb6bb15bb2978","type":"text","text":"<span class=\"card\">![[SymbioticScorpion_Thumb.png]]\n[[Symbiotic Scorpion]]</span>","x":-80,"y":3580,"width":180,"height":240,"color":"1"},
 		{"id":"a0def278788c6fa4","type":"text","text":"<span class=\"card\">![[UnstableTeslaCoil_Thumb.png]]\n[[Unstable Tesla Coil]]</span>","x":120,"y":3580,"width":180,"height":240,"color":"1"},
 		{"id":"af69ac6f03d9ca38","type":"text","text":"<span class=\"card\">![[WakeOfVultures_Thumb.png]]\n[[Wake of Vultures]]</span>","x":320,"y":3580,"width":180,"height":240,"color":"1"},
-		{"id":"fe19b3b9814625b3","type":"text","text":"<span class=\"card\">![[WarBonds_Thumb.png]]\n[[War Bonds]]</span>","x":520,"y":3580,"width":180,"height":240,"color":"1"}
+		{"id":"fe19b3b9814625b3","type":"text","text":"<span class=\"card\">![[WarBonds_Thumb.png]]\n[[War Bonds]]</span>","x":520,"y":3580,"width":180,"height":240,"color":"1"},
+		{"id":"f03bceb644cc1228","type":"text","text":"<span class=\"card\">![[LaserScope_Thumb.png]]\n[[Laser Scope]]</span>","x":-480,"y":3320,"width":180,"height":240,"color":"1"}
 	],
 	"edges":[]
 }

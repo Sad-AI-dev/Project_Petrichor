@@ -1,6 +1,9 @@
 ![[Rusted_Key.webp|128]]
 *Rusted Key* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Gain access to a Rusty Lockbox that contains a powerful item.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Key
 Tracking Number: 12******

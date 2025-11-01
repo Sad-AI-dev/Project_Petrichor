@@ -1,7 +1,10 @@
 ![[Old_Guillotine.png|128]]
 
-*Old Guilotine* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
+*Old Guillotine* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Instantly kill low health Elite monsters.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Old Guillotine
 Tracking Number: 782*****

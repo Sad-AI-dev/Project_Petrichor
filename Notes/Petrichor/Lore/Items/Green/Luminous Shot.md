@@ -2,6 +2,9 @@
 
 *Luminous Shot* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Activating your Secondary skill charges your Primary skill with powerful lightning strikes. Requires 3 charges.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">“Results are in!
 The 2057 NextTech winner is the Luminous Shot, crafted by Inventor M. Louis VI of Europa.

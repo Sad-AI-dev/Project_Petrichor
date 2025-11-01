@@ -1,6 +1,9 @@
 ![[Repulsion_Armor_Plate.webp|128]]
 *Repulsion Armor Plate* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Receive flat damage reduction from all attacks.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Repulsion Armor Replacement Piece
 Tracking Number: 09******

@@ -1,6 +1,9 @@
 ![[Paul's_Goat_Hoof.webp|128]]
 *Paul's Goat Hoof* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Increase movement speed.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Paul’s Goat Hoof
 Tracking Number: 187*****

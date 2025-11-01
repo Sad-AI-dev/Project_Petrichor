@@ -2,6 +2,9 @@
 
 *Squid Polyp* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Activating an interactable summons a Squid Turret nearby.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">"It’s disgusting."
 

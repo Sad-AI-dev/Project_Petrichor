@@ -1,7 +1,14 @@
-![[Regenerating_Scrap.png|128]]
+![[Regenerating_Scrap.png|128]]![[Regenerating_Scrap_(Consumed).webp|128]]
 
 *Regenerating Scrap* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Prioritized when used with <span class="green">Uncommon</span> 3D printers. 
+Usable once per stage.</span>
+
+### <span class="lore-title-inline">Consumed Description</span>
+<span class="lore-text"><span class="lore-text-dark">At the start of each stage, it transform into Regenerating Scrap.</span></span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</span>
 

@@ -2,6 +2,9 @@
 
 *War Horn* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Activating your Equipment gives you a burst of attack speed.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">"The War of 2019, while lasting only a brief year, was the bloodiest conflict in human history. As the war got deadlier throughout the year, many rebel groups began to rely on tradition and history for inspiration. 
 

@@ -2,6 +2,9 @@
 
 *Interstellar Desk Plant* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Plant a healing fruit on kill.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: "Interstellar Plant Seed"
 Tracking Number: 44******

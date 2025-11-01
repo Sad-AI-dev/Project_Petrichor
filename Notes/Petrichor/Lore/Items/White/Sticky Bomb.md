@@ -1,6 +1,9 @@
 ![[128px-Sticky_Bomb.webp|128]]
 *Sticky Bomb* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Chance on hit to attach a bomb to enemies.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">In the blaring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.
 

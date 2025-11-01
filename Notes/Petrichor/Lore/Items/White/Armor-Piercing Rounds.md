@@ -2,6 +2,9 @@
 
 *Armor-Piercing Rounds* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Deal extra damage to bosses.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Armor-Piercing Rounds, 50mm
 Tracking Number: 15***********

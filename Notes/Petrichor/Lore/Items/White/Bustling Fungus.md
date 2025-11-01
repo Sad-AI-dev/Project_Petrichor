@@ -1,6 +1,9 @@
 ![[Bustling_Fungus.webp|128]]
 *Bustling Fungus* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Heal all nearby allies after standing still for 1 second.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</span>
 

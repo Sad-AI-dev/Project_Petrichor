@@ -1,6 +1,9 @@
 ![[Focus_Crystal.webp|128]]
 *Focus Crystal* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Deal bonus damage to nearby enemies.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Condensed Matter Crystal [50kg, 10cm by 10cm by 10cm]
 Tracking Number: 12***********

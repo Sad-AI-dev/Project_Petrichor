@@ -2,6 +2,9 @@
 
 *Alien Head* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Reduces cooldowns for your skills.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: "Alien Head"
 Tracking Number: 76******

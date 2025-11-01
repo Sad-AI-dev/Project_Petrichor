@@ -1,6 +1,9 @@
 ![[128px-Tri-Tip_Dagger.webp|128]]
 *Tri-Tip Dagger* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Gain +10% chance to bleed enemies on hit.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.

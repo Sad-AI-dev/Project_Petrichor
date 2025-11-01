@@ -1,6 +1,9 @@
 ![[128px-Lens-Maker's_Glasses.webp|128]]
 *Lens-Maker's Glasses* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Gain 10% chance for hits to 'Critically Strike', dealing double damage.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">…What I didn’t see was that the golem was aiming its laser at my back. I managed to barely dodge it - just by pure luck - but the blast knocked me to the ground. My glasses flew off my face and I was on my back, stunned, barely able to make sense of myself…
 

@@ -1,6 +1,9 @@
 ![[128px-Personal_Shield_Generator.webp|128]]
 *Personal Shield Generator* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Gain a recharging shield.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">"While the kinetic rating is very poor, the extremely cheap production costs of Hinon’s Personal Barrier made it a great budget tool for hikers, sailors, and even daily commuters to be comfortable in harsh weather. Many people in the office figured out they could replace their expensive winter jackets with comfortable, trendy personal barriers!"
 

@@ -1,6 +1,9 @@
 ![[128px-Stun_Grenade.webp|128]]
 *Stun Grenade* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Chance to stun on hit.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">//--AUTO-TRANSCRIPTION FROM CARGO BAY 2 OF UES [Redacted] --//</span>
 

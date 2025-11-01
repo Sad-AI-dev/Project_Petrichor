@@ -2,6 +2,9 @@
 
 *Razorwire* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Retaliate in a burst of razors on taking damage.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Custom-made Barbed Wire, 200m
 Tracking Number: 05***********

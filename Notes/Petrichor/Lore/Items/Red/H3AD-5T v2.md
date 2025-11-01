@@ -2,6 +2,9 @@
 
 *H3AD-5T v2* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Increase jump height. Hold 'Interact' to slam down to the ground.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.
 

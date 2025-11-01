@@ -2,7 +2,10 @@
 *Dio's Best Friend* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
 
-#### <span class="lore-title-inline">Consumed Description</span>
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Cheat death. Consumed on use.</span>
+
+### <span class="lore-title-inline">Consumed Description</span>
 <span class="lore-text"><span class="lore-text-dark">A spent item with no remaining power.</span></span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Hey Dio,

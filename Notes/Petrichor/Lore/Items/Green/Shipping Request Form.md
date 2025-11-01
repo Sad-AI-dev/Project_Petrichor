@@ -2,6 +2,9 @@
 
 *Shipping Request Form* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Get a delivery each stage that contains powerful items.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">This is an automated message. If you do not have reason to receive this message, please contact UES Customer Support.</span>
 

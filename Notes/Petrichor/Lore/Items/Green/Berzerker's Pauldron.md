@@ -2,6 +2,9 @@
 
 *Berzerker's Pauldron* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Enter a frenzy after killing 4 enemies in quick succession.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Antique Pauldron
 Tracking Number: 58***********

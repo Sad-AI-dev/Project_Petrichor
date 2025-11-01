@@ -1,6 +1,9 @@
 ![[128px-Tougher_Times.webp|128]]
 *Tougher Times* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Chance to block incoming damage.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//</span>
 

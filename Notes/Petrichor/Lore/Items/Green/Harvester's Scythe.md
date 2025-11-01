@@ -2,6 +2,9 @@
 
 *Harvester's Scythe* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">'Critical Strikes' heal you.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">“I’m not going nowhere. What I do is important, and no plague is going to stop me from getting that done. City folk are all up in a tizzy over this and that, scared that ya’ll will pass without doing some crazy goals you set for yourself. 
 

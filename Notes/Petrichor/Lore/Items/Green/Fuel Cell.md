@@ -2,6 +2,9 @@
 
 *Fuel Cell* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Hold an additional equipment charge. Reduce equipment cooldown.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">"As humanity began to venture out into the depths of space, high-energy but low-volume fuel sources became critical for interplanetary travel. Stability came later."
 -Brief History of Interplanetary Advances, Vol.2</span>

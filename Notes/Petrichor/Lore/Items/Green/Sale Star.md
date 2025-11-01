@@ -1,7 +1,14 @@
-![[Sale_Star.png|128]]
+![[Sale_Star.png|128]]![[Sale_Star_(Consumed).webp|128]]
 
 *Sale Star* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">First chest bought yields more than one reward.
+Usable once per stage.</span>
+
+### <span class="lore-title-inline">Consumed Description</span>
+<span class="lore-text"><span class="lore-text-dark">At the start of each stage, it transforms into Sale Star.</span></span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</span>
 

@@ -1,6 +1,9 @@
 ![[Topaz_Brooch.webp|128]]
 *Topaz Brooch* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Gain a temporary barrier on kill.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: Topaz Brooch
 Tracking Number: 442*****

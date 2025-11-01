@@ -2,6 +2,9 @@
 
 *Ghor's Tome* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
+
+### <span class="lore-title-inline">Pickup Description</span>
+<span class="lore-text">Chance on kill to drop a treasure.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">Order: “Ghor’s Tome”
 Tracking Number: 19******
@@ -18,7 +21,7 @@ The takeaway, above all else, seems to be that you cannot get something from not
 
 And more importantly, Kosta, I trust you. Don't do anything that would draw attention to yourself. I will try to find the other volumes. This is knowledge too dangerous to lose.</span>
 # <span class="lore-title-inline">Notes</span>
-This item is being shipped to [[Venus]].
+This item is being shipped to the [[Crumbling Tower]], on [[Venus]].
 The tome contains ancient knowledge of alchemy, and both the knowledge contained and the physical form are magical in nature.
 
 The item was send with the intention to be transcribed by someone called `Kosta`.
