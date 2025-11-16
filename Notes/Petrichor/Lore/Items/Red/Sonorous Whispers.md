@@ -14,6 +14,8 @@ A drip of red trails his neck, stemming from his ear, unnoticed in the dark.
 A turn to leave the grotto, he spots a small chest once again sealed.
 A soldier empties it once more with a shaking hand.</span>
 # <span class="lore-title-inline">Notes</span>
+The Sonorous Whispers is a magical item that somehow allows the survivor mentioned to re-open a chest. Notably, this is different from how the item functions during gameplay.
 
+It appears that the item requires the user to place it to their ear and listen to it, causing their ear to bleed and the magical effect to activate.
 
 #### <span class="lore-text">Tags</span>
