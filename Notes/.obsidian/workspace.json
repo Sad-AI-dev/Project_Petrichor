@@ -9,23 +9,108 @@
         "dimension": 77.4746192893401,
         "children": [
           {
-            "id": "bf6f3f33aa745097",
+            "id": "855b86b8f4838356",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Petrichor/Lore/Items/Items.canvas",
                 "viewState": {
-                  "x": -1544.5175703603736,
-                  "y": 1123.5800956748371,
-                  "zoom": -0.6813175646162919
+                  "x": -1559.0921655650739,
+                  "y": 490.643828466997,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Items"
             }
+          },
+          {
+            "id": "90b0e20e4708a8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentry Key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sentry Key"
+            }
+          },
+          {
+            "id": "98ce40e4d4002340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prison Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prison Matrix"
+            }
+          },
+          {
+            "id": "60b7bf169ec47890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functional Coupler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Functional Coupler"
+            }
+          },
+          {
+            "id": "85ffe441f0e10675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faulty Conductor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faulty Conductor"
+            }
+          },
+          {
+            "id": "48aeddb9ed7e9d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exposed Cerebellum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exposed Cerebellum"
+            }
+          },
+          {
+            "id": "b15ae4a72e6237b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Petrichor/Lore/Items/Boss/Encrypted Cerebellum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encrypted Cerebellum"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "481ea692187464fd",
@@ -190,53 +275,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "bf6f3f33aa745097",
+  "active": "f178769d38f44506",
   "lastOpenFiles": [
-    "Petrichor/Lore/Items/Lunar/Beads of Fealty.md",
+    "Petrichor/Lore/Items/Boss/Encrypted Cerebellum.md",
+    "Petrichor/Lore/Items/Boss/Exposed Cerebellum.md",
+    "Petrichor/Lore/Items/Boss/Faulty Conductor.md",
+    "Petrichor/Lore/Items/Boss/Functional Coupler.md",
+    "Petrichor/Lore/Items/Boss/Prison Matrix.md",
+    "Petrichor/Lore/Items/Boss/Sentry Key.md",
     "Petrichor/Lore/Items/Items.canvas",
-    "Petrichor/Lore/Items/Lunar/Visions of Heresy.md",
-    "Petrichor/Lore/Items/Lunar/Transcendence.md",
-    "Petrichor/Lore/Items/Lunar/Strides of Heresy.md",
-    "Petrichor/Lore/Items/Lunar/Stone Flux Pauldron.md",
-    "Petrichor/Lore/Items/Lunar/Shaped Glass.md",
+    "Petrichor/Lore/Items/Boss/Pearl.md",
     "Petrichor/Lore/Items/Lunar/Purity.md",
-    "Petrichor/Lore/Items/Lunar/Mercurial Rachis.md",
-    "Petrichor/Lore/Items/Lunar/Longstanding Solitude.md",
-    "Petrichor/Lore/Items/Lunar/Light Flux Pauldron.md",
-    "Petrichor/Lore/Items/Lunar/Hooks of Heresy.md",
-    "Petrichor/Lore/Items/Lunar/Gesture of the Drowned.md",
-    "Petrichor/Lore/Items/Lunar/Focused Convergence.md",
-    "Petrichor/Lore/Items/Lunar/Eulogy Zero.md",
-    "Petrichor/Lore/Items/Lunar/Essence of Heresy.md",
-    "Petrichor/Lore/Items/Lunar/Egocentrism.md",
+    "Petrichor/Lore/Items/Lunar/Neutronium Weight.md",
+    "Petrichor/Lore/Items/Red/Substandard Duplicator.md",
+    "Petrichor/Lore/Items/Red/Orphaned Core.md",
+    "Petrichor/Lore/Items/Red/Networked Suffering.md",
+    "Petrichor/Lore/Items/Red/Spare Drone Parts.md",
+    "Petrichor/Lore/Items/Red/57 Leaf Clover.md",
+    "Petrichor/Lore/Items/Red/Aegis.md",
+    "Petrichor/Lore/Items/Green/Kinetic Dampener.md",
+    "Petrichor/Lore/Items/Green/Faraday Spur.md",
+    "Petrichor/Lore/Items/White/Oddly-shaped Opal.md",
+    "Petrichor/Lore/Items/Green/Collector's Compulsion.md",
+    "Petrichor/Lore/Items/Green/Ukulele.md",
+    "Pasted image 20251127211900.png",
+    "Petrichor/Lore/Items/Green/Box of Dynamite.md",
+    "Petrichor/Lore/Items/White/Hiker's Boots.md",
+    "Petrichor/Lore/Items/White/Eclipse Lite.md",
+    "Petrichor/Lore/Items/White/Crowbar.md",
+    "Petrichor/Lore/Items/Imgs/Thumb/NeutroniumWeight_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/NeutroniumWeight_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/High_Res/Neutronium_Weight.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/SentryKey_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/SentryKey_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/PrisonMatrix_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/PrisonMatrix_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/FunctionalCoupler_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/FunctionalCoupler_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/FaultyConductor_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/FaultyConductor_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/ExposedCerebellum_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/ExposedCerebellum_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/EncryptedCerebellum_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/EncryptedCerebellum_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/SubstandardDuplicator_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/SubstandardDuplicator_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/OrphanedCore_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/NetworkedSuffering_Thumb.png.0.pdnSave",
     "Petrichor/Lore/Items/Lunar/Defiant Gouge.md",
-    "Petrichor/Lore/Items/Lunar/Corpsebloom.md",
-    "Petrichor/Lore/Items/Lunar/Brittle Crown.md",
-    "Petrichor/Lore/Items/White/Armor-Piercing Rounds.md",
-    "Petrichor/Lore/Items/Imgs/Thumb/BrittleCrown_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/BrittleCrown_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/Corpsebloom_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/Corpsebloom_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/GestureOfTheDrowned_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/GestureOfTheDrowned_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/ShapedGlass_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/ShapedGlass_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/Transcendence_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/Transcendence_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/BeadsOfFealty_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/BeadsOfFealty_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/DefiantGouge_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/DefiantGouge_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/Egocentrism_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/Egocentrism_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/EssenceOfHeresy_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/EssenceOfHeresy_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/EulogyZero_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/EulogyZero_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Boss/Titanic Knurl.md",
-    "Petrichor/Lore/Items/Boss/Shatterspleen.md",
-    "Petrichor/Lore/Items/Boss/Queen's Gland.md",
-    "Petrichor/Lore/Items/Boss/Planula.md",
-    "Petrichor/Lore/Items/Boss/Pearl.md"
+    "Petrichor/Lore/Items/Lunar/Corpsebloom.md"
   ]
 }

@@ -29,5 +29,6 @@ For all items, see the [[Items.canvas|Items]] page.
 # <span class="lore-title-inline">Notes</span>
 This log contains a fragment of a conversation that took place on the [[UES [REDACTED]|UES [REDACTED].]]
 The log reveals the existence of the drone workshop aboard the vessel and the insight that certain drone types are only available to the exceptionably wealthy.
+Drones on the [[UES [REDACTED]|UES [REDACTED] ]]were developed in [[Workshop 23-B]].
 
 #### <span class="lore-text">Tags</span>

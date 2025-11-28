@@ -6,11 +6,11 @@ For all items, see the [[Items.canvas|Items]] page.
 ### <span class="lore-title-inline">Pickup Description</span>
 <span class="lore-text">Bombard boss events with missiles. The more gold earned, the more EUS support is granted.</span>
 # <span class="lore-title-inline">Lore</span>
-<span class="lore">Welcome to DataScraper (v3.1.53 – beta branch)
+<span class="lore"><span class="lore-mono">Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
 $ Combing for relevant data... done.
-Complete!
+Complete!</span>
 
 ATTN: VALUED SOLDIER
 Due to short-term budgetary constraints, and evolving business realities, your salary will be converted to official UES Bonds! For your convenience, this process occurs automatically. Transfer fees may apply. Ask your XO for details on further exciting investment opportunities. As the proud holder of this bond, you’re not just a soldier; you’re an investor!

@@ -34,6 +34,8 @@ The following is an audio transcript from the trial of D. Cooper, wanted for 5 c
 The remainder of this court transcript has been sealed.
 Reason: i think im gonna be sick</span>
 # <span class="lore-title-inline">Notes</span>
+This log was produced by the [[DataScraper (v3.1.53 - beta branch)]] program.
+
 This log covers a fragment recorded during the trail of [[D. Cooper]], a serial killer and the original owner of the Tri-Tip Dagger.
 
 #### <span class="lore-text">Tags</span>
