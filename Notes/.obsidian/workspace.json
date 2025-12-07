@@ -17,12 +17,26 @@
                 "file": "Petrichor/Lore/Items/Items.canvas",
                 "viewState": {
                   "x": -1525.7567434737418,
-                  "y": 1595.474960636864,
+                  "y": 1743.1032584699065,
                   "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Items"
+            }
+          },
+          {
+            "id": "0839c7f74fab63d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Petrichor/Lore/Items/Lunar/Longstanding Solitude.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Longstanding Solitude"
             }
           }
         ]
@@ -192,11 +206,17 @@
   },
   "active": "855b86b8f4838356",
   "lastOpenFiles": [
+    "Petrichor/Lore/Items/Lunar/Longstanding Solitude.md",
+    "Petrichor/Lore/Items/Items.canvas",
+    "Petrichor/Lore/Items/Lunar/Light Flux Pauldron.md",
+    "Petrichor/Lore/Items/Lunar/Stone Flux Pauldron.md",
+    "Petrichor/Lore/Items/Lunar/Gesture of the Drowned.md",
+    "Petrichor/Lore/Items/Lunar/Focused Convergence.md",
+    "Petrichor/Lore/Items/Lunar/Eulogy Zero.md",
     "Petrichor/Lore/Items/Lunar/Essence of Heresy.md",
     "Petrichor/Lore/Items/Lunar/Hooks of Heresy.md",
     "Petrichor/Lore/Items/Lunar/Strides of Heresy.md",
     "Petrichor/Lore/Items/Lunar/Visions of Heresy.md",
-    "Petrichor/Lore/Items/Items.canvas",
     "Petrichor/Lore/Items/Lunar/Egocentrism.md",
     "Petrichor/Lore/Items/Lunar/Defiant Gouge.md",
     "Petrichor/Lore/Items/White/Bolstering Lantern.md",
@@ -213,12 +233,6 @@
     "Petrichor/Lore/Items/Boss/Exposed Cerebellum.md",
     "Petrichor/Lore/Items/Lunar/Corpsebloom.md",
     "Petrichor/Lore/Items/Boss/Pearl.md",
-    "Petrichor/Lore/Items/Lunar/Purity.md",
-    "Petrichor/Lore/Items/Lunar/Neutronium Weight.md",
-    "Petrichor/Lore/Items/Red/Orphaned Core.md",
-    "Petrichor/Lore/Items/Red/Networked Suffering.md",
-    "Petrichor/Lore/Items/Red/Spare Drone Parts.md",
-    "Petrichor/Lore/Items/Red/57 Leaf Clover.md",
     "Pasted image 20251127211900.png",
     "Petrichor/Lore/Items/Imgs/Thumb/NeutroniumWeight_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/NeutroniumWeight_Thumb.png.0.pdnSave",
