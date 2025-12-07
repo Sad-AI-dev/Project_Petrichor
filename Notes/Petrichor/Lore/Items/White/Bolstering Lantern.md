@@ -29,8 +29,7 @@ HOW WILL IT MAKE FRIENDS WITHOUT SOUL, ELDER ONE?</span>
 The log covers a conversation between an [[Elder Lemurian]] and a [[Grovetender]]. The pair is in the process of creating the [[False Son]].
 The \[power\] mentioned is likely for spirit. This same powder is used by a [[Grovetender]] in the [[Lesser Wisp]] and [[Greater Wisp]] logs.
 
-It is unclear what the desecrated fragment is.
+The `desecrated fragment` likely refers to the [[Bolstering Lantern]] itself.
 
 The log also shows that the [[Wisp Family]] and [[Lemurian Family]] are capable of communicating and cooperating when unified by their reverence of [[Providence]].
 #### <span class="lore-text">Tags</span>
-#unsolved

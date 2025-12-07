@@ -12,7 +12,7 @@ For all items, see the [[Items.canvas|Items]] page.
 # <span class="lore-title-inline">Notes</span>
 This log is a reference to the RoRR log, which reveals that the item is being shipped to an elderly home on [[Venus]].
 The item is being shipped by the [[UES Contact Light]].
-Some other item is being shipped to [[Io]], it is unclear which item this is in reference to.
 
+Some other item is being shipped to [[Io]], it is unclear which item this is in reference to.
 #### <span class="lore-text">Tags</span>
 #unsolved
