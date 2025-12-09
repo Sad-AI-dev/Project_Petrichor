@@ -129,8 +129,6 @@
 		{"id":"fe19b3b9814625b3","type":"text","text":"<span class=\"card\">![[WarBonds_Thumb.png]]\n[[War Bonds]]</span>","x":1120,"y":3580,"width":180,"height":240,"color":"1"},
 		{"id":"403ce776e55282c6","type":"text","text":"<span class=\"card\">![[SubstandardDuplicator_Thumb.png]]\n[[Substandard Duplicator]]</span>","x":320,"y":3580,"width":180,"height":240,"color":"1"},
 		{"id":"fcc0ed81b1e260ea","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"blue\">Lunar</span> <span class=\"orange\">Equipment</span></span></span>","x":-2040,"y":1840,"width":980,"height":140,"color":"#3d82ae"},
-		{"id":"33a7ec123b044afb","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\">Meal</span>","x":-2040,"y":2260,"width":980,"height":140},
-		{"id":"ce171da96edefa0f","x":-2320,"y":2300,"width":250,"height":60,"type":"text","text":"TODO: figure out color and styling for meal items"},
 		{"id":"feee89b1a0319e65","type":"text","text":"<span class=\"card\">![[BeadsOfFealty_Thumb.png]]\n[[Beads of Fealty]]</span>","x":-2440,"y":1000,"width":180,"height":240,"color":"#3d82ae"},
 		{"id":"4afa368124cfd533","type":"text","text":"<span class=\"card\">![[HooksOfHeresy_Thumb.png]]\n[[Hooks of Heresy]]</span>","x":-2440,"y":1260,"width":180,"height":240,"color":"#3d82ae"},
 		{"id":"0488e9d4980d02d4","type":"text","text":"<span class=\"card\">![[BrittleCrown_Thumb.png]]\n[[Brittle Crown]]</span>","x":-2240,"y":1000,"width":180,"height":240,"color":"#3d82ae"},
@@ -169,7 +167,13 @@
 		{"id":"49e4a321d017cdcd","type":"text","text":"<span class=\"card\">![[MiredUrn_Thumb.png]]\n[[Mired Urn]]</span>","x":-1640,"y":240,"width":180,"height":240,"color":"3"},
 		{"id":"424146e614478865","type":"text","text":"<span class=\"card\">![[MoltenPerforator_Thumb.png]]\n[[Molten Perforator]]</span>","x":-1440,"y":240,"width":180,"height":240,"color":"3"},
 		{"id":"b33e24a204cc830c","type":"text","text":"<span class=\"card\">![[SentryKey_Thumb.png]]\n[[Sentry Key]]</span>","x":-2240,"y":500,"width":180,"height":240,"color":"3"},
-		{"id":"32e70f7991258987","type":"text","text":"<span class=\"card\">![[PrisonMatrix_Thumb.png]]\n[[Prison Matrix]]</span>","x":-840,"y":240,"width":180,"height":240,"color":"3"}
+		{"id":"32e70f7991258987","type":"text","text":"<span class=\"card\">![[PrisonMatrix_Thumb.png]]\n[[Prison Matrix]]</span>","x":-840,"y":240,"width":180,"height":240,"color":"3"},
+		{"id":"33a7ec123b044afb","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"orange\">Meal</span></span>","x":-2040,"y":2340,"width":980,"height":140,"color":"2"},
+		{"id":"7588495fb3ad8613","type":"text","text":"<span class=\"card\">![[HelfireTincture_Thumb.png]]\n[[Helfire Tincture]]</span>","x":-2040,"y":2020,"width":180,"height":240,"color":"#3d82ae"},
+		{"id":"ef74321fef166fef","type":"text","text":"<span class=\"card\">![[SpinelTonic_Thumb.png]]\n[[Spinel Tonic]]</span>","x":-1840,"y":2020,"width":180,"height":240,"color":"#3d82ae"},
+		{"id":"020186975bf4ee36","type":"text","text":"<span class=\"card\">![[GlowingMeteorite_Thumb.png]]\n[[Glowing Meteorite]]</span>","x":-2240,"y":2020,"width":180,"height":240,"color":"#3d82ae"},
+		{"id":"dd12bfb0e387127e","type":"text","text":"<span class=\"card\">![[EffigyOfGrief_Thumb.png]]\n[[Effigy of Grief]]</span>","x":-2440,"y":2020,"width":180,"height":240,"color":"#3d82ae"},
+		{"id":"3ad3bb3907402cd0","type":"text","text":"<span class=\"card\">![[SpinelTonic_Thumb.png]]\n[[Spinel Tonic]]</span>","x":-2440,"y":2520,"width":180,"height":240,"color":"2"}
 	],
 	"edges":[]
 }

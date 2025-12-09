@@ -16,9 +16,9 @@
               "state": {
                 "file": "Petrichor/Lore/Items/Items.canvas",
                 "viewState": {
-                  "x": -1525.7567434737418,
-                  "y": 1743.1032584699065,
-                  "zoom": -0.6666666666666665
+                  "x": -1538.327247849788,
+                  "y": 2343.9601617512176,
+                  "zoom": -1.333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -26,20 +26,17 @@
             }
           },
           {
-            "id": "0839c7f74fab63d3",
+            "id": "904b678f63c9af24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Petrichor/Lore/Items/Lunar/Longstanding Solitude.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Longstanding Solitude"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "481ea692187464fd",
@@ -204,10 +201,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "855b86b8f4838356",
+  "active": "904b678f63c9af24",
   "lastOpenFiles": [
-    "Petrichor/Lore/Items/Lunar/Longstanding Solitude.md",
     "Petrichor/Lore/Items/Items.canvas",
+    "Petrichor/Lore/Items/White/Power Elixir.md",
+    "Petrichor/Lore/Items/Lunar/Spinel Tonic.md",
+    "Petrichor/Lore/Items/Imgs/High_Res/Tonic_Affliction.webp",
+    "Petrichor/Lore/Items/Lunar/Helfire Tincture.md",
+    "Petrichor/Lore/Items/Lunar/Glowing Meteorite.md",
+    "Petrichor/Lore/Items/Lunar/Effigy of Grief.md",
+    "Petrichor/Lore/Items/Lunar/Purity.md",
+    "Petrichor/Lore/Items/Imgs/Thumb/SpinelTonic_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/SpinelTonic_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/HelfireTincture_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/HelfireTincture_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/GlowingMeteorite_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/GlowingMeteorite_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/GlowingMeteorite_Thumb.pdn",
+    "Petrichor/Lore/Items/Imgs/Thumb/GlowingMeteorite_Thumb.pdn.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb/EffigyOfGrief_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb/EffigyOfGrief_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/High_Res/Effigy_of_Grief.webp",
+    "Petrichor/Lore/Items/Imgs/High_Res/Glowing_Meteorite.webp",
+    "Petrichor/Lore/Items/Imgs/High_Res/Helfire_Tincture.webp",
+    "Petrichor/Lore/Items/Imgs/High_Res/Spinel_Tonic.webp",
+    "Petrichor/Lore/Items/Lunar/Transcendence.md",
+    "Petrichor/Lore/Items/Lunar/Shaped Glass.md",
+    "Petrichor/Lore/Items/Lunar/Corpsebloom.md",
+    "Petrichor/Lore/Items/Lunar/Neutronium Weight.md",
+    "Petrichor/Lore/Items/Lunar/Mercurial Rachis.md",
+    "Petrichor/Lore/Items/Lunar/Longstanding Solitude.md",
     "Petrichor/Lore/Items/Lunar/Light Flux Pauldron.md",
     "Petrichor/Lore/Items/Lunar/Stone Flux Pauldron.md",
     "Petrichor/Lore/Items/Lunar/Gesture of the Drowned.md",
@@ -221,37 +244,10 @@
     "Petrichor/Lore/Items/Lunar/Defiant Gouge.md",
     "Petrichor/Lore/Items/White/Bolstering Lantern.md",
     "Petrichor/Lore/Items/Red/Bottled Chaos.md",
-    "Petrichor/Lore/Items/Green/Red Whip.md",
-    "Petrichor/Lore/Items/Red/Substandard Duplicator.md",
-    "Petrichor/Lore/Items/Boss/Sentry Key.md",
-    "Petrichor/Lore/Items/Boss/Prison Matrix.md",
-    "Petrichor/Lore/Items/Boss/Functional Coupler.md",
-    "Petrichor/Lore/Items/Boss/Faulty Conductor.md",
-    "Petrichor/Lore/Items/Boss/Defense Nucleus.md",
-    "Petrichor/Lore/Items/Boss/Charged Perforator.md",
-    "Petrichor/Lore/Items/Boss/Encrypted Cerebellum.md",
-    "Petrichor/Lore/Items/Boss/Exposed Cerebellum.md",
-    "Petrichor/Lore/Items/Lunar/Corpsebloom.md",
-    "Petrichor/Lore/Items/Boss/Pearl.md",
     "Pasted image 20251127211900.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/NeutroniumWeight_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/NeutroniumWeight_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/High_Res/Neutronium_Weight.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/SentryKey_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/SentryKey_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/PrisonMatrix_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/PrisonMatrix_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/FunctionalCoupler_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/FunctionalCoupler_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/FaultyConductor_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/FaultyConductor_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/ExposedCerebellum_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/ExposedCerebellum_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/EncryptedCerebellum_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/EncryptedCerebellum_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/SubstandardDuplicator_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/SubstandardDuplicator_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/OrphanedCore_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/NetworkedSuffering_Thumb.png.0.pdnSave"
+    "Petrichor/Lore/Items/Imgs/Thumb/FunctionalCoupler_Thumb.png.0.pdnSave"
   ]
 }
