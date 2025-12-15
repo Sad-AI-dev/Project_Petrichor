@@ -173,7 +173,11 @@
 		{"id":"ef74321fef166fef","type":"text","text":"<span class=\"card\">![[SpinelTonic_Thumb.png]]\n[[Spinel Tonic]]</span>","x":-1840,"y":2020,"width":180,"height":240,"color":"#3d82ae"},
 		{"id":"020186975bf4ee36","type":"text","text":"<span class=\"card\">![[GlowingMeteorite_Thumb.png]]\n[[Glowing Meteorite]]</span>","x":-2240,"y":2020,"width":180,"height":240,"color":"#3d82ae"},
 		{"id":"dd12bfb0e387127e","type":"text","text":"<span class=\"card\">![[EffigyOfGrief_Thumb.png]]\n[[Effigy of Grief]]</span>","x":-2440,"y":2020,"width":180,"height":240,"color":"#3d82ae"},
-		{"id":"3ad3bb3907402cd0","type":"text","text":"<span class=\"card\">![[SpinelTonic_Thumb.png]]\n[[Spinel Tonic]]</span>","x":-2440,"y":2520,"width":180,"height":240,"color":"2"}
+		{"id":"3ad3bb3907402cd0","type":"text","text":"<span class=\"card\">![[HeartyStew_Thumb.png]]\n[[Hearty Stew]]</span>","x":-2440,"y":2520,"width":180,"height":240,"color":"2"},
+		{"id":"ba0aaf318e567f25","type":"text","text":"<span class=\"card\">![[QuickFix_Thumb.png]]\n[[Quick Fix]]</span>","x":-2240,"y":2520,"width":180,"height":240,"color":"2"},
+		{"id":"d1e7f420fae679bc","type":"text","text":"<span class=\"card\">![[SauteedWorms_Thumb.png]]\n[[Sautéed Worms]]</span>","x":-2040,"y":2520,"width":180,"height":240,"color":"2"},
+		{"id":"3fcb546fde007bc4","type":"text","text":"<span class=\"card\">![[SearedSteak_Thumb.png]]\n[[Seared Steak]]</span>","x":-1840,"y":2520,"width":180,"height":240,"color":"2"},
+		{"id":"158f8c4ba3af0673","type":"text","text":"<span class=\"card\">![[UltimateMeal_Thumb.png]]\n[[Ultimate Meal]]</span>","x":-1640,"y":2520,"width":180,"height":240,"color":"2"}
 	],
 	"edges":[]
 }
