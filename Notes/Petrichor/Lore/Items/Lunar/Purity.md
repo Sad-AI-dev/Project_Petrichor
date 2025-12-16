@@ -12,10 +12,11 @@ It tastes like spiced fruit, sweet and hot.
 It feels like solar winds, and solar chimes.
 It sounds like two brothers, chasing glass frogs in the sun.</span>
 # <span class="lore-title-inline">Notes</span>
-Supposedly, the [[Purity]] resembles [[starseed]].
+Supposedly, the [[Purity]] resembles [[Starseed]].
 
 The spiced fruit, which tastes sweet and hot may be in reference to [[kifruit]].
 
 The two brothers referred to are [[Providence]] and [[Mithrix]].
+The chasing of [[Glass Frog|Glass Frogs]] is mentioned.
 
 #### <span class="lore-text">Tags</span>
