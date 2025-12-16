@@ -37,7 +37,7 @@
 		{"id":"5cc981f463db2f80","type":"text","text":"<span class=\"card\">![[NkuhanasOpinion_Thumb.png]]\n[[N'kuhana's Opinion]]</span>","x":-280,"y":3320,"width":180,"height":240,"color":"1"},
 		{"id":"f03bceb644cc1228","type":"text","text":"<span class=\"card\">![[LaserScope_Thumb.png]]\n[[Laser Scope]]</span>","x":-480,"y":3320,"width":180,"height":240,"color":"1"},
 		{"id":"1b6dca8d85aafd8b","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"purple\">Void</span> White</span></span>","x":1880,"y":-200,"width":980,"height":140,"color":"6"},
-		{"id":"c058bc7330edc2c4","type":"text","text":"<span class=\"card\">![[ArmorPiercingRounds_Thumb.png]]\n[[Armor-Piercing Rounds]]</span>","x":1480,"y":-20,"width":180,"height":240,"color":"6"},
+		{"id":"c058bc7330edc2c4","type":"text","text":"<span class=\"card\">![[EncrustedKey_Thumb.png]]\n[[Encrusted Key]]</span>","x":1480,"y":-20,"width":180,"height":240,"color":"6"},
 		{"id":"962bd67adfd1e39f","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"yellow\">Boss</span></span></span>","x":-2040,"y":-200,"width":980,"height":140,"color":"3"},
 		{"id":"86edd6ca683b3e23","type":"text","text":"<span class=\"card\">![[ArtifactKey_Thumb.png]]\n[[Artifact Key]]</span>","x":-2440,"y":-20,"width":180,"height":240,"color":"3"},
 		{"id":"331aa2ced75b43a4","type":"text","text":"<span class=\"card\">![[ChargedPerforator_Thumb.png]]\n[[Charged Perforator]]</span>","x":-2240,"y":-20,"width":180,"height":240,"color":"3"},
@@ -177,7 +177,23 @@
 		{"id":"ba0aaf318e567f25","type":"text","text":"<span class=\"card\">![[QuickFix_Thumb.png]]\n[[Quick Fix]]</span>","x":-2240,"y":2520,"width":180,"height":240,"color":"2"},
 		{"id":"d1e7f420fae679bc","type":"text","text":"<span class=\"card\">![[SauteedWorms_Thumb.png]]\n[[Sautéed Worms]]</span>","x":-2040,"y":2520,"width":180,"height":240,"color":"2"},
 		{"id":"3fcb546fde007bc4","type":"text","text":"<span class=\"card\">![[SearedSteak_Thumb.png]]\n[[Seared Steak]]</span>","x":-1840,"y":2520,"width":180,"height":240,"color":"2"},
-		{"id":"158f8c4ba3af0673","type":"text","text":"<span class=\"card\">![[UltimateMeal_Thumb.png]]\n[[Ultimate Meal]]</span>","x":-1640,"y":2520,"width":180,"height":240,"color":"2"}
+		{"id":"158f8c4ba3af0673","type":"text","text":"<span class=\"card\">![[UltimateMeal_Thumb.png]]\n[[Ultimate Meal]]</span>","x":-1640,"y":2520,"width":180,"height":240,"color":"2"},
+		{"id":"af2d0f285637764e","type":"text","text":"<span class=\"card\">![[LostSeersLenses_Thumb.png]]\n[[Lost Seer's Lenses]]</span>","x":1680,"y":-20,"width":180,"height":240,"color":"6"},
+		{"id":"68117df1508cdbf5","type":"text","text":"<span class=\"card\">![[Needletick_Thumb.png]]\n[[Needletick]]</span>","x":1880,"y":-20,"width":180,"height":240,"color":"6"},
+		{"id":"67152ca0ecd17160","type":"text","text":"<span class=\"card\">![[SaferSpaces_Thumb.png]]\n[[Safer Spaces]]</span>","x":2080,"y":-20,"width":180,"height":240,"color":"6"},
+		{"id":"33f7258b16356d3f","type":"text","text":"<span class=\"card\">![[WeepingFungus_Thumb.png]]\n[[Weeping Fungus]]</span>","x":2280,"y":-20,"width":180,"height":240,"color":"6"},
+		{"id":"c6e517a29f198153","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"purple\">Void</span> <span class=\"green\">Green</span></span></span>","x":1880,"y":300,"width":980,"height":140,"color":"6"},
+		{"id":"f0b4a5db3606b366","type":"text","text":"<span class=\"card\">![[Polylute_Thumb.png]]\n[[Polylute]]</span>","x":1880,"y":480,"width":180,"height":240,"color":"6"},
+		{"id":"aad1210580cdb71e","type":"text","text":"<span class=\"card\">![[PlasmaShrimp_Thumb.png]]\n[[Plasma Shrimp]]</span>","x":1680,"y":480,"width":180,"height":240,"color":"6"},
+		{"id":"0ae6f8b497457db5","type":"text","text":"<span class=\"card\">![[LysateCell_Thumb.png]]\n[[Lysate Cell]]</span>","x":1480,"y":480,"width":180,"height":240,"color":"6"},
+		{"id":"ce21e15d7d10451f","type":"text","text":"<span class=\"card\">![[SingularityBand_Thumb.png]]\n[[Singularity Band]]</span>","x":2080,"y":480,"width":180,"height":240,"color":"6"},
+		{"id":"83a0d6d90e731c17","type":"text","text":"<span class=\"card\">![[Tentabauble_Thumb.png]]\n[[Tentabauble]]</span>","x":2280,"y":480,"width":180,"height":240,"color":"6"},
+		{"id":"704b90199f29b40d","type":"text","text":"<span class=\"card\">![[VoidsentFlame_Thumb.png]]\n[[Voidsent Flame]]</span>","x":2480,"y":480,"width":180,"height":240,"color":"6"},
+		{"id":"648ffea207e03b59","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"purple\">Void</span> <span class=\"red\">Red</span></span></span>","x":1880,"y":800,"width":980,"height":140,"color":"6"},
+		{"id":"5a5b2c2434fb2fa8","type":"text","text":"<span class=\"card\">![[BenthicBloom_Thumb.png]]\n[[Benthic Bloom]]</span>","x":1480,"y":980,"width":180,"height":240,"color":"6"},
+		{"id":"3cc5e53e4953cbe6","type":"text","text":"<span class=\"card\">![[PluripotentLarva_Thumb.png]]\n[[Pluripotent Larva]]</span>","x":1680,"y":980,"width":180,"height":240,"color":"6"},
+		{"id":"06e5d27bf48dba21","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"purple\">Void</span> <span class=\"yellow\">Boss</span></span></span>","x":1880,"y":1300,"width":980,"height":140,"color":"6"},
+		{"id":"bc03d29f3a53c663","type":"text","text":"<span class=\"card\">![[NewlyHatchedZoea_Thumb.png]]\n[[Newly Hatched Zoea]]</span>","x":1480,"y":1480,"width":180,"height":240,"color":"6"}
 	],
 	"edges":[]
 }
