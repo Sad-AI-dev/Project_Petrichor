@@ -26,7 +26,7 @@ The full vows could be read as such:
 <span class="blue">Will you bring me fervor?</span>
 <span class="red">Will you die with me?</span>
 <span class="blue">Will you die with me?</span></span>
-The log mentions the `Syzygy` of [[Io]] and [[Europa]]. A Syzygy is an astronomical term referring to an opposition, typically between a sun and moon.
+The vows are called [[The Syzygy of Io and Europa]]. A Syzygy is an astronomical term referring to an opposition, typically between a sun and moon.
 
 In this case, it refers to the opposition between [[Io]] and [[Europa]], moons of [[Jupiter]].
 [[Europa]] is [[Jupiter|Jupiter's]] coldest moon and [[Io]] is the most volcanically active world in the solar system.

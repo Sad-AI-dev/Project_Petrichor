@@ -11,6 +11,7 @@ Estimated Delivery: 10/05/2056
 Shipping Method:  Priority
 Shipping Address: Cargo Bay 10-C, Terminal 504-B, UES Port Trailing Comet
 Shipping Details: 
+
 - Billed to: Captain [REDACTED]
 - Note from Sender:  You going on a hunting trip or something? I’ve never seen anyone order this much ammo before.</span>
 # <span class="lore-title-inline">Notes</span>

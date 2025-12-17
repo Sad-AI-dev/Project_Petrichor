@@ -7,6 +7,7 @@ For all items, see the [[Items.canvas|Items]] page.
 <span class="lore-text">Hold an additional equipment charge. Reduce equipment cooldown.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">"As humanity began to venture out into the depths of space, high-energy but low-volume fuel sources became critical for interplanetary travel. Stability came later."
+
 -Brief History of Interplanetary Advances, Vol.2</span>
 # <span class="lore-title-inline">Notes</span>
 This log is a brief snippet of the [[Brief History of Interplanetary Advances]], Vol.2 book.

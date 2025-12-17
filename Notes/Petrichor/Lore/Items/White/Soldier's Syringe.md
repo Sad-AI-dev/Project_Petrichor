@@ -9,6 +9,7 @@ For all items, see the [[Items.canvas|Items]] page.
 
 -Signal echoes, UES Contact Light</span>
 # <span class="lore-title-inline">Notes</span>
-This item was used by someone on the [[UES Contact Light]].
+This log is a [[Signal Echo]] from the [[UES Contact Light]]. 
+The [[Soldier's Syringe]] was a drug used by one of the survivors from the [[UES Contact Light]].
 
 #### <span class="lore-text">Tags</span>

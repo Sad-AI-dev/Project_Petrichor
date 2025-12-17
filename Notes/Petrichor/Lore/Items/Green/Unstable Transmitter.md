@@ -14,7 +14,7 @@ For all items, see the [[Items.canvas|Items]] page.
 
 -Signal echoes, UES Safe Travels</span>
 # <span class="lore-title-inline">Notes</span>
-This item was aboard the [[UES Safe Travels]].
+This item is a [[Signal Echo]] from the [[UES Safe Travels]].
 The log is in reference to the strange material that makes up the item. There is likely a great consequence to touching this item.
 
 #### <span class="lore-text">Tags</span>

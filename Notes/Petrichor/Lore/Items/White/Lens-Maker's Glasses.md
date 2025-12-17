@@ -15,7 +15,7 @@ If it wasn’t for that shot, I wouldn’t be here telling this story.”
 
 -Signal echoes, UES Contact Light</span>
 # <span class="lore-title-inline">Notes</span>
-This log is a fragment from a conversation between a group of survivors of the [[UES Contact Light]].
+This log is a [[Signal Echo]] from a conversation between a group of survivors from the [[UES Contact Light]].
 
 The survivor sharing the story was attacked by a [[Stone Golem]]. Upon defeating the golem, it exploded in red stone and glass.
 

@@ -10,6 +10,8 @@ For all items, see the [[Items.canvas|Items]] page.
 
 -Signal echoes, UES Contact Light</span>
 # <span class="lore-title-inline">Notes</span>
+The log is a [[Signal Echo]] from the [[UES Contact Light]].
+
 This log is a reference to the RoRR log, which reveals that the item is being shipped to an elderly home on [[Venus]].
 The item is being shipped by the [[UES Contact Light]].
 

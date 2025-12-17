@@ -11,6 +11,7 @@ Estimated Delivery: 05/04/2058
 Shipping Method:  Standard
 Shipping Address: Museum of Natural History, Ninten Island, Earth
 Shipping Details:
+
 My finest brew. Hope it doesn't spoil during transit. Remember to heat it back up to 176.23 degrees... that's when it's freshest. See you soon... Coo.</span>
 # <span class="lore-title-inline">Notes</span>
 This log is a reference to **Brewster** from *Animal Crossing*.

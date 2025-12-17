@@ -15,6 +15,8 @@ Burying them under a mound of scorpions."
 
 - Signal echoes, UES Contact Light</span>
 # <span class="lore-title-inline">Notes</span>
+The log is a [[Signal Echo]] from the [[UES Contact Light]].
+
 This log is fragment of a conversation that took place on the [[UES Contact Light]]. It suggests that the need to defeat enemies through violence is fairly common, even outside [[Petrichor V]].
 
 #### <span class="lore-text">Tags</span>

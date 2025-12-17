@@ -12,7 +12,9 @@ Hesitating, he pulls it from the wall. He recognizes the signature, his mom’s 
 
 -Signal echoes, UES Contact Light</span>
 # <span class="lore-title-inline">Notes</span>
-This log covers a small fragment of the life of Gupta, a survivor from the [[UES Contact Light]].
+The log is a [[Signal Echo]] from the [[UES Contact Light]].
+
+This log covers a small fragment of the life of [[private Gupta]], a survivor from the [[UES Contact Light]].
 It is revealed that Tharson's full name, from [[D. Furthen & Tharson]], is `Joseph Tharson`. It is revealed that he used to be a `ShockRunner` player, who played for `The Volts`.
 The Electric Boomerang was signed by Tharson himself.
 
