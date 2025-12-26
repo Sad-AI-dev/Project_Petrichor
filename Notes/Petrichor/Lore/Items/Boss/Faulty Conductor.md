@@ -13,7 +13,7 @@ Technician: C. Foreman
 Table Spec: Xenoarchaeology Kit v.2
 Notes: 
 
-> Artifact recovered from specimen #405051-B, thought to be a unique member of the Alloy Vulture species
+> Artifact recovered from specimen &#35;405051-B, thought to be a unique member of the Alloy Vulture species
 
 > While tool usage has been documented in the Vultures, this specimen wielded a seemingly customized tool: a spear
 

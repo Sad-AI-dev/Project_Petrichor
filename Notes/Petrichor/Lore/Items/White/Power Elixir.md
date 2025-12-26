@@ -22,4 +22,4 @@ This is primarily a meme reference.
 The item is being shipped to the [[UES Port Trailing Comet]].
 
 #### <span class="lore-text">Tags</span>
-#shpping_2058
+#shipping_2058

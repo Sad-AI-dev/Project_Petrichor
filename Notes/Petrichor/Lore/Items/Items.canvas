@@ -197,7 +197,7 @@
 		{"id":"4feb16fa4592c51d","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"orange\">Equipment</span></span>","x":-80,"y":3900,"width":980,"height":140,"color":"2"},
 		{"id":"cf6c0848fcdf2620","type":"text","text":"<span class=\"card\">![[BlastShower_Thumb.png]]\n[[Blast Shower]]</span>","x":-480,"y":4080,"width":180,"height":240,"color":"2"},
 		{"id":"cca53ab67bcfe8af","type":"text","text":"# <span class=\"lore-title\"><span class=\"big-3\"><span class=\"orange\">Elite Aspects</span></span>","x":-2040,"y":2840,"width":980,"height":140,"color":"2"},
-		{"id":"e847dbef3a0ddbd4","type":"text","text":"<span class=\"card\">![[HeartyStew_Thumb.png]]\n[[Hearty Stew]]</span>","x":-2440,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"e847dbef3a0ddbd4","type":"text","text":"<span class=\"card\">![[AurelionitesBlessing_Thumb.png]]\n[[Aurelionite's Blessing]]</span>","x":-2440,"y":3020,"width":180,"height":240,"color":"2"},
 		{"id":"059c0821b7bfb6f6","type":"text","text":"<span class=\"card\">![[DeusExMachina_Thumb.png]]\n[[Deus Ex Machina]]</span>","x":-280,"y":4080,"width":180,"height":240,"color":"2"},
 		{"id":"3c9bd102eb6a7462","type":"text","text":"<span class=\"card\">![[EccentricVase_Thumb.png]]\n[[Eccentric Vase]]</span>","x":120,"y":4080,"width":180,"height":240,"color":"2"},
 		{"id":"6da81148cec86299","type":"text","text":"<span class=\"card\">![[ExecutiveCard_Thumb.png]]\n[[Executive Card]]</span>","x":320,"y":4080,"width":180,"height":240,"color":"2"},
@@ -224,7 +224,16 @@
 		{"id":"d496e197a54112f3","type":"text","text":"<span class=\"card\">![[TheCrowdfunder_Thumb.png]]\n[[The Crowdfunder]]</span>","x":920,"y":4600,"width":180,"height":240,"color":"2"},
 		{"id":"b426f8368b311cb4","type":"text","text":"<span class=\"card\">![[TrophyHuntersTricorn_Thumb.png]]\n[[Trophy Hunter's Tricorn]]</span>","x":1120,"y":4600,"width":180,"height":240,"color":"2"},
 		{"id":"fd6d82fadda039c1","type":"text","text":"<span class=\"card\">![[DisposableMissileLauncher_Thumb.png]]\n[[Disposable Missile Launcher]]</span>","x":-80,"y":4080,"width":180,"height":240,"color":"2"},
-		{"id":"88bc2bd11cbb08cb","type":"text","text":"<span class=\"card\">![[VolcanicEgg_Thumb.png]]\n[[Volcanic Egg]]</span>","x":-480,"y":4860,"width":180,"height":240,"color":"2"}
+		{"id":"88bc2bd11cbb08cb","type":"text","text":"<span class=\"card\">![[VolcanicEgg_Thumb.png]]\n[[Volcanic Egg]]</span>","x":-480,"y":4860,"width":180,"height":240,"color":"2"},
+		{"id":"fc4316afa09fadf1","type":"text","text":"<span class=\"card\">![[HerBitingEmbrace_Thumb.png]]\n[[Her Biting Embrace]]</span>","x":-2240,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"20766cc90c4bc543","type":"text","text":"<span class=\"card\">![[HisReassurance_Thumb.png]]\n[[His Reassurance]]</span>","x":-2040,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"c034f9283f261d2f","type":"text","text":"<span class=\"card\">![[HisSpitefulBoon_Thumb.png]]\n[[His Spiteful Boon]]</span>","x":-1840,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"08ca5f9a7a45e1ad","type":"text","text":"<span class=\"card\">![[IfritsDistinction_Thumb.png]]\n[[Ifrit's Distinction]]</span>","x":-1640,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"5a159ddb612030ce","type":"text","text":"<span class=\"card\">![[N'kuhanasRetort_Thumb.png]]\n[[N'kuhana's Retort]]</span>","x":-1440,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"a7266f706191912d","type":"text","text":"<span class=\"card\">![[OfOneMind_Thumb.png]]\n[[Of One Mind]]</span>","x":-1240,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"d771fcae1fbd1f43","type":"text","text":"<span class=\"card\">![[SharedDesign_Thumb.png]]\n[[Shared Design]]</span>","x":-1040,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"ccdb61f1df1cc153","type":"text","text":"<span class=\"card\">![[SilenceBetweenTwoStrikes_Thumb.png]]\n[[Silence Between Two Strikes]]</span>","x":-840,"y":3020,"width":180,"height":240,"color":"2"},
+		{"id":"76dce1c72909c7ab","type":"text","text":"<span class=\"card\">![[SpectralCirclet_Thumb.png]]\n[[Spectral Circlet]]</span>","x":-2440,"y":3280,"width":180,"height":240,"color":"2"}
 	],
 	"edges":[]
 }
