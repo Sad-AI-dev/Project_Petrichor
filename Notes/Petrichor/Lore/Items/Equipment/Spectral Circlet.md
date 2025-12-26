@@ -7,7 +7,7 @@ For all items, see the [[Items.canvas|Items]] page.
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">N/A</span>
 # <span class="lore-title-inline">Notes</span>
-The [[Elite Aspects]] are a collection of items that resemble a morsel of power being granted by a higher power.
+The [[Elite Aspects_old]] are a collection of items that resemble a morsel of power being granted by a higher power.
 
 It is unclear who granted this power, as no known greater entity is connected to the concept of incorporeality. It could theoretically be [[Providence]], but there is no evidence suggesting this is the case.
 

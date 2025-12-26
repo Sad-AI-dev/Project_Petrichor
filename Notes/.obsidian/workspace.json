@@ -9,6 +9,23 @@
         "dimension": 77.4746192893401,
         "children": [
           {
+            "id": "2696abddd79bc09c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Petrichor/Lore/Creatures/Creatures.canvas",
+                "viewState": {
+                  "x": 50.246000207989624,
+                  "y": 699.8570532227073,
+                  "zoom": -1.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Creatures"
+            }
+          },
+          {
             "id": "855b86b8f4838356",
             "type": "leaf",
             "state": {
@@ -16,27 +33,13 @@
               "state": {
                 "file": "Petrichor/Lore/Items/Items.canvas",
                 "viewState": {
-                  "x": 417.83136034442316,
-                  "y": 4374.052839837113,
-                  "zoom": -0.6666666666666667
+                  "x": 287.46295731456087,
+                  "y": 240.37144467519624,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Items"
-            }
-          },
-          {
-            "id": "cdcf255a558b0204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Petrichor/Lore/Items/Elite Aspects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elite Aspects"
             }
           }
         ]
@@ -204,41 +207,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "855b86b8f4838356",
+  "active": "2696abddd79bc09c",
   "lastOpenFiles": [
-    "Petrichor/Lore/Items/Elite Aspects.md",
+    "Petrichor/Lore/Items/Items.canvas",
+    "Petrichor/Lore/Creatures/Creatures.canvas",
+    "Petrichor/Lore/Creatures/Pages",
+    "Petrichor/Lore/Items/Equipment/Ifrit's Distinction.md",
+    "Petrichor/Lore/Items/Elite Aspects.canvas",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixGlacial.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixVoidtouched.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixTwisted.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixPerfected.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixBlazing.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixMalachite.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixOverloading.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixMending.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixGilded.png",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixCollective.png",
+    "Petrichor/Lore/Items/Elite Aspects_old.md",
+    "Petrichor/Lore/Items/Imgs/Elite_Effects",
+    "Petrichor/Lore/Items/Imgs/New folder",
+    "Petrichor/Lore/Items/Lunar/Mercurial Rachis.md",
+    "Petrichor/Lore/Items/Green/Hunter's Harpoon.md",
+    "Petrichor/Lore/Items/Red/Shattering Justice.md",
     "Petrichor/Lore/Items/Equipment/Spectral Circlet.md",
     "Petrichor/Lore/Items/Equipment/Silence Between Two Strikes.md",
     "Petrichor/Lore/Items/Equipment/Shared Design.md",
-    "Petrichor/Lore/Items/Items.canvas",
     "Petrichor/Lore/Items/Equipment/Of One Mind.md",
     "Petrichor/Lore/Items/Equipment/N'kuhana's Retort.md",
-    "Petrichor/Lore/Items/Equipment/Ifrit's Distinction.md",
     "Petrichor/Lore/Items/Equipment/His Spiteful Boon.md",
     "Petrichor/Lore/Items/Equipment/His Reassurance.md",
     "Petrichor/Lore/Items/Equipment/Her Biting Embrace.md",
     "Petrichor/Lore/Items/Equipment/Aurelionite's Blessing.md",
     "Petrichor/Lore/Items/Meal/Ultimate Meal.md",
-    "Petrichor/Lore/Items/Imgs/Thumb/SpectralCirclet_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/SpectralCirclet_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/SilenceBetweenTwoStrikes_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/SilenceBetweenTwoStrikes_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/SharedDesign_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/SharedDesign_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/OfOneMind_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/OfOneMind_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/N'kuhanasRetort_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/N'kuhanasRetort_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/IfritsDistinction_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/IfritsDistinction_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/HisSpitefulBoon_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb/HisSpitefulBoon_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/HisReassurance_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/HisReassurance_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/HerBitingEmbrace_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/HerBitingEmbrace_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/AurelionitesBlessing_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb/AurelionitesBlessing_Thumb.png.0.pdnSave",
     "Petrichor/Lore/Items/Equipment/Volcanic Egg.md",
     "Petrichor/Lore/Items/Boss/Faulty Conductor.md",
     "Petrichor/Lore/Items/White/Power Elixir.md",
@@ -248,9 +256,6 @@
     "Petrichor/Lore/Items/Equipment/The Back-up.md",
     "Petrichor/Lore/Items/Equipment/Super Massive Leech.md",
     "Petrichor/Lore/Items/Equipment/Seed of Life.md",
-    "Petrichor/Lore/Items/Equipment/Sawmerang.md",
-    "Petrichor/Lore/Items/Equipment/Royal Capacitor.md",
-    "Petrichor/Lore/Items/Equipment/Remote Caffeinator.md",
-    "Petrichor/Lore/Items/Equipment/Recycler.md"
+    "Petrichor/Lore/Items/Equipment/Sawmerang.md"
   ]
 }

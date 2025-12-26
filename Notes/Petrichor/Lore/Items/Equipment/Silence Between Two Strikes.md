@@ -7,7 +7,7 @@ For all items, see the [[Items.canvas|Items]] page.
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">N/A</span>
 # <span class="lore-title-inline">Notes</span>
-The [[Elite Aspects]] are a collection of items that resemble a morsel of power being granted by a higher power.
+The [[Elite Aspects_old]] are a collection of items that resemble a morsel of power being granted by a higher power.
 
 It is unclear who granted this power, as no major entities are generally connected with the theme of lightning. The strongest known entity connected to lightning is the [[Overloading Worm]], but it is unlikely that they are the entity responsible for giving this power.
 
