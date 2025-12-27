@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 4816617
       }
+    },
+    {
+      "query": "path:Petrichor/Lore/Creatures  ",
+      "color": {
+        "a": 1,
+        "rgb": 14039096
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3213363860503421,
+  "scale": 0.11660891579456717,
   "close": true
 }

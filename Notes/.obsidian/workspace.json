@@ -16,9 +16,9 @@
               "state": {
                 "file": "Petrichor/Lore/Creatures/Creatures.canvas",
                 "viewState": {
-                  "x": 50.246000207989624,
-                  "y": 699.8570532227073,
-                  "zoom": -1.6666666666666665
+                  "x": 16.10446184705586,
+                  "y": 1222.616244498874,
+                  "zoom": -1.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -33,9 +33,9 @@
               "state": {
                 "file": "Petrichor/Lore/Items/Items.canvas",
                 "viewState": {
-                  "x": 287.46295731456087,
-                  "y": 240.37144467519624,
-                  "zoom": -1.6666666666666665
+                  "x": -1502.2154661115248,
+                  "y": 1439.9705666703908,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -209,24 +209,34 @@
   },
   "active": "2696abddd79bc09c",
   "lastOpenFiles": [
+    "Petrichor/Lore/Creatures/Imgs/Thumb/SolusHeart_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/SolusHeart_Thumb.png.0.pdnSave",
     "Petrichor/Lore/Items/Items.canvas",
     "Petrichor/Lore/Creatures/Creatures.canvas",
-    "Petrichor/Lore/Creatures/Pages",
+    "Petrichor/Music/Music_Temp.md",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/SolusHeart_Thumb.pdn",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/SolusHeart_Thumb.pdn.0.pdnSave",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/AlloyHunter_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/AlloyHunter_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/AlloyWorshipUnit_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/AlloyWorshipUnit_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/Aurelionite_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/Aurelionite_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/BeetleQueen_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/BeetleQueen_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/ClayDunestrider_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/ClayDunestrider_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/FalseSonBoss_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/FalseSonBoss_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/Grandparent_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/Grandparent_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/Grovetender_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/ImpOverlord_Thumb.png",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/MagmaWorm_Thumb.png",
+    "Petrichor/Lore/Lore Reference.md",
     "Petrichor/Lore/Items/Equipment/Ifrit's Distinction.md",
     "Petrichor/Lore/Items/Elite Aspects.canvas",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixGlacial.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixVoidtouched.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixTwisted.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixPerfected.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixBlazing.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixMalachite.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixOverloading.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixMending.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixGilded.png",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects/64px-Status_AffixCollective.png",
     "Petrichor/Lore/Items/Elite Aspects_old.md",
-    "Petrichor/Lore/Items/Imgs/Elite_Effects",
-    "Petrichor/Lore/Items/Imgs/New folder",
     "Petrichor/Lore/Items/Lunar/Mercurial Rachis.md",
     "Petrichor/Lore/Items/Green/Hunter's Harpoon.md",
     "Petrichor/Lore/Items/Red/Shattering Justice.md",
@@ -240,13 +250,6 @@
     "Petrichor/Lore/Items/Equipment/Her Biting Embrace.md",
     "Petrichor/Lore/Items/Equipment/Aurelionite's Blessing.md",
     "Petrichor/Lore/Items/Meal/Ultimate Meal.md",
-    "Petrichor/Lore/Items/Imgs/Thumb/SpectralCirclet_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/SilenceBetweenTwoStrikes_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/SharedDesign_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/OfOneMind_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/N'kuhanasRetort_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/IfritsDistinction_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb/HisSpitefulBoon_Thumb.png.0.pdnSave",
     "Petrichor/Lore/Items/Equipment/Volcanic Egg.md",
     "Petrichor/Lore/Items/Boss/Faulty Conductor.md",
     "Petrichor/Lore/Items/White/Power Elixir.md",
@@ -254,8 +257,6 @@
     "Petrichor/Lore/Items/Equipment/The Crowdfunder.md",
     "Petrichor/Lore/Items/Green/Old Guillotine.md",
     "Petrichor/Lore/Items/Equipment/The Back-up.md",
-    "Petrichor/Lore/Items/Equipment/Super Massive Leech.md",
-    "Petrichor/Lore/Items/Equipment/Seed of Life.md",
-    "Petrichor/Lore/Items/Equipment/Sawmerang.md"
+    "Petrichor/Lore/Items/Equipment/Super Massive Leech.md"
   ]
 }
