@@ -15,10 +15,17 @@
       }
     },
     {
-      "query": "path:Petrichor/Lore/Creatures  ",
+      "query": "path:Petrichor/Lore/Creatures/Pages  ",
       "color": {
         "a": 1,
         "rgb": 14039096
+      }
+    },
+    {
+      "query": "path:Petrichor/Lore/Creatures/FamilyPages  ",
+      "color": {
+        "a": 1,
+        "rgb": 11082009
       }
     }
   ],
@@ -27,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.08317427835927121,
+  "scale": 0.22920135941748013,
   "close": true
 }

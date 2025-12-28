@@ -16,9 +16,9 @@
               "state": {
                 "file": "Petrichor/Lore/Creatures/Creatures.canvas",
                 "viewState": {
-                  "x": -26.650427169070838,
-                  "y": 1299.143722981986,
-                  "zoom": -1.6666666666666663
+                  "x": 40.7010730890795,
+                  "y": 1359.679626266716,
+                  "zoom": -1.4158775463702866
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -190,10 +190,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "110af8e63f2c31a3",
+  "active": "2696abddd79bc09c",
   "lastOpenFiles": [
     "Petrichor/Lore/Creatures/Creatures.canvas",
+    "Petrichor/Lore/Creatures/FamilyPages/Beetle Family.md",
+    "Petrichor/Lore/Creatures/FamilyPages/Untitled.canvas",
+    "Petrichor/Lore/Creatures/FamilyPages",
+    "Petrichor/Lore/Items/Red/Aegis.md",
     "Petrichor/Lore/Creatures/Pages/Beetle.md",
+    "Petrichor/Lore/Creatures/Pages/Flying Beetle.md",
+    "Petrichor/Lore/Creatures/Imgs/ScreenGrabs/BirdShark.jpg",
+    "Petrichor/Lore/Creatures/Imgs/ScreenGrabs/256x212_flyingBeetle.png",
     "Petrichor/Lore/Creatures/Pages/Beetle Queen.md",
     "Petrichor/Lore/Creatures/Pages/Beetle Guard.md",
     "Petrichor/Lore/Items/Items.canvas",
@@ -216,9 +223,6 @@
     "Petrichor/Lore/Creatures/Imgs/Thumb/FalseSonBoss_Thumb.png",
     "Petrichor/Lore/Creatures/Imgs/Thumb/FalseSonBoss_Thumb.png.0.pdnSave",
     "Petrichor/Lore/Creatures/Imgs/Thumb/Grandparent_Thumb.png",
-    "Petrichor/Lore/Creatures/Imgs/Thumb/Grandparent_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Creatures/Imgs/Thumb/Grovetender_Thumb.png",
-    "Petrichor/Lore/Creatures/Imgs/Thumb/ImpOverlord_Thumb.png",
     "Petrichor/Lore/Lore Reference.md",
     "Petrichor/Lore/Items/Equipment/Ifrit's Distinction.md",
     "Petrichor/Lore/Items/Elite Aspects.canvas",
@@ -236,9 +240,6 @@
     "Petrichor/Lore/Items/Equipment/Her Biting Embrace.md",
     "Petrichor/Lore/Items/Equipment/Aurelionite's Blessing.md",
     "Petrichor/Lore/Items/Meal/Ultimate Meal.md",
-    "Petrichor/Lore/Items/Equipment/Volcanic Egg.md",
-    "Petrichor/Lore/Items/Boss/Faulty Conductor.md",
-    "Petrichor/Lore/Items/White/Power Elixir.md",
-    "Petrichor/Lore/Items/Equipment/Trophy Hunter's Tricorn.md"
+    "Petrichor/Lore/Items/Equipment/Volcanic Egg.md"
   ]
 }
