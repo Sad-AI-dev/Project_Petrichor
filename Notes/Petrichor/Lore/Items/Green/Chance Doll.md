@@ -31,4 +31,6 @@ The log goes on to mention that when the [[UES Contact Light]] crashed upon the 
 
 `Pebl` will be missed :(
 
+Visually, the [[Chance Doll]] resembles a [[Stone Golem]]. Additionally, the symbol used for a `shrine of chance` is engraved upon the chest of the doll.
+
 #### <span class="lore-text">Tags</span>

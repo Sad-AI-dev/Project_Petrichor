@@ -12,3 +12,5 @@ For all creature families, see the [[Creatures.canvas|Creatures]] page.
 The [[Beetle Family]] is found commonly all over the surface of [[Petrichor V]].
 These creatures make their home in a massive connected network of underground tunnels. 
 There seems to be some connection with tree roots.
+
+It is likely that the [[Flying Beetle|Flying Beetles]] found on the [[Beetle Queen]] are young larva capable of growing up into any of the other members of the [[Beetle Family]].

@@ -21,7 +21,7 @@ The weather here has been dreadful. It is raining every day. We have recently fo
 Anyways, I will leave Buu alone. Hope to see you soon!
 Mama</span>
 # <span class="lore-title-inline">Notes</span>
-This item is being shipped to [[Nepture]] and forms a pair with the [[Rose Buckler]] item, as they are both being send to the same person.
+This item is being shipped to [[Neptune]] and forms a pair with the [[Rose Buckler]] item, as they are both being send to the same person.
 
 #### <span class="lore-text">Tags</span>
 #shipping_2056

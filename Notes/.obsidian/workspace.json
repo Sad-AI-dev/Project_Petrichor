@@ -16,8 +16,8 @@
               "state": {
                 "file": "Petrichor/Lore/Creatures/Creatures.canvas",
                 "viewState": {
-                  "x": 40.7010730890795,
-                  "y": 1359.679626266716,
+                  "x": -177.54757347319423,
+                  "y": 1401.9699594746123,
                   "zoom": -1.4158775463702866
                 }
               },
@@ -190,14 +190,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "2696abddd79bc09c",
+  "active": "f178769d38f44506",
   "lastOpenFiles": [
+    "Petrichor/Lore/Creatures/Pages/Aurelionite.md",
+    "Petrichor/Lore/Creatures/Pages/Halcyonite.md",
+    "Petrichor/Lore/Creatures/Pages/Stone Titan.md",
     "Petrichor/Lore/Creatures/Creatures.canvas",
+    "Petrichor/Lore/Creatures/FamilyPages/Golem Family.md",
+    "Petrichor/Lore/Items/Green/Wax Quail.md",
+    "Petrichor/Lore/Creatures/FamilyPages/Construct Family.md",
+    "Petrichor/Lore/Creatures/Pages/Stone Golem.md",
+    "Petrichor/Lore/Creatures/Imgs/Thumb/StoneGolem_Thumb.png",
+    "Petrichor/Lore/Items/White/Lens-Maker's Glasses.md",
+    "Petrichor/Lore/Items/Green/Chance Doll.md",
+    "Petrichor/Lore/Creatures/Pages/Beetle.md",
     "Petrichor/Lore/Creatures/FamilyPages/Beetle Family.md",
+    "Petrichor/Lore/Creatures/Pages/Alpha Construct.md",
+    "Petrichor/Lore/Creatures/Pages/Xi Construct.md",
+    "Petrichor/Lore/Items/Boss/Faulty Conductor.md",
+    "Petrichor/Lore/Items/Red/Aegis.md",
     "Petrichor/Lore/Creatures/FamilyPages/Untitled.canvas",
     "Petrichor/Lore/Creatures/FamilyPages",
-    "Petrichor/Lore/Items/Red/Aegis.md",
-    "Petrichor/Lore/Creatures/Pages/Beetle.md",
     "Petrichor/Lore/Creatures/Pages/Flying Beetle.md",
     "Petrichor/Lore/Creatures/Imgs/ScreenGrabs/BirdShark.jpg",
     "Petrichor/Lore/Creatures/Imgs/ScreenGrabs/256x212_flyingBeetle.png",
@@ -222,24 +235,11 @@
     "Petrichor/Lore/Creatures/Imgs/Thumb/ClayDunestrider_Thumb.png.0.pdnSave",
     "Petrichor/Lore/Creatures/Imgs/Thumb/FalseSonBoss_Thumb.png",
     "Petrichor/Lore/Creatures/Imgs/Thumb/FalseSonBoss_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Creatures/Imgs/Thumb/Grandparent_Thumb.png",
     "Petrichor/Lore/Lore Reference.md",
     "Petrichor/Lore/Items/Equipment/Ifrit's Distinction.md",
     "Petrichor/Lore/Items/Elite Aspects.canvas",
     "Petrichor/Lore/Items/Elite Aspects_old.md",
     "Petrichor/Lore/Items/Lunar/Mercurial Rachis.md",
-    "Petrichor/Lore/Items/Green/Hunter's Harpoon.md",
-    "Petrichor/Lore/Items/Red/Shattering Justice.md",
-    "Petrichor/Lore/Items/Equipment/Spectral Circlet.md",
-    "Petrichor/Lore/Items/Equipment/Silence Between Two Strikes.md",
-    "Petrichor/Lore/Items/Equipment/Shared Design.md",
-    "Petrichor/Lore/Items/Equipment/Of One Mind.md",
-    "Petrichor/Lore/Items/Equipment/N'kuhana's Retort.md",
-    "Petrichor/Lore/Items/Equipment/His Spiteful Boon.md",
-    "Petrichor/Lore/Items/Equipment/His Reassurance.md",
-    "Petrichor/Lore/Items/Equipment/Her Biting Embrace.md",
-    "Petrichor/Lore/Items/Equipment/Aurelionite's Blessing.md",
-    "Petrichor/Lore/Items/Meal/Ultimate Meal.md",
-    "Petrichor/Lore/Items/Equipment/Volcanic Egg.md"
+    "Petrichor/Lore/Items/Green/Hunter's Harpoon.md"
   ]
 }
