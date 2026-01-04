@@ -1,4 +1,4 @@
-![[128px-Crowbar.webp|128]]
+![[128px-Crowbar.webp|128]] ![[Crowbar.webp|128]]
 *Crowbar* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
 
@@ -24,5 +24,21 @@ This log contains a recording between two survivors on the [[UES [REDACTED] |UES
 The log establishes that chests can get damaged to the point they can no longer be opened through purchase.
 
 The conversation likely took place after the [[UES [REDACTED] ]]arrived on [[Petrichor V]]. It is unclear if the [[UES [REDACTED] ]] has crashed at this point.
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 2941***********
+
+Order Details:</span>
+Crowbar/prybar/wrecking bar allows for both prying and smashing! Carbon steel, so it should last for a very long time, at least until the 3rd edition arrives.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Life Tower,                                     Standard
+South Wing,                                    <span class="lore-text-dark">Estimated Delivery:</span>
+Venus                                             9/1/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Venus]].
+
+The [[Crowbar]] is a 2nd edition made of Carbon steel.  It is suggested that at some point in the distant future a 3rd edition will be released.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056

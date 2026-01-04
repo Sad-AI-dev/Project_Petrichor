@@ -1,5 +1,5 @@
-![[128px-Medkit.webp|128]]
-*Medkit* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
+![[128px-Medkit.webp|128]] ![[Medkit.webp|128]]
+*Medkit* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -28,4 +28,23 @@ The dark blue combat helmet and shotgun highly suggest this.
 
 It is likely this log talks about survivors from the [[UES Contact Light]].
 
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1478***********
+
+Order Details:</span>
+Alright, big shipment coming in. Each Medkit should contain bandages, sterile dressings, soap, antiseptics, saline, gloves, scissors, aspirin, codeine, and an Epipen. Should be a huge step up from what you had before, and should.. uh, prevent any future problems like last week.  
+  
+Thanks.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+9119,                                               Standard
+Bit Hospital,                                   <span class="lore-text-dark">Estimated Delivery:</span>
+Mars                                              11/2/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Mars]].
+
+The [[Medkit]] is being sent as a large shipment to a hospital, which is likely struggling due to an ongoing conflict on [[Mars]].
+
 #### <span class="lore-text">Tags</span>
+#shipping_2056

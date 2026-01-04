@@ -21,5 +21,23 @@ It is unclear which expedition these survivors where a part of, but they remain 
 One of the individuals is referred to as `T`.
 
 It is unclear if this individual is responsive or if the log simply covers only one half of the conversation.
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1514***********
+
+Order Details:</span>
+Yeah, celebration! Bought these from a friend, forgot where he said he got them. I'm glad that we finally re-legalized residential use of fireworks in 2054 after the... well, the terrorist attacks. Disguising homing missiles as fireworks? Don't ever quote me on it, but it was pretty smart. Anyways, these are for your kids to use. Have fun!
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+PNO Fireworks                               Standard
+Quarter 1                                        <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                              07/04/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Earth]].
+
+It appears that fireworks were re-legalized in 2054 after they were banned due to a series of terrorist attacks where homing missiles were disguised as fireworks.
+
+This confirms that the events of the [[UES Contact Light]] take place after 2054.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056

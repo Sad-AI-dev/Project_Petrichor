@@ -29,4 +29,24 @@ This log covers an interaction between 2 survivors in a desert. This could poten
 
 The log shows that industrial 3D printers are assigned to a blueprint and accept almost any material.
 
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1503***********
+
+Order Details:</span>
+Jesus, okay. The only reason I'm sending you guys another shipment is because of what you did for Shelby. Consider that debt paid.  
+  
+Since you APPARENTLY didn't get my message the first time, I'll tell you again. See the orange end? Don't touch it. Once you take the wrapping off, the adhesive is ACTIVE. DON'T TOUCH IT. YOU STICK THAT END ON BAD THINGS, NOT YOURSELF.  
+  
+The cadets? Those lives are on you, not me.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Painted-Rock,                                Standard
+B.Water,                                         <span class="lore-text-dark">Estimated Delivery:</span>
+Neptune                                         3/8/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Neptune]].
+
+It seems these items are being shipped to someone the sender owes a great deal to, seemingly related to `Shelby`.
 #### <span class="lore-text">Tags</span>
+#shipping_2056

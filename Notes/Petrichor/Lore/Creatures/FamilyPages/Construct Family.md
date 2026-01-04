@@ -13,3 +13,5 @@ The members of the [[Construct Family]] can be found in select networks all over
 
 The event warning indicates that the members of the [[Construct Family]] have been around for an incredibly long time.
 Visually, the members appear to be primarily made of a material resembling stone, with a bright yellow core. It is possible these were created by [[Providence]] and / or [[Mithrix]]. The methods used in their constructions may be similar to those used in the construction of the [[Artifact Key]].
+
+Finally, it's hinted that the [[Mu Construct]] item is a young member of the [[Construct Family]].

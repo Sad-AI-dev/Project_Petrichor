@@ -49,5 +49,23 @@ This log covers a conversation between 2 survivors of the [[UES Contact Light]].
 The log establishes that the [[UES Contact Light]] went off course before crashing on [[Petrichor V]], and was supposed to be on route to [[Procyon]].
 
 Additionally, the log establishes that the [[UES Contact Light]] is capable of FTL (Faster Than Light) travel, and that this is very rare in space ships. This results in it potentially taking months before help arrives.
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1477***********
+
+Order Details:</span>
+Gasoline, eh? Surprising to find a gas station these days, with everyone drivin' around them electro cars.  
+Got yourself quite a few gallons, so for the few cars and planes left runnin on gas.. this should do it!  
+Very flammable, even the fumes, so be careful now!
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Gas Station                                    Standard
+Mars                                              <span class="lore-text-dark">Estimated Delivery:</span>
+Old Lincoln                                     02/25/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Mars]].
+
+With most people having switched to electric vehicles, gas stations, and by extension gasoline, have become a rare sight.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056

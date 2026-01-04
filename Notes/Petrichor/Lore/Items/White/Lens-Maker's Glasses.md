@@ -1,5 +1,5 @@
-![[128px-Lens-Maker's_Glasses.webp|128]]
-*Lens-Maker's Glasses* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
+![[128px-Lens-Maker's_Glasses.webp|128]] ![[Lensmakersglasses.webp|128]]
+*Lens-Maker's Glasses* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -18,5 +18,25 @@ If it wasn’t for that shot, I wouldn’t be here telling this story.”
 This log is a [[Signal Echo]] from a conversation between a group of survivors from the [[UES Contact Light]].
 
 The survivor sharing the story was attacked by a [[Stone Golem]]. Upon defeating the golem, it exploded in red stone and glass.
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1525***********
+
+Order Details:</span>
+Calibrated for high focal alignment. Should allow for the precision you were asking for. I must ask.. for what reasons do you need such glasses? Surely the Department of Science would provide them for you?  
+  
+I can't think of a single.. scientific reason why you would want this. Have you been hired by [REDACTED]? If you're in trouble, you can always ask me for help.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Greivenkamp                                 Standard
+5th Houston St.                              <span class="lore-text-dark">Estimated Delivery:</span>
+Prism Tower                                  4/29/2056
+Earth</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Earth]].
+
+The individual who the [[Lens-Maker's Glasses]] are being shipped to works for `The Department of Science`. The sender suspects that the recipient may have been hired by some company and may be in danger.
+It is possible this redacted company is `UES`.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056
