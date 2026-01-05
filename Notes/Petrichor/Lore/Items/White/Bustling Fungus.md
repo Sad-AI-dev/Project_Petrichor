@@ -47,4 +47,3 @@ This log reveals that the fungus has a special property where it hides undergrou
 The fungus can be ground into a paste or directly planted upon a wound in order to make use of its healing property. The sensation of this process is rather unpleasant.
 
 #### <span class="lore-text">Tags</span>
-#shipping_1753

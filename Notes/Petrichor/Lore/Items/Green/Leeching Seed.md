@@ -1,10 +1,10 @@
-![[Leeching_Seed.webp|128]]
+![[Leeching_Seed.webp|128]] ![[Leechingseed.webp|128]]
 
-*Leeching Seed* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
+*Leeching Seed* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
-<span class="lore-text">Dealing damage health you.</span>
+<span class="lore-text">Dealing damage heals you.</span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">It was a crisp evening - and things were looking up. The botanist began walking towards the Plant Biology Complex to check on several alien plants that had been recovered from the week before.
 
@@ -28,4 +28,26 @@ The log reveals some information about the state of exploration of the universe,
 
 The main thing the log covers is the nature of the leeching seed. It's an alien plant that struggles to survive on its own, but it capable of draining nutrients from other plant matter, and perhaps other living matter.
 
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1461***********
+
+Order Details:</span>
+These seeds are recently germinating, so be quick! These flesh-infesting pods seem to burrow, balloon, and then pop in a few months. Most test patients have.. died. However, before they die, they feel increased health and state of mind!  
+In fact, the pods themselves seem to develop spores, which if collected can be turned into a pain reliever..  
+  
+Find a way to stop its growth cycle at that state, and you have yourself a great healing agent.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+3030 Matlock,                                <span class="green">Priority/Biological</span>
+Prod. Facility                                 <span class="lore-text-dark">Estimated Delivery:</span>
+Mars                                              08/4/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Mars]].
+
+The [[Leeching Seed]] is a strain of plant that feeds on flesh. When inserted it briefly provides great healing and pain relieving properties, before bursting and killing the patient.
+
+It is likely that these are a different species from the [[Leeching Seed]] seen in Risk of Rain 2.
+
 #### <span class="lore-text">Tags</span>
+#shipping_2056

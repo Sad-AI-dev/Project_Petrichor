@@ -1,6 +1,6 @@
-![[128px-Frost_Relic.webp|128]]
+![[128px-Frost_Relic.webp|128]] ![[Frostrelic.webp|128]]
 
-*Frost Relic* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
+*Frost Relic* is a **<span class="red-bg">red</span>** item from Risk of Rain 2 and a <span class="green-bg">green</span> item from Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -14,4 +14,21 @@ The frost relic is primarily noteworthy due to it's novelty.
 
 The main reveal in this log is that the crash of the [[UES Contact Light]] took place in 2056 or earlier.
 
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1422***********
+
+Order Details:</span>
+Biggest snowflake, to date. Technically, it isn't a snowflake, it's just a chunk of ice, but STILL. That's hard to sell as a museum piece. Anyways, the thing is hard as rock; I got drunk one day and dropped it on the floor, and it went right through, so don't worry about transportation.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+10681                                              <span class="green">Priority</span>
+Frozen Valley,                                <span class="lore-text-dark">Estimated Delivery:</span>
+Pluto                                              03/14/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Pluto]].
+
+The [[Frost Relic]] is an incredibly large chunk of ice in the shape of a snowflake.
+
 #### <span class="lore-text">Tags</span>
+#shipping_2056

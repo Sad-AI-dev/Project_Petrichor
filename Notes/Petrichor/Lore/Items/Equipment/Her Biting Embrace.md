@@ -7,7 +7,7 @@ For all items, see the [[Items.canvas|Items]] page.
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">N/A</span>
 # <span class="lore-title-inline">Notes</span>
-The [[Elite Aspects_old]] are a collection of items that resemble a morsel of power being granted by a higher power.
+The [[Elite Aspects.canvas|Elite Aspects]] are a collection of items that resemble a morsel of power being granted by a higher power.
 
 This item was possibly granted by [[She|Her]]. If that *is* the case, than that suggests that [[She]] had an important connection to ice.
 

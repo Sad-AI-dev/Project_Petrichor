@@ -1,4 +1,4 @@
-![[128px-Will-o'-the-wisp.webp|128]]
+![[128px-Will-o'-the-wisp.webp|128]] ![[Willothewisp.png|128]]
 
 *Will-o'-the-wisp* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
@@ -34,4 +34,21 @@ Printing...</span>
 # <span class="lore-title-inline">Notes</span>
 This log is mostly puns, has no lore relevance.
 
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1455***********
+
+Order Details:</span>
+Found the little thing on my last hike up. Tiny guy; must be a baby. He (she?) doesn't seem to eat anything at all, so I'm hoping you guys can help the fella out. I don't think he can get out of the jar; it hasn't made any attempt to.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Hidden Cubby,                                <span class="green">Priority</span>
+Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
+Venus                                            9/28/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Venus]].
+
+It appears that the [[Will-o'-the-wisp]] is a living creature that seemingly doesn't need anything to sustain itself and is perfectly content staying within the jar.
+
 #### <span class="lore-text">Tags</span>
+#shipping_2056

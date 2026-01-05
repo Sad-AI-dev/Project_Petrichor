@@ -1,6 +1,6 @@
-![[128px-AtG_Missile_Mk.webp]]
+![[128px-AtG_Missile_Mk.webp]] ![[Atgmissilemk1.png|128]]
 
-*AtG Missile Mk. 1* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
+*AtG Missile Mk. 1* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -33,4 +33,25 @@ The mention of tear gas grenades, in addition to mentions of a shotgun as the we
 
 The log explains that the missiles from this item are known as "AtG Viper Missiles". 
 The [[AtG Missile Mk. 2]] is a larger model made by the same manufacturer.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1459***********
+
+Order Details:</span>
+Shipment of [REDACTED] AtG Viper Missiles for Fort Joseph.  
+  
+Lightweight and attachable to torso for free use of both hands. Can store up to 120 heat-seaking missiles, which is just what your men need to fight off the [REDACTED]
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Fort Joseph                                   <span class="green">MILITARY</span>
+Belt Num.1053                                <span class="lore-text-dark">Estimated Delivery:</span>
+[REDACTED]                                    [REDACTED]
+Boron System</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to the [[Boron System]].
+
+The [[AtG Missile Mk. 1]] is being shipped in a large shipment to `Fort Joseph` on the [[Boron System]].
+It appears that there is an undergoing conflict on the [[Boron System]].
+
 #### <span class="lore-text">Tags</span>

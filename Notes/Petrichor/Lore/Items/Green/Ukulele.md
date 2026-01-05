@@ -1,6 +1,6 @@
-![[Ukulele.webp|128]]
+![[Ukulele.webp|128]] ![[Ukulele.png|128]]
 
-*Ukulele* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
+*Ukulele* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -21,4 +21,22 @@ He laughed, readying himself for an encore. Maybe things wouldn’t be so bad af
 This log shows a brief moment of the medical tent of the Rallypoint \[Redacted], which can be assumed to be similar to [[Rallypoint Delta]].
 A reference is made to `Jans` losing a leg in a [[Lemurian]] attack.
 
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1472***********
+
+Order Details:</span>
+Very rare artifact! An ancient ukulele, from the legendary artist born on Mars. It was said that he was a son of a god, gifted with the power of lightning himself.  
+People say that he was the most humble man.. and that his music was simply.. electric!  
+  
+NOTE: No tests have managed to make the ukulele actually generate electricity. Use with care.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Whaley Station,                              <span class="green">Priority</span>
+Box.364,                                        <span class="lore-text-dark">Estimated Delivery:</span>
+Mars                                              06/6/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Mars]]. The ukulele once belonged to a legendary artist from [[Mars]].
+
 #### <span class="lore-text">Tags</span>
+#shipping_2056
