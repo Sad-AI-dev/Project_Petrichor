@@ -1,5 +1,5 @@
 ![[128px-Backup_Magazine.webp|128]] ![[Backupmagazine.png|128]]
-*Backup Magazine* is a **<span class="gray-bg">white</span>** item that can be found in both Risk of Rain 2 and Risk of Rain Returns.
+*Backup Magazine* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>

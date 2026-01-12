@@ -1,4 +1,4 @@
-![[Ukulele.webp|128]] ![[Ukulele.png|128]]
+![[Ukulele.webp|128]] ![[Ukulele.png|120]]
 
 *Ukulele* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.

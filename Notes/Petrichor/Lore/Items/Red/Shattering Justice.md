@@ -1,6 +1,6 @@
-![[Shattering_Justice.webp|128]]
+![[Shattering_Justice.webp|128]] ![[Shatteringjustice.webp|128]]
 
-*Shattering Justice* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
+*Shattering Justice* is a **<span class="red-bg">red</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -14,5 +14,19 @@ Excerpt from section 2.13:
 Please refer back to section 1.8 for information on proper handling and the included anti-toxin gloves...</span>
 # <span class="lore-title-inline">Notes</span>
 The item releases nano toxins on impact and requires special anti-toxin gloves to wield.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Hidden Cubby,                                <span class="red">High Priority</span>
+Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
+Venus                                            9/28/2056</span>
+# <span class="lore-title-inline">Notes</span>
+
 
 #### <span class="lore-text">Tags</span>

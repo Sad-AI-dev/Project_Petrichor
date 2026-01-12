@@ -1,4 +1,4 @@
-![[128px-Infusion.webp|128]] ![[Infusion.png|128]]
+![[128px-Infusion.webp|128]] ![[Infusion.png|120]]
 
 *Infusion* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.

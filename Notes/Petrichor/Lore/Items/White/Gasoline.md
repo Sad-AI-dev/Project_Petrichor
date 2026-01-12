@@ -1,5 +1,5 @@
 ![[128px-Gasoline.webp|128]]
-*Gasoline* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
+*Gasoline* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>

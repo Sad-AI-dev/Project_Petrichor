@@ -1,6 +1,6 @@
-![[128px-Happiest_Mask.webp|128]]
+![[128px-Happiest_Mask.webp|128]] ![[Happiestmask.webp|100]]
 
-*Happiest Mask* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
+*Happiest Mask* is a **<span class="red-bg">red</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -31,5 +31,19 @@ The survivors have recovered a magical item from the wreckage of the [[UES Conta
 
 The mask has caused ghosts of recently defeated [[Lemurian|Lemurians]], [[Beetle|Beetles]] and [[Imp|Imps]] to appear.
 It appears that the mask allows the wearer to command these ghosts.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Hidden Cubby,                                <span class="red">High Priority</span>
+Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
+Venus                                            9/28/2056</span>
+# <span class="lore-title-inline">Notes</span>
+
 
 #### <span class="lore-text">Tags</span>

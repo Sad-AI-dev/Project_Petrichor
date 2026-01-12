@@ -1,4 +1,4 @@
-![[Warbanner.webp|128]]
+![[Warbanner.webp|128]] ![[Petrichor/Lore/Items/Imgs/High_Res_R/Warbanner.webp|128]]
 *Warbanner* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 

@@ -1,6 +1,6 @@
-![[Interstellar_Desk_Plant.webp|128]]
+![[Interstellar_Desk_Plant.webp|128]] ![[Interstellardeskplant.webp|128]]
 
-*Interstellar Desk Plant* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
+*Interstellar Desk Plant* is a **<span class="red-bg">red</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -19,6 +19,20 @@ I've also heard that it sorta gives off a glow that has medical benefits. That w
 # <span class="lore-title-inline">Notes</span>
 This item is being shipped to [[Earth]].
 The desk plant has a healing property that can be enjoyed by those who spend time near it.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Hidden Cubby,                                <span class="red">High Priority</span>
+Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
+Venus                                            9/28/2056</span>
+# <span class="lore-title-inline">Notes</span>
+
 
 #### <span class="lore-text">Tags</span>
 #shipping_2056

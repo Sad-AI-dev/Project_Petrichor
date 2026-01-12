@@ -1,4 +1,4 @@
-![[128px-Medkit.webp|128]] ![[Medkit.webp|128]]
+![[128px-Medkit.webp|128]] ![[Medkit.webp|120]]
 *Medkit* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 

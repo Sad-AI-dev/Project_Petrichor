@@ -1,4 +1,4 @@
-![[Soldier's_Syringe.webp|128]] ![[Soldierssyringe.webp|128]]
+![[Soldier's_Syringe.webp|128]] ![[Soldierssyringe.webp|110]]
 *Soldier's Syringe* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 

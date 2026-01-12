@@ -1,6 +1,6 @@
-![[128px-Hardlight_Afterburner.webp|128]]
+![[128px-Hardlight_Afterburner.webp|128]] ![[Hardlightafterburner.png|120]]
 
-*Hardlight Afterburner* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
+*Hardlight Afterburner* is a **<span class="red-bg">red</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -21,5 +21,20 @@ It should be obvious by its design, but to reiterate: stay away from the HL exha
 # <span class="lore-title-inline">Notes</span>
 This item is being shipped to [[Mars]].
 The item is unstable, and was used in the development of hardlight technology, which can be used to create bridges and barriers.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Hidden Cubby,                                <span class="red">High Priority</span>
+Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
+Venus                                            9/28/2056</span>
+# <span class="lore-title-inline">Notes</span>
+
+
 #### <span class="lore-text">Tags</span>
 #shipping_2056

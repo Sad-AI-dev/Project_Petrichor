@@ -1,4 +1,4 @@
-![[128px-Predatory_Instincts.webp|128]] ![[Predatoryinstincts.webp|128]]
+![[128px-Predatory_Instincts.webp|128]] ![[Predatoryinstincts.webp|110]]
 
 *Predatory Instincts* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.

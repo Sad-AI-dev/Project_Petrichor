@@ -1,4 +1,4 @@
-![[Mocha.webp|128]] ![[Mocha.png|128]]
+![[Mocha.webp|128]] ![[Mocha.png|106]]
 *Mocha* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 

@@ -1,4 +1,4 @@
-![[128px-Ceremonial_Dagger.webp|128]]
+![[128px-Ceremonial_Dagger.webp|128]] ![[Ceremonialdagger.png|128]]
 
 *Ceremonial Dagger* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
 For all items, see the [[Items.canvas|Items]] page.
@@ -38,4 +38,22 @@ The log shows how the Ceremonial Dagger is magical in nature and requires sacrif
 
 Additionally, `Marion` says: `She will save us`. The "She" mentioned refers to [[N'kuhana]]. 
 
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 1357***********
+
+Order Details:</span>
+Finally found the heretic. Foolish boy, thinking he could save his sister. With the knife returned, we can continue our rituals. Ah.. that should please Her.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Tomb 1661,                                      <span class="red">High Priority/Fragile</span>
+Burial Site,                                     <span class="lore-text-dark">Estimated Delivery:</span>
+Venus                                             7/18/2056</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Venus]].
+
+The [[Ceremonial Dagger]] belongs to followers of [[N'kuhana]].
+This log shows that the [[N'kuhana]] cult exist outside of [[Petrichor V]].
+
 #### <span class="lore-text">Tags</span>
+#shipping_2056

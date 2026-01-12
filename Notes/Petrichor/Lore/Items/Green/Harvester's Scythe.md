@@ -1,4 +1,4 @@
-![[128px-Harvester's_Scythe.webp|128]] ![[Harvestersscythe.webp|128]]
+![[128px-Harvester's_Scythe.webp|128]] ![[Harvestersscythe.webp|120]]
 
 *Harvester's Scythe* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.

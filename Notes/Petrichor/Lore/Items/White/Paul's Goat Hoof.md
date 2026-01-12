@@ -1,4 +1,4 @@
-![[Paul's_Goat_Hoof.webp|128]] ![[Paulsgoathoof.webp|128]]
+![[Paul's_Goat_Hoof.webp|128]] ![[Paulsgoathoof.webp|90]]
 *Paul's Goat Hoof* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 

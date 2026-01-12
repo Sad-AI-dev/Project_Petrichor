@@ -1,4 +1,4 @@
-![[Red_Whip.webp|128]] ![[Redwhip.webp|128]]
+![[Red_Whip.webp|128]] ![[Redwhip.webp|120]]
 
 *Red Whip* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.

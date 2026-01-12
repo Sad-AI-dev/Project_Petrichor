@@ -1,5 +1,5 @@
 ![[128px-Crowbar.webp|128]] ![[Crowbar.webp|128]]
-*Crowbar* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
+*Crowbar* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>

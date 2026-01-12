@@ -1,4 +1,4 @@
-![[Hunter's_Harpoon.png]] ![[Huntersharpoon.webp|128]]
+![[Hunter's_Harpoon.png]] ![[Huntersharpoon.webp|120]]
 
 *Hunter's Harpoon* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.

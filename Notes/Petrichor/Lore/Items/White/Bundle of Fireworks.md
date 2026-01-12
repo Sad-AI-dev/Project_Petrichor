@@ -1,5 +1,5 @@
-![[128px-Bundle_of_Fireworks.webp|128]]
-*Bundle of Fireworks* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
+![[128px-Bundle_of_Fireworks.webp|128]] ![[Bundleoffireworks.webp|110]]
+*Bundle of Fireworks* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>

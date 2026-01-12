@@ -1,4 +1,4 @@
-![[Bustling_Fungus.webp|128]] ![[Bustlingfungus.webp|128]]
+![[Bustling_Fungus.webp|128]] ![[Bustlingfungus.webp|120]]
 *Bustling Fungus* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 

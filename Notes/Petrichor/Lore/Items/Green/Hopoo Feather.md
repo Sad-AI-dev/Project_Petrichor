@@ -1,6 +1,6 @@
-![[128px-Hopoo_Feather.webp|128]]
+![[128px-Hopoo_Feather.webp|128]] ![[Hopoofeather.png|120]]
 
-*Hopoo Feather* is a **<span class="green-bg">green</span>** item from Risk of Rain 2.
+*Hopoo Feather* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>

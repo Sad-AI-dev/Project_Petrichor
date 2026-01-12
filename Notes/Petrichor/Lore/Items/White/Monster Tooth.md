@@ -1,5 +1,5 @@
-![[128px-Monster_Tooth.png|128]] ![[Monstertooth.webp|128]]
-*Monster Tooth* is a **<span class="gray-bg">white</span>** item from Risk of Rain 2.
+![[128px-Monster_Tooth.png|128]] ![[Monstertooth.webp|100]]
+*Monster Tooth* is a **<span class="gray-bg">white</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>

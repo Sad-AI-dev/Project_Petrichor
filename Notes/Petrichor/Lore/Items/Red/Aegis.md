@@ -1,6 +1,6 @@
-![[Aegis.png|128]]
+![[Aegis.png|128]] ![[Petrichor/Lore/Items/Imgs/High_Res_R/Aegis.png|105]]
 
-*Aegis* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
+*Aegis* is a **<span class="red-bg">red</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -30,6 +30,26 @@ as the defender of their mortal lives.
 ```
 
 I interpret this as the item being able to bring out courage within the wielder. This suggests that the item may be supernatural in nature.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: 3021***********
+
+Order Details:</span>
+Hey boss, in the crate you should find a couple of the artifacts from our last dig in that secret room. You should see 5 items, we stored them in foam. Should be an ornamental shield, some kind of shortsword or dagger, half of a crown, and two shreds of some kind of stiff fabric. Be careful handling the fabric, feels like it could crumble with just slight pressure. The shield must be hollow or something, it's unusually light. I know you are, but be extra careful with it. Don't let the students even breathe on it.
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Bldg. 1                                            <span class="red">High Priority/Fragile</span>
+3 Wry Ave.,                                     <span class="lore-text-dark">Estimated Delivery:</span>
+Theworl,                                        10/20/2056
+Titan</span>
+# <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Titan]].
+
+The [[Aegis]] is being shipped as a part of 5 artifacts discovered in a secret room from a dig site. The artifacts are being shipped to a university on [[Titan]].
+
+This log takes place after the log from RoR2, suggesting that the item may have been shipped from the dig site to the museum where they were shipped as a collection to the local university.
+(Possibly for further research?)
 
 #### <span class="lore-text">Tags</span>
 #shipping_2056

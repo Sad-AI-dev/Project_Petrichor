@@ -1,4 +1,4 @@
-![[Leeching_Seed.webp|128]] ![[Leechingseed.webp|128]]
+![[Leeching_Seed.webp|128]] ![[Leechingseed.webp|120]]
 
 *Leeching Seed* is a **<span class="green-bg">green</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.

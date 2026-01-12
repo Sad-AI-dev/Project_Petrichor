@@ -241,7 +241,7 @@
 		{"id":"9183ee39ef45fe1b","type":"text","text":"<span class=\"card\">![[AlienHead_Thumb.png]]\n[[Alien Head]]</span>","x":320,"y":4880,"width":180,"height":240,"color":"1"},
 		{"id":"efd35053b90809e3","type":"text","text":"<span class=\"card\">![[Aegis_R_Thumb.png]]\n[[Aegis]]</span>","x":-280,"y":4880,"width":180,"height":240,"color":"1"},
 		{"id":"9577f4b661fa48c1","type":"text","text":"<span class=\"card\">![[AlienHead_R_Thumb.png]]\n[[Alien Head]]</span>","x":120,"y":4880,"width":180,"height":240,"color":"1"},
-		{"id":"4e136f9d4376a7a0","type":"text","text":"<span class=\"card\">![[AncientSceptor_R_Thumb.png]]\n[[Ancient Sceptor]]</span>","x":520,"y":4880,"width":180,"height":240,"color":"1"},
+		{"id":"4e136f9d4376a7a0","type":"text","text":"<span class=\"card\">![[AncientSceptor_R_Thumb.png]]\n[[Ancient Scepter]]</span>","x":520,"y":4880,"width":180,"height":240,"color":"1"},
 		{"id":"261de82d0165e1cf","type":"text","text":"<span class=\"card\">![[AtGMissileMk.2_R_Thumb.png]]\n[[AtG Missile Mk. 2]]</span>","x":720,"y":4880,"width":180,"height":240,"color":"1"},
 		{"id":"3a8317ea7ff1656b","type":"text","text":"<span class=\"card\">![[BensRaincoat_Thumb.png]]\n[[Ben's Raincoat]]</span>","x":1120,"y":4880,"width":180,"height":240,"color":"1"},
 		{"id":"c3e1b6f3900ebeeb","type":"text","text":"<span class=\"card\">![[BeatingEmbryo_R_Thumb.png]]\n[[Beating Embryo]]</span>","x":920,"y":4880,"width":180,"height":240,"color":"1"},

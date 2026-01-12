@@ -1,5 +1,5 @@
-![[128px-Dio's_Best_Friend.webp|128]]![[128px-Dio's_Best_Friend_(Consumed).webp|128]]
-*Dio's Best Friend* is a **<span class="red-bg">red</span>** item from Risk of Rain 2.
+![[128px-Dio's_Best_Friend.webp|128]]![[128px-Dio's_Best_Friend_(Consumed).webp|128]] ![[Diosbestfriend.webp|110]]
+*Dio's Best Friend* is a **<span class="red-bg">red</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -23,5 +23,19 @@ PS would it kill you to purr for mama every now and then?</span>
 # <span class="lore-title-inline">Notes</span>
 This log addresses Dio, who is Duncan's pet cat.
 Very cute, but not relevant when discussing lore.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+Hidden Cubby,                                <span class="red">High Priority</span>
+Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
+Venus                                            9/28/2056</span>
+# <span class="lore-title-inline">Notes</span>
+
 
 #### <span class="lore-text">Tags</span>
