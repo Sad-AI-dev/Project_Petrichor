@@ -26,16 +26,18 @@ Very cute, but not relevant when discussing lore.
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1402***********
 
 Order Details:</span>
-
+Here you go; you can remember Dio forever with this. A cheers, to the best kitten ever born. We all love you, despite your flaws. Please stick around for a long time!
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-Hidden Cubby,                                <span class="red">High Priority</span>
-Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
-Venus                                            9/28/2056</span>
+6101 251st,                                      <span class="red">High Priority/Fragile</span>
+Blue Mound,                                   <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                             7/3/1993</span>
 # <span class="lore-title-inline">Notes</span>
+This item is a reference to Duncan's cat. Very cute, melts my heart, but not particularly relevant for lore purposes.
 
+The item is being shipped to [[Earth]].
 
 #### <span class="lore-text">Tags</span>

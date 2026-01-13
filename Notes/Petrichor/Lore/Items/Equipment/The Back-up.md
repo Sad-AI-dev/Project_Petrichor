@@ -1,6 +1,6 @@
-![[The_Back-up.webp|128]]
+![[The_Back-up.webp|128]] ![[Thebackup.webp|128]]
 
-*The Back-up* is an **<span class="orange-bg">Equipment</span>** item from Risk of Rain 2.
+*The Back-up* is an **<span class="orange-bg">Equipment</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -17,5 +17,19 @@ This chapter seems to cover the use of drones in the quelling of the [[Plank's R
 
 It is shows that the rebellion made heavy use of the black market, and that after RRDS was implemented by local enforcement, drone hackers became highly sought after.
 It is possible that [[Operator]] is one such drone hacker.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
+Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                             8/3/2060</span>
+# <span class="lore-title-inline">Notes</span>
+
 
 #### <span class="lore-text">Tags</span>

@@ -1,6 +1,6 @@
-![[Disposable_Missile_Launcher.webp|128]]
+![[Disposable_Missile_Launcher.webp|128]] ![[Disposablemissilelauncher.png|120]]
 
-*Disposable Missile Launcher* is an **<span class="orange-bg">Equipment</span>** item from Risk of Rain 2.
+*Disposable Missile Launcher* is an **<span class="orange-bg">Equipment</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -14,5 +14,19 @@ This is a funny dig at Nintendo Labo.
 
 The log is a headline from [[The Saturn Reporter]].
 Additionally, it is revealed that the [[Disposable Missile Launcher]] is at least partially constructed out of cardboard.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
+Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                             8/3/2060</span>
+# <span class="lore-title-inline">Notes</span>
+
 
 #### <span class="lore-text">Tags</span>

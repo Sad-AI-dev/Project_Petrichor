@@ -32,6 +32,8 @@ Of electricity!
 <span class="lore-mono">Power anomaly detected...
 Initiating reboot procedure in 10...</span></span>
 # <span class="lore-title-inline">Notes</span>
-The Unstable Tesla Coil used to be part of a show, but it's unstable nature caused it to malfunction.
+The Unstable Tesla Coil is part of a show, but it's unstable nature caused it to malfunction.
+
+The show takes place in a Tesla museum on [[Earth]], as confirmed on the [[Tesla Coil]] log.
 
 #### <span class="lore-text">Tags</span>

@@ -34,16 +34,21 @@ It appears that the mask allows the wearer to command these ghosts.
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1396***********
 
 Order Details:</span>
-
+This is GREAT! The circus is just as GOOD as I hoped it to be; it is a dream come true! I'm so GLAD that I followed my dream. I love you; tell mom too. Tell her..  
+  
+I'm happy! I'M HAPPY! SEE! I SAID I'M HAPPY PLEASE DON'T
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-Hidden Cubby,                                <span class="red">High Priority</span>
-Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
-Venus                                            9/28/2056</span>
+Crux Fairgrounds,                         <span class="red">High Priority/Fragile</span>
+Tent 7,                                           <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                             5/11/2056</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Earth]].
 
+It appears that the sender of this item is being held within a circus against their will. The item is likely being send to a close family member. The address suggests that this family member is a member of a circus themselves.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056

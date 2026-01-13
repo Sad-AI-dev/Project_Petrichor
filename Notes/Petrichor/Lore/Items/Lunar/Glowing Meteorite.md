@@ -1,6 +1,6 @@
-![[Glowing_Meteorite.webp|128]]
+![[Glowing_Meteorite.webp|128]] ![[Glowingmeteorite.webp|128]]
 
-*Glowing Meteorite* is a **<span class="blue-bg">lunar </span><span class="orange-bg">equipment</span>** item from Risk of Rain 2.
+*Glowing Meteorite* is a **<span class="blue-bg">lunar </span><span class="orange-bg">equipment</span>** item from Risk of Rain 2 and an <span class="orange-bg">equipment</span> item from Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -13,5 +13,19 @@ This seems to be said by [[Mithrix]]. The mention of `ratios` suggests he is lik
 The item originates from a star, and seems to be a smaller strange piece of one.
 
 It *is* quite fun.
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
+Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                             8/3/2060</span>
+# <span class="lore-title-inline">Notes</span>
+
 
 #### <span class="lore-text">Tags</span>

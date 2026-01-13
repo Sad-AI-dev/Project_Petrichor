@@ -18,20 +18,25 @@ A designer delight. Or so it would be if it worked like it should... Out of all 
 This item is being shipped to [[Jupiter]].
 
 This log is a direct copy of the one from RoR Returns, very disappointing...
+It could also be a joke based on the item's effect of creating copies.
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 2788***********
 
 Order Details:</span>
-
+A designer delight. Or so it would be if it worked like it should...  
+Out of all my birthday presents this is what I was the happiest about, yet all its dupes are... Terrible! They don't last a minute without breaking apart.  
+Can you help me out please?
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-Hidden Cubby,                                <span class="red">High Priority</span>
-Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
-Venus                                            9/28/2056</span>
+Nevenstraat 2,                              <span class="red">High Priority/Fragile</span>
+Central Way,                                  <span class="lore-text-dark">Estimated Delivery:</span>
+Jupiter                                          12/7/2056</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Jupiter]].
 
+The [[Substandard Duplicator]] is a faulty device that is meant to create exact replicas of anything it scans.
 
 #### <span class="lore-text">Tags</span>
 #shipping_2056

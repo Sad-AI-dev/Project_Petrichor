@@ -17,16 +17,22 @@ The item releases nano toxins on impact and requires special anti-toxin gloves t
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1387***********
 
 Order Details:</span>
-
+I'm glad people still use hammers in combat; I find it much more intimate than guns. This thing weighs 5 TONS (yes, TONS), so only your Combat Equipped soldiers can use it. Five tons in a few square feet means that the hammer can crush enemy tanks, EASILY.
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-Hidden Cubby,                                <span class="red">High Priority</span>
-Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
-Venus                                            9/28/2056</span>
+Lockbox 8,                                     <span class="red">High Priority</span>
+Hero's Barracks,                           <span class="lore-text-dark">Estimated Delivery:</span>
+Mars                                              2/23/2056</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Mars]].
 
+The [[Shattering Justice]] is an incredibly heavy melee weapon. It weights a total of `5 TONS`.
+Only `Combat Equipped` individuals would be able to wield this weapon. This suggests that there are a large enough number of people that can easily lift and swing around `5 TONS`. These individuals must make use of some form of technology to allow them to perform such feats.
+
+Notably, melee weapons are still in use. Presumably because gunpowder has fallen out of use and guns don't always deliver enough impact to harm modern technology or dangerous alien wildlife.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056

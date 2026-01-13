@@ -1,6 +1,6 @@
-![[Super_Massive_Leech.webp|128]]
+![[Super_Massive_Leech.webp|128]] ![[Supermassiveleech.webp|128]]
 
-*Super Massive Leech* is an **<span class="orange-bg">Equipment</span>** item from Risk of Rain 2.
+*Super Massive Leech* is an **<span class="orange-bg">Equipment</span>** item from both Risk of Rain 2 and Risk of Rain Returns.
 For all items, see the [[Items.canvas|Items]] page.
 
 ### <span class="lore-title-inline">Pickup Description</span>
@@ -26,5 +26,19 @@ This item is being shipped to [[Saturn]].
 It seems that it's possible that the leach has both healing properties and the ability to convince the host to let it stay, thus creating a symbiotic relationship.
 
 This item is possibly related to the [[Massive Leach]].
+
+# <span class="lore-title-inline">Lore</span>
+<span class="lore"><span class="yellow">Shipping Details:</span>
+  <span class="lore-text-dark">Tracking Number: ----***********
+
+Order Details:</span>
+
+
+<span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
+2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
+Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                             8/3/2060</span>
+# <span class="lore-title-inline">Notes</span>
+
 
 #### <span class="lore-text">Tags</span>

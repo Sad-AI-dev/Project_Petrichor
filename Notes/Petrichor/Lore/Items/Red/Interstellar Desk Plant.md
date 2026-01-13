@@ -22,17 +22,24 @@ The desk plant has a healing property that can be enjoyed by those who spend tim
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1342***********
 
 Order Details:</span>
-
+FORGET ALOE VERA. THIS IS THE NEXT THING.  
+  
+> You know how people always have those on their desks? Well this isn't just for the cuts and burns; this makes you feel good EVERYWHERE. Vitamins, proteins, you name it, this plant got it. Takes very little time for it to bear another fruit as well, but it does require some strange potting soil... as in carcasses. Small carcasses.  
+  
+> ANYWAYS, shoot me an email if you are interested!
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-Hidden Cubby,                                <span class="red">High Priority</span>
-Mt. Creation,                                  <span class="lore-text-dark">Estimated Delivery:</span>
-Venus                                            9/28/2056</span>
+7887                                              <span class="red">High Priority/Priority</span>
+Dextro Way                                    <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                             1/19/2056</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Earth]].
 
+It is revealed that not only does the [[Interstellar Desk Plant]] provide a subtle healing aura, but it also bears extremely nutritious fruit.
+Additionally, the plant requires carcasses as soil in order to sustain itself.
 
 #### <span class="lore-text">Tags</span>
 #shipping_2056
