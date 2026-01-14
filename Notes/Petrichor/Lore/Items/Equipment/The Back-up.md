@@ -20,16 +20,18 @@ It is possible that [[Operator]] is one such drone hacker.
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1549***********
 
 Order Details:</span>
-
+The Radio is hooked up to my personal line; call, and I'll have a whole squadron of Hellfire Drones at your position before the second ring. Just remember that once you call, your cover is blown. Emergencies only.
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
-Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
-Earth                                             8/3/2060</span>
+1511,                                                <span class="orange">Volatile</span>
+Sixth Ave,                                       <span class="lore-text-dark">Estimated Delivery:</span>
+Earth                                              11/15/1967</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Earth]].
 
+[[The Back-up]] is a radio directly hooked to the personal line of a mysterious individual capable of immediately deploying multiple offensive drones. Once [[The Back-up]] is used, it's radio waves will immediately give away the user's position.
 
 #### <span class="lore-text">Tags</span>

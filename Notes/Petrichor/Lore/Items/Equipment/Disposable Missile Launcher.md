@@ -17,16 +17,21 @@ Additionally, it is revealed that the [[Disposable Missile Launcher]] is at leas
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1552***********
 
 Order Details:</span>
-
+So here is a prototype of the disposable missile launcher you requested. The box itself is made of cardboard, which raises some safety issues but also lowers the production costs immensely. The missiles are also the dumb ones that didn't pass inspection the first time around, allowing us to fit sixteen into this!  
+  
+The entire thing costs about.. $40. Make sure that you don't store them together; some of the rounds have been observed to explode by themselves.
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
-Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
-Earth                                             8/3/2060</span>
+Steve Ruxx,                                   <span class="orange">MILITARY</span>
+Quadrant 001,                                <span class="lore-text-dark">Estimated Delivery:</span>
+Mars                                              11/3/2056</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Mars]].
 
+The [[Disposable Missile Launcher]] is made of cardboard and the 16 included missiles all did not pass initial inspection. This leads to a lot of these missiles being nonfunctional and / or spontaneously exploding.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056

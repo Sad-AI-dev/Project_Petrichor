@@ -12,16 +12,19 @@ The [[Sawmerang]] is described as a `Disc Toy` and seems plenty capable of cutti
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1569***********
 
 Order Details:</span>
-
+This is one of many sawblades that I will be sending for analysis. We still haven't ID'd all the bodies from the factory accident, so its up to you to run dna tests on all the.. blood and flesh. Word of caution: it smells like rotten meat.
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
-Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
-Earth                                             8/3/2060</span>
+North Speck,                                 <span class="orange">Volatile</span>
+Warehouse lot-88,                         <span class="lore-text-dark">Estimated Delivery:</span>
+Jupiter                                           11/13/2056</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Jupiter]].
 
+The [[Sawmerang]] is a piece of evidence recovered from a hellish accident that took place in a factory. Multiple workers died in the accident, their blood and flesh can still be found on the blade.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056

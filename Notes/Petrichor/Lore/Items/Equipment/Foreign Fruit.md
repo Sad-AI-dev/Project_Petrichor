@@ -18,16 +18,21 @@ The fruit is remarkably healthy.
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1584***********
 
 Order Details:</span>
-
+Ya feelin down? Then eat Fabien's Nutapple! No preservatives. No chemicals. All fruit. Tastes like an apple and a cashew; together!  
+Guaranteed to make you feel 50% healthier or your money back!
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
-Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
-Earth                                             8/3/2060</span>
+Fabien H                                        <span class="orange">Volatile</span>
+32nd and Pike                               <span class="lore-text-dark">Estimated Delivery:</span>
+New Afrika                                     5/19/2056
+Mars</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Mars]].
 
+This log shows how `Fabien H` deals and trades in [[Nutapple|Natapples]].
 
 #### <span class="lore-text">Tags</span>
+#shipped_2056

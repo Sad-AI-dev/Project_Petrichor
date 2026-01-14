@@ -16,16 +16,19 @@ It *is* quite fun.
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1547***********
 
 Order Details:</span>
-
+This hunk of space metal came shooting down and almost hit our town! Thankfully it just fell in the nearby mountains, but man did it make a loud bang, scientists say it's a 'vanguard meteorite'; one of the first meteors from a series of many, many more. Cool!
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
-Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
-Earth                                             8/3/2060</span>
+8912,                                              <span class="orange">Volatile</span>
+6th Planet,                                     <span class="lore-text-dark">Estimated Delivery:</span>
+Saturn                                           6/18/2056</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Saturn]].
 
+The [[Glowing Meteorite]] is made of metal and is what is known as a `vanguard meteorite`. This suggests that when one is spotted, many, many more are to follow.
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056

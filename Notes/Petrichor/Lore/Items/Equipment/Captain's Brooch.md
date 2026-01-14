@@ -20,7 +20,8 @@ Venus                                             9/12/2056</span>
 # <span class="lore-title-inline">Notes</span>
 This item is being shipped to [[Venus]].
 
-NOTES GO HERE
+The [[Captain's Brooch]] is a special brooch provided to each person that has acted as the [[Captain]] for the [[UES Contact Light]]. 
+The back has a small button on it, which calls down a chest from the [[UES Contact Light]].
 
 #### <span class="lore-text">Tags</span>
 #shipping_2056

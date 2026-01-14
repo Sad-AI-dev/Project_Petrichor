@@ -29,16 +29,23 @@ This item is possibly related to the [[Massive Leach]].
 
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
-  <span class="lore-text-dark">Tracking Number: ----***********
+  <span class="lore-text-dark">Tracking Number: 1574***********
 
 Order Details:</span>
-
+Giant leeches found in the pools of HYPERION-5. Very similar to its counterpart on Earth, but it seems to have developed teeth as well, allowing it to eat meat as well as siphon blood.  
+  
+A few have been spotted to balloon to enormous proportions, up to the size of a small dog. Like the common leech, this has obvious medical implications. You will just have to be extra careful, or you may come back to no patient and a giant bloody leech.
 
 <span class="lore-text-dark">Sent To:                                         Shipping Method:</span>
-2 Grumpy Old Men Rd,                    <span class="orange">Volatile</span>
-Orofino Idaho,                                <span class="lore-text-dark">Estimated Delivery:</span>
-Earth                                             8/3/2060</span>
+Carolyn Williams                            <span class="orange">Volatile</span>
+Rare/Extinct                                  <span class="lore-text-dark">Estimated Delivery:</span>
+Study Center                                 6/19/2056
+Venus</span>
 # <span class="lore-title-inline">Notes</span>
+This item is being shipped to [[Venus]].
+The address of this item is identical to the addresses of the [[Beating Embryo]] and [[Toxic Centipede]] items.
 
+The [[Super Massive Leech]] was discovered in pools on the surface of [[Hyperion-5]] and heavily resembles the common leech found on [[Earth]].
 
 #### <span class="lore-text">Tags</span>
+#shipping_2056
