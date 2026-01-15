@@ -16,16 +16,31 @@
               "state": {
                 "file": "Petrichor/Lore/Items/Items.canvas",
                 "viewState": {
-                  "x": 630.9255247421431,
-                  "y": 4441.658274089009,
-                  "zoom": -3.515867065343546
+                  "x": -1497.4835945035989,
+                  "y": 488.23692561784435,
+                  "zoom": -0.8492003986768792
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Items"
             }
+          },
+          {
+            "id": "27bbf375cef0abcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Petrichor/Lore/Items/Boss/Ifrit's Horn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ifrit's Horn"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "481ea692187464fd",
@@ -190,10 +205,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "1881ad97f2ba4909",
+  "active": "f178769d38f44506",
   "lastOpenFiles": [
-    "Petrichor/Lore/Items/Equipment/Unstable Watch.md",
+    "Petrichor/Lore/Items/Boss/Ifrit's Horn.md",
     "Petrichor/Lore/Items/Items.canvas",
+    "Petrichor/Lore/Items/Boss/Evolved Nematocyst Nozzle.md",
+    "Petrichor/Lore/Items/Boss/Colossal Knurl.md",
+    "Petrichor/Lore/Items/Boss/Burning Witness.md",
+    "Petrichor/Lore/Items/Boss/Scorching Shell Piece.md",
+    "Petrichor/Lore/Items/Boss/Nematocyst Nozzle.md",
+    "Petrichor/Lore/Items/Boss/Lost Pickaxe.md",
+    "Petrichor/Lore/Items/Boss/Legendary Spark.md",
+    "Petrichor/Lore/Items/Boss/Imp Overlord's Tentacle.md",
+    "Petrichor/Lore/Items/Boss/Charged Perforator.md",
+    "Petrichor/Lore/Items/White/Arcane Blades.md",
+    "Petrichor/Lore/Items/Boss/Pearl.md",
+    "Petrichor/Lore/Items/Boss/Artifact Key.md",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/BurningWitness_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/BurningWitness_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/ColossalKnurl_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/ColossalKnurl_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/EvolvedNematocystNozzle_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/EvolvedNematocystNozzle_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/Ifrit'sHorn_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/Ifrit'sHorn_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/ImpOverlord'sTentacle_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/ImpOverlord'sTentacle_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/LegendarySpark_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/LegendarySpark_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/LostPickaxe_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/LostPickaxe_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/NematocystNozzle_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/NematocystNozzle_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/ScorchingShellPiece_R_Thumb.png",
+    "Petrichor/Lore/Items/Imgs/Thumb_R/ScorchingShellPiece_R_Thumb.png.0.pdnSave",
+    "Petrichor/Lore/Items/Imgs/High_Res_R/Lostpickaxe.png",
+    "Petrichor/Lore/Items/Equipment/Unstable Watch.md",
     "Petrichor/Lore/Items/Equipment/Thqwib.md",
     "Petrichor/Lore/Items/Equipment/The Back-up.md",
     "Petrichor/Lore/Items/Equipment/Super Massive Leech.md",
@@ -205,40 +252,7 @@
     "Petrichor/Lore/Items/Equipment/Rotten Brain.md",
     "Petrichor/Lore/Items/Equipment/Prescriptions.md",
     "Petrichor/Lore/Items/Equipment/Pillaged Gold.md",
-    "Petrichor/Lore/Items/Equipment/Mace Replica.md",
-    "Petrichor/Lore/Items/Equipment/Lost Doll.md",
-    "Petrichor/Lore/Items/Equipment/Jar Of Souls.md",
-    "Petrichor/Lore/Items/Equipment/Instant Minefield.md",
-    "Petrichor/Lore/Items/Equipment/Gold-Plated Bomb.md",
-    "Petrichor/Lore/Items/Equipment/The Crowdfunder.md",
-    "Crowdfunder.md",
-    "Petrichor/Lore/Items/Lunar/Glowing Meteorite.md",
-    "Petrichor/Lore/Items/Equipment/Gigantic Amethyst.md",
-    "Petrichor/Lore/Items/Equipment/Foreign Fruit.md",
-    "Petrichor/Lore/Items/Equipment/Explorer's Key.md",
-    "Petrichor/Lore/Items/Equipment/Dynamite Plunger.md",
-    "Petrichor/Lore/Items/Equipment/Drone Repair Kit.md",
-    "Petrichor/Lore/Items/Equipment/Disposable Missile Launcher.md",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/Captain'sBrooch_R_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb_R/Captain'sBrooch_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/CarraraMarble_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/CarraraMarble_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/Crudly-DrawnBuddy_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/Crudly-DrawnBuddy_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/DisposableMissileLauncher_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/DisposableMissileLauncher_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/DroneRepairKit_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/DroneRepairKit_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/DynamitePlunger_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/DynamitePlunger_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/Explorer'sKey_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/Explorer'sKey_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/ForeignFruit_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/ForeignFruit_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/GiganticAmethyst_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/GiganticAmethyst_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/GlowingMeteorite_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/GlowingMeteorite_R_Thumb.png.0.pdnSave",
     "Petrichor/Lore/Creatures/Creatures.canvas",
     "Petrichor/Lore/Creatures/FamilyPages/Untitled.canvas",
     "Petrichor/Lore/Items/Elite Aspects.canvas"
