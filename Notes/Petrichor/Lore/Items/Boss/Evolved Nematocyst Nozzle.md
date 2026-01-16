@@ -19,5 +19,7 @@ Unknown                                       12/31/2056</span>
 # <span class="lore-title-inline">Notes</span>
 The [[Evolved Nematocyst Nozzle]] can be retrieved from an evolved [[Young Jelly]].
 
+The pickup description suggests a race or region called [[Cnidaria]], which is where the [[Jellyfish Family]] likely originates from.
+
 #### <span class="lore-text">Tags</span>
 #shipping_2056
