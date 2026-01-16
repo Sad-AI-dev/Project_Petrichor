@@ -21,5 +21,7 @@ The [[Evolved Nematocyst Nozzle]] can be retrieved from an evolved [[Young Jelly
 
 The pickup description suggests a race or region called [[Cnidaria]], which is where the [[Jellyfish Family]] likely originates from.
 
+The item appears to be an evolved version of the [[Nematocyst Nozzle]] and likely serves a similar purpose.
+
 #### <span class="lore-text">Tags</span>
 #shipping_2056
