@@ -3,7 +3,7 @@ Project Petrichor is currently a complete overview of all lore from the `Risk of
 
 <!-- Cool preview images -->
 <img align="left" alt="Items Canvas" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
-<img align="left" alt="Item Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemPage_.PNG"/>
+<img align="left" alt="Item Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemPage.PNG"/>
 <img align="left" alt="Graph View" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_Graph.PNG"/>
 
 ## Current Version
