@@ -1,5 +1,6 @@
-# Welcome to Project Petrichor
-Project Petrichor is currently a complete overview of all lore from the `Risk of Rain` universe.
+# Welcome to Project Petrichor!
+Project Petrichor sets out to create a TTRPG setting based on the `Risk of Rain` franchise.
+A key component of this is a complete reference containing all established lore from the franchise.
 
 <!-- Cool preview images -->
 <img align="left" alt="Items Canvas" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
@@ -7,11 +8,22 @@ Project Petrichor is currently a complete overview of all lore from the `Risk of
 <img align="left" alt="Graph View" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_Graph.PNG"/>
 
 ## Current Version
-The current released version is `v0.1.0`, which is the initial release for the project.  
+The current released version is `v0.1.0`. This is the initial release for the project.
+`v0.1.0` Adds 365 lore pages covering all the items seen in `Risk of Rain 2` and `Risk of Rain Returns`.
 For all changes, see the [Changelog](https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/CHANGELOG.md).  
 
+### Roadmap
 The next planned release, `v0.2.0` will include pages for all enemies seen in `Risk of Rain 2` and `Risk of Rain Returns`.  
-A preview for this content can be found in the `Creatures` canvas page.
+A preview for this content can be found in the `Creatures` canvas page.  
+
+`v0.3.0` will be focused on adding all of the locations seen in `Risk of Rain 2` and `Risk of Rain Returns`.  
+
+`v0.4.0` will add lore pages for all the drones and survivors seen in `Risk of Rain 2` and `Risk of Rain Returns`.  
+
+The ultimate goal of the project is to create a TTRPG setting that matches the lore as faithfully as possible.  
+Once all lore pages have been added to the *Obsidian* vault has been completed, work will start on adapting the setting to a TTRPG system.
+The most likely candidates for the TTRPG system the project will be adapted for is likely *D&D 5th edition* or *Daggerheart*.  
+The final product should however, prove usefull to anyone seeking to adapt the setting to a different TTRPG system.
 
 ## Install Guide
 ### 1. Install Obsidian
