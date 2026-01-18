@@ -7,19 +7,19 @@ Project Petrichor is currently a complete overview of all lore from the `Risk of
 <img align="left" alt="Graph View" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_Graph.PNG"/>
 
 ## Current Version
-The current released version is `v0.1.0`, which is the initial release for the project.
-For all changes, see the [Changelog](https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/CHANGELOG.md).
+The current released version is `v0.1.0`, which is the initial release for the project.  
+For all changes, see the [Changelog](https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/CHANGELOG.md).  
 
-The next planned release, `v0.2.0` will include pages for all enemies seen in `Risk of Rain 2` and `Risk of Rain Returns`.
+The next planned release, `v0.2.0` will include pages for all enemies seen in `Risk of Rain 2` and `Risk of Rain Returns`.  
 A preview for this content can be found in the `Creatures` canvas page.
 
 ## Install Guide
 ### 1. Install Obsidian
-**Project Petrichor** was created in *Obsidian* and is therefore also best viewed through *Obsidian*.
+**Project Petrichor** was created in *Obsidian* and is therefore also best viewed through *Obsidian*.  
 *Obsidian* is a free note taking app and can be installed through their [official page](https://obsidian.md/).
 
 ### 2. Download latest release.
-The release file is a `.zip` containing the Obsidian project.
+The release file is a `.zip` containing the Obsidian project.  
 The file can be found on [this](https://github.com/Sad-AI-dev/Project_Petrichor/releases/tag/v0.1.0) page.
 
 Install the file by clicking the button shown below:
@@ -32,21 +32,21 @@ It is recommended to place the `.zip` file in an empty folder before unzipping.
 Open *Obsidian*. If this is the first time *Obsidian* is opened, click the *Open folder as Vault* button, as shown below:
 ![Obsidian open vault interface](ReadMeRefs/imgs/ObsidianVaultInterface.PNG?raw=true)
 
-If *Obsidian* has been opened before, or the Vault interface doesn't show, 
+If *Obsidian* has been opened before, or the Vault interface doesn't show,  
 follow the instuctions on the *Obsidian* help page for opening a new vault, which can be found [here](https://help.obsidian.md/manage-vaults#Create+new+vault).
 
 ## Troubleshooting
 Below are some steps that can be followed in case something goes awry in the setup process.
 
 ### The project doesn't look the same as the preview images when opened in Obsidian
-The issue is likely caused by *Obsidian* not correctly linking the `CSS Snippits` used to style to project.
-To fix this issue navigate to the `Appearance` tab in the settings of *Obsidian*.
+The issue is likely caused by *Obsidian* not correctly linking the `CSS Snippits` used to style to project.  
+To fix this issue navigate to the `Appearance` tab in the settings of *Obsidian*.  
 Scoll all the way to the bottom, and a section similar to the one shown below should come into view:
 ![Obsidian appearance settings](ReadMeRefs/imgs/ObsidianSnippets.PNG?raw=true)
 
-If the files are shown, but the toggles highlighted in **red** are disabled, click them to enable the styling.
-If the files are **not** shows, click the button highlighted in **blue**.
-An explorer window should appear. Navigate to `[name of folder the project was unzipped in]/.obsidian/snippets`.
+If the files are shown, but the toggles highlighted in **red** are disabled, click them to enable the styling.  
+If the files are **not** shows, click the button highlighted in **blue**.  
+An explorer window should appear. Navigate to `[name of folder the project was unzipped in]/.obsidian/snippets`.  
 Select the `colors.css` and `ror2.css`. They should now appear in *Obsidian*.
 
 <!-- ## FAQ -->
