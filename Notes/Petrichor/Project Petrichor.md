@@ -3,12 +3,16 @@ Project Petrichor aims to map out all the lore present in the log book entries f
 
 # Main Pages
 
- [[Lore Reference]]
+# [[Lore Reference]]
 
 
 # Notes
 The ultimate goal of the Project Petrichor is to create a TTRPG setting based on the Risk of Rain universe.
-The first step to achieve this is to create a comprehensive database for everything currently known about the Risk of Rain universe. Specifically by examining all the logbook entries presented in `Risk of Rain 2` and `Risk of Rain Returns` in addition to any relevant gameplay details from these titles.
+The first step to achieve this is to create a database for everything currently known about the Risk of Rain universe. Specifically by examining all the logbook entries presented in `Risk of Rain 2` and `Risk of Rain Returns` in addition to any relevant gameplay details from these titles.
+
+Notably, the goal is not necessarily for the lore to be comprehensive, 
+but rather for it to be "*complete*".
+Ideally, the final products would serve as the ideal resource to formulate a comprehensive understanding from.
 
 **A Note on Cut Content**
 Generally, cut content will *not* be considered cannon. 
