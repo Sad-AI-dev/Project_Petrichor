@@ -45,7 +45,10 @@ Open *Obsidian*. If this is the first time *Obsidian* is opened, click the *Open
 ![Obsidian open vault interface](ReadMeRefs/imgs/ObsidianVaultInterface.PNG?raw=true)
 
 If *Obsidian* has been opened before, or the Vault interface doesn't show,  
-follow the instuctions on the *Obsidian* help page for opening a new vault, which can be found [here](https://help.obsidian.md/manage-vaults#Create+new+vault).
+follow the instuctions on the *Obsidian* help page for opening a new vault, which can be found [here](https://help.obsidian.md/manage-vaults#Create+new+vault).  
+
+When prompted to select a folder to open as a vault, select the folder that the `.zip` file was unzipped in.  
+The selected folder should include both the `.obsidian` and the `Petrichor` folders.
 
 ## Troubleshooting
 Below are some steps that can be followed in case something goes awry in the setup process.
