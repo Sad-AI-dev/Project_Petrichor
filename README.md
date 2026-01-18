@@ -7,11 +7,9 @@ A key component of this is a complete reference containing all established lore 
 <img align="left" alt="Item Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemPage.PNG"/>
 <img align="left" alt="Graph View" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_Graph.PNG"/>
 
-<br/>
-
 ## Current Version
-The current released version is `v0.1.0`. This is the initial release for the project.
-`v0.1.0` Adds 365 lore pages covering all the items seen in `Risk of Rain 2` and `Risk of Rain Returns`.
+The current released version is `v0.1.0`. This is the initial release for the project.  
+`v0.1.0` Adds 365 lore pages covering all the items seen in `Risk of Rain 2` and `Risk of Rain Returns`.  
 For all changes, see the [Changelog](https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/CHANGELOG.md).  
 
 ### Roadmap
