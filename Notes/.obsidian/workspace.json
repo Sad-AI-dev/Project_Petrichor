@@ -6,10 +6,34 @@
       {
         "id": "91783b1c8fb82e50",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 77.79187817258884,
         "children": [
           {
-            "id": "954022854601d797",
+            "id": "56e277310fc9057b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Petrichor/Lore/Creatures/Creatures.canvas",
+                "viewState": {
+                  "x": 2300.852294384813,
+                  "y": 3129.929512002006,
+                  "zoom": -1.0825442130369534
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Creatures"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d54f1d1f805da9ab",
+        "type": "tabs",
+        "dimension": 22.20812182741117,
+        "children": [
+          {
+            "id": "b39c61cd2ed25bc5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -166,20 +190,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "954022854601d797",
+  "active": "56e277310fc9057b",
   "lastOpenFiles": [
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/ProvidencePortrait.webp",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/GildedWurm2.gif",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/GildedWurm1.gif",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/96px-ImpVanguardIdle.gif",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/96px-DireseekerWalk.gif",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/AcridWalk.gif",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/ScavengerPortrait.webp",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/CrematorPortrait.webp",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/ToxicBeastPortrait.webp",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/IfritPortrait.webp",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R/ImpOverlordPortrait.webp",
+    "Petrichor/Lore/Creatures/Imgs/Thumb_R",
+    "Petrichor/Lore/Creatures/Imgs/New folder",
+    "Petrichor/Lore/Creatures/Imgs/High_Res_R",
+    "Petrichor/Lore/Creatures/Creatures.canvas",
     "Petrichor/Other-Temp/Temp Refs.md",
     "Petrichor/Lore/Items/White/Armor-Piercing Rounds.md",
     "Petrichor/Project Petrichor.md",
     "Petrichor/Lore/Items/White/Mocha.md",
     "Petrichor/Lore/Items/Items.canvas",
     "Untitled.base",
-    "Petrichor/Other-Temp/0_MithrixClothed_Inspo.png",
     "Petrichor/Other-Temp",
     "Petrichor/Music/Music_Temp.md",
     "Petrichor/Music",
     "ProjectPetrichor.zip",
-    "Petrichor/Lore/Creatures/Creatures.canvas",
     "Petrichor/Lore/Lore Reference.md",
     "Petrichor_VTEST.zip",
     "Petrichor/Lore/Items/Equipment/Marinated Lizard Loaf.md",
@@ -188,20 +225,8 @@
     "Petrichor/Lore/Items/Equipment/Fried Eyeball.md",
     "Petrichor/Lore/Items/Equipment/Big Bison Steak.md",
     "Petrichor/Lore/Items/Meal/Hearty Stew.md",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/BigBisonSteak_R_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb_R/BigBisonSteak_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/FriedEyeball_R_Thumb.png",
     "Petrichor/Lore/Items/Imgs/Thumb_R/FriedEyeball_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/GolemEssenceOnTheRocks_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/GolemEssenceOnTheRocks_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/JellyBrainSalad_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/JellyBrainSalad_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/MarinatedLizardLoaf_R_Thumb.png",
-    "Petrichor/Lore/Items/Imgs/Thumb_R/MarinatedLizardLoaf_R_Thumb.png.0.pdnSave",
-    "Petrichor/Lore/Items/Imgs/High_Res_R/Friedeyeball.png",
-    "Petrichor/Lore/Items/Imgs/High_Res_R/Jellybrainsalad.png",
-    "Petrichor/Lore/Items/Imgs/High_Res_R/Golemessenceontherocks.png",
-    "Petrichor/Lore/Items/Imgs/High_Res_R/Marinatedlizardload.png",
     "Petrichor/Lore/Items/Boss/Scorching Shell Piece.md",
     "Petrichor/Lore/Items/Boss/Nematocyst Nozzle.md",
     "Petrichor/Lore/Items/Boss/Evolved Nematocyst Nozzle.md",
@@ -215,7 +240,6 @@
     "Petrichor/Lore/Items/Boss/Burning Witness.md",
     "Petrichor/Lore/Items/Boss/Charged Perforator.md",
     "Petrichor/Lore/Items/White/Arcane Blades.md",
-    "Petrichor/Lore/Items/Boss/Pearl.md",
     "Petrichor/Lore/Creatures/FamilyPages/Untitled.canvas",
     "Petrichor/Lore/Items/Elite Aspects.canvas"
   ]
