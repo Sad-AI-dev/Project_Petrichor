@@ -2,6 +2,8 @@
 *Aurelionite* is a monster from Risk of Rain 2, belonging to the [[Golem Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
+# <span class="lore-title-inline">Title</span>
+<span class="lore-text"><span class="lore-text-dark"><span class="center-inline">Titanic Goldweaver</span></span></span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">RECEIVING TRANSMISSION...
 # Decoding... done.

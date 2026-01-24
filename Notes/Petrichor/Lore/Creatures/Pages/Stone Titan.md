@@ -2,6 +2,8 @@
 *Stone Titan* is a monster from Risk of Rain 2, belonging to the [[Golem Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
+# <span class="lore-title-inline">Title</span>
+<span class="lore-text"><span class="lore-text-dark"><span class="center-inline">Crisis Vanguard</span></span></span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">“A flash of red lightning, and a hillside moved to form this gargantuan stone warrior. A larger cousin of the Stone Golem (see Chapter 13), this mighty Titan commands not just lesser stone constructs, but the earth itself. Shaping rudimentary weapons out of dirt, the Titan is capable of striking from any distance with incredible force. Though, reflecting on the Titan’s immense power, that leads me to think... For what purpose do these constructs serve? 
 

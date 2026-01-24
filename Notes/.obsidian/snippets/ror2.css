@@ -132,6 +132,12 @@
 	transform: translate(-50%, -50%);
 }
 
+.center-inline {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+
 /* Size Mods */
 .big-1 {
 	font-size: 5em;
@@ -151,4 +157,24 @@
 
 .big-5 {
 	font-size: 1.5em;
+}
+
+.big-6 {
+	font-size: 1.25em;
+}
+
+/* Spacers */
+.spacer-table-half {
+	display: inline-block;
+	padding-right: 325px;
+}
+
+.spacer-neg-list {
+	margin-bottom: -20px;
+}
+
+/* Debug */
+.debug {
+	/* show padding */
+	border: 2px solid red;
 }
