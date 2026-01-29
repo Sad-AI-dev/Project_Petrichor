@@ -30,7 +30,7 @@
 		{"id":"a085f6659a230abb","type":"text","text":"<span class=\"card\">![[88px-Mechanical_Spider_Icon.gif|120]]\n[[Mechanical Spider]]</span>","x":-340,"y":1320,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"276b7749f5fe0293","type":"text","text":"# <span class=\"big-4\"><span class=\"lore-title\">[[Mushrum]]</span></span>","x":-1840,"y":1620,"width":420,"height":380,"color":"1"},
 		{"id":"8ebf7c692b805318","type":"text","text":"<span class=\"card\">![[88px-Mushrum_Icon.gif|120]]\n[[Mushrum]]</span>","x":-1820,"y":1740,"width":180,"height":240,"color":"#dc1822"},
-		{"id":"20296331ab9d04af","type":"text","text":"<span class=\"card\">![[MiniMushrum_Thumb.png]]\n[[Mini Mushrum]]</span>","x":-1620,"y":1740,"width":180,"height":240,"color":"#dc1822"},
+		{"id":"20296331ab9d04af","type":"text","text":"<span class=\"card\">![[MiniMushrum_Thumb.png]]\n[[Mushrum|Mini Mushrum]]</span>","x":-1620,"y":1740,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"02ff2feb6f05602f","type":"text","text":"# <span class=\"big-4\"><span class=\"lore-title\">Newt</span></span>","x":-1380,"y":1620,"width":420,"height":380,"color":"1"},
 		{"id":"48d4ce3de3a4035c","type":"text","text":"<span class=\"card\">![[Newt_Thumb.png]]\n[[Newt]]</span>","x":-1260,"y":1740,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"c29184ad5322481e","type":"text","text":"# <span class=\"big-4\"><span class=\"lore-title\">Providence</span></span>","x":-920,"y":1620,"width":420,"height":380,"color":"1"},

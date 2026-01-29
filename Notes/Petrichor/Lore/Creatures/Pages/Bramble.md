@@ -1,4 +1,4 @@
-![[BramblePortrait.webp]]
+![[BramblePortrait.webp|256]]
 *Bramble* is a monster from Risk of Rain Returns.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
