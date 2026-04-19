@@ -31,7 +31,7 @@ I expect you to return the design to me. I cannot allow you to build another con
 Go home. I will deal with this creature. We can discuss a better project for you when I return.</span>
 # <span class="lore-title-inline">Notes</span>
 The [[Halcyon Seed]] can be retrieved from [[Aurelionite]].
-The log concerns [[Mithrix]] confronting [[Providence]] about him deviating from the design given to him. The original design is likely for the [[Stone Titan]]. Instead, [[Providence]] added too much soul, causing the vessel to grow frail, yet intensely powerful, resulting in the creation of [[Aurelionite]].
+The log concerns [[Mithrix]] confronting [[Providence]] about him deviating from the design given to him. The original design is likely for the [[Stone Titan]]. Instead, [[Providence]] added too much [[Fundamental Element: Soul|Soul]], causing the vessel to grow frail, yet intensely powerful, resulting in the creation of [[Aurelionite]].
 
 [[Mithrix]] points out how this is the only creature on [[Petrichor V]] that could now pose a threat to the brothers and decides to banish it to `one of the vaults`, which ends up becoming the [[Gilded Coast]].
 

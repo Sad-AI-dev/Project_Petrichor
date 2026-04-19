@@ -2,7 +2,7 @@ The *Construct Family* is a family of monsters from *Risk of Rain 2*.
 For all creature families, see the [[Creatures.canvas|Creatures]] page.
 
 ### <span class="lore-title-inline">Event Warning</span>
-<span class="lore-text"><span class="pink">[WARNING] You have tripped an ancient alarm..</span></span>
+<span class="lore-text"><span class="center-inline"><span class="pink">[WARNING] You have tripped an ancient alarm..</span></span></span>
 # <span class="lore-title-inline">Members</span>
 
 | <span class="center">![[Alpha_Construct.webp\|128]]</span> | <span class="center">![[Xi_Construct.webp\|128]]</span> |

@@ -65,8 +65,6 @@
 		{"id":"1f57eb8d55c0909d","type":"text","text":"<span class=\"card\">![[ClayApothecary_Thumb.png]]\n[[Clay Apothecary]]</span>","x":920,"y":900,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"46bc77ebb7394836","type":"text","text":"<span class=\"card\">![[ClayDunestrider_Thumb.png]]\n[[Clay Dunestrider]]</span>","x":1120,"y":900,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"41eb0827ffdf4b2a","type":"text","text":"# <span class=\"big-4\"><span class=\"lore-title\">[[Blind Family]]</span></span>","x":1560,"y":360,"width":420,"height":380,"color":"1"},
-		{"id":"1ac802a37231e429","type":"text","text":"<span class=\"card\">![[BlindVermin_Thumb.png]]\n[[Blind Vermin]]</span>","x":1580,"y":480,"width":180,"height":240,"color":"#dc1822"},
-		{"id":"48b3c29c3aee04ba","type":"text","text":"<span class=\"card\">![[BlindPest_Thumb.png]]\n[[Blind Pest]]</span>","x":1780,"y":480,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"8aa1cd8b73ea806e","type":"text","text":"# <span class=\"big-5\"><span class=\"lore-title\">[[Construct Family]]</span></span>","x":1360,"y":780,"width":420,"height":380,"color":"1"},
 		{"id":"893b8a56d2abe7b8","type":"text","text":"<span class=\"card\">![[AlphaConstruct_Thumb.png]]\n[[Alpha Construct]]</span>","x":1380,"y":900,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"57fdd5e5ba4fb94e","type":"text","text":"<span class=\"card\">![[XiConstruct_Thumb.png]]\n[[Xi Construct]]</span>","x":1580,"y":900,"width":180,"height":240,"color":"#dc1822"},
@@ -160,7 +158,9 @@
 		{"id":"2710f097de7ac696","type":"text","text":"<span class=\"card\">![[ScorchWorm_Thumb.png]]\n[[Scorch Worm]]</span>","x":60,"y":3840,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"594dfe7c4ac4ec6e","type":"text","text":"<span class=\"card\">![[88px-Magma_Worm_Icon.gif|120]]\n[[Magma Worm]]</span>","x":260,"y":3840,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"535a1d44d4c7291e","type":"text","text":"<span class=\"card\">![[MagmaWorm_Thumb.png]]\n[[Magma Worm]]</span>","x":460,"y":3840,"width":180,"height":240,"color":"#dc1822"},
-		{"id":"dd092374faf75fd2","type":"text","text":"<span class=\"card\">![[OverloadingWorm_Thumb.png]]\n[[Overloading Worm]]</span>","x":660,"y":3840,"width":180,"height":240,"color":"#dc1822"}
+		{"id":"dd092374faf75fd2","type":"text","text":"<span class=\"card\">![[OverloadingWorm_Thumb.png]]\n[[Overloading Worm]]</span>","x":660,"y":3840,"width":180,"height":240,"color":"#dc1822"},
+		{"id":"1ac802a37231e429","type":"text","text":"<span class=\"card\">![[BlindVermin_Thumb.png]]\n[[Blind Vermin]]</span>","x":1780,"y":480,"width":180,"height":240,"color":"#dc1822"},
+		{"id":"48b3c29c3aee04ba","type":"text","text":"<span class=\"card\">![[BlindPest_Thumb.png]]\n[[Blind Pest]]</span>","x":1580,"y":480,"width":180,"height":240,"color":"#dc1822"}
 	],
 	"edges":[]
 }

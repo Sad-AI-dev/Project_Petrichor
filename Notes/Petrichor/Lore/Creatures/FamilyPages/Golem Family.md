@@ -2,7 +2,7 @@ The *Golem Family* is a family of monsters from *Risk of Rain 2*.
 For all creature families, see the [[Creatures.canvas|Creatures]] page.
 
 ### <span class="lore-title-inline">Event Warning</span>
-<span class="lore-text"><span class="pink">[WARNING] The earth rumbles and groans with mysterious energies..</span></span>
+<span class="lore-text"><span class="center-inline"><span class="pink">[WARNING] The earth rumbles and groans with mysterious energies..</span></span></span>
 # <span class="lore-title-inline">Members</span>
 
 | <span class="center">![[Stone_Golem.webp\|128]]</span> | <span class="center">![[Halcyonite.png\|128]]</span> | <span class="center">![[Stone_Titan.webp\|128]]</span> | <span class="center">![[Aurelionite.png\|128]]</span> |
