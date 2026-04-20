@@ -1,5 +1,5 @@
 ![[BoarlitWalk.gif|128]]
-*Beetle* is a monster from Risk of Rain Returns, belonging to the [[Boar Family]].
+*Boarlit* is a monster from Risk of Rain Returns, belonging to the [[Boar Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

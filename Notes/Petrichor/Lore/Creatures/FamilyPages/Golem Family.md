@@ -5,9 +5,9 @@ For all creature families, see the [[Creatures.canvas|Creatures]] page.
 <span class="lore-text"><span class="center-inline"><span class="pink">[WARNING] The earth rumbles and groans with mysterious energies..</span></span></span>
 # <span class="lore-title-inline">Members</span>
 
-| <span class="center">![[Stone_Golem.webp\|128]]</span> | <span class="center">![[Halcyonite.png\|128]]</span> | <span class="center">![[Stone_Titan.webp\|128]]</span> | <span class="center">![[Aurelionite.png\|128]]</span> |
-| ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- |
-| <span class="center">[[Stone Golem]]</span>            | <span class="center">[[Halcyonite]]</span>           | <span class="center">[[Stone Titan]]</span>            | <span class="center">[[Aurelionite]]</span>           |
+| <span class="center">![[Stone_Golem.webp\|128]]</span> | <span class="center">![[Halcyonite.png\|128]]</span> | <span class="center">![[Stone_Titan.webp\|128]]</span> | <span class="center">![[88px-Colossus_Icon.gif\|128]]</span> | <span class="center">![[Aurelionite.png\|128]]</span> |
+| ------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------- |
+| <span class="center">[[Stone Golem]]</span>            | <span class="center">[[Halcyonite]]</span>           | <span class="center">[[Stone Titan]]</span>            | <span class="center">[[Colossus]]</span>                     | <span class="center">[[Aurelionite]]</span>           |
 # <span class="lore-title-inline">Notes</span>
 The members of the [[Golem Family]] can be found all over [[Petrichor V]] and serve as one of the primary defenders created by [[Providence]] and [[Mithrix]].
 

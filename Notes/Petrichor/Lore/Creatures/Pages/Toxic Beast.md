@@ -6,7 +6,6 @@ For all monsters, see the [[Creatures.canvas|Creatures]] page.
 <span class="lore-text"><span class="lore-text-dark"><span class="center-inline">Mother of Many</span></span></span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-text-dark">Field Notes:</span>
-
 This goliath's body has been carved by this world, covered in numerous scars. The squealing queen had seen many battles. Her coarse hair growing in jagged patches between each old wound only increased her fearsome appearance.
 
 Hot breath from the boar's massive nose fogged up my helmet so badly that it was a marvel I was able to evade her stomping hooves overhead.</span>

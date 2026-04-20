@@ -25,8 +25,6 @@ This item is being shipped to [[Saturn]].
 
 It seems that it's possible that the leach has both healing properties and the ability to convince the host to let it stay, thus creating a symbiotic relationship.
 
-This item is possibly related to the [[Massive Leach]].
-
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="yellow">Shipping Details:</span>
   <span class="lore-text-dark">Tracking Number: 1574***********
