@@ -1,5 +1,5 @@
 ![[Xi_Construct.webp|128]]
-*Xi Construct* is a monster from Risk of Rain 2, belonging to the [[Construct Family]].
+*Xi Construct* is a monster from *Risk of Rain 2*, belonging to the [[Construct Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Title</span>

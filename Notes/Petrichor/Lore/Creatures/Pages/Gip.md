@@ -1,5 +1,5 @@
-![[Gip.webp|128]]
-*Gip* is a monster from Risk of Rain Returns, belonging to the [[Gup Family]].
+![[Gip.webp|256]]
+*Gip* is a monster from *Risk of Rain Returns*, belonging to the [[Gup Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

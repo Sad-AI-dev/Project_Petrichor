@@ -1,5 +1,5 @@
-![[Newt.webp|128]]
-*Newt* is a creature from Risk of Rain 2.
+![[Newt.webp|256]]
+*Newt* is a creature from *Risk of Rain 2*.
 For all creatures, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

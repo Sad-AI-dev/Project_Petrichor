@@ -1,5 +1,5 @@
-![[Larva.png|128]]
-*Larva* is a monster from Risk of Rain 2.
+![[Larva.png|256]]
+*Larva* is a monster from *Risk of Rain 2*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

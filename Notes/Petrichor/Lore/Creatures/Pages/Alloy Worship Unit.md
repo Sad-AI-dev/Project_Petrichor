@@ -1,5 +1,5 @@
-![[Alloy_Worship_Unit.webp|128]]
-*Alloy Worship Unit* is a monster from Risk of Rain 2, belonging to the [[Alloy Family]].
+![[Alloy_Worship_Unit.webp|256]]
+*Alloy Worship Unit* is a monster from *Risk of Rain 2*, belonging to the [[Alloy Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 <span class="lore-title-inline"></span>

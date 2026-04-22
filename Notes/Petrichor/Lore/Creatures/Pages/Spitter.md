@@ -1,5 +1,5 @@
 ![[SpitterPortrait.webp|256]]
-*Spitter* is a monster from Risk of Rain Returns.
+*Spitter* is a monster from *Risk of Rain Returns*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

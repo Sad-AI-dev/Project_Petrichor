@@ -1,5 +1,5 @@
-![[Hermit_Crab.webp|128]]
-*Hermit Crab* is a monster from Risk of Rain 2.
+![[Hermit_Crab.webp|256]]
+*Hermit Crab* is a monster from *Risk of Rain 2*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

@@ -1,5 +1,5 @@
-![[Beetle.webp|128]]
-*Beetle* is a monster from Risk of Rain 2, belonging to the [[Beetle Family]].
+![[Beetle.webp|256]]
+*Beetle* is a monster from *Risk of Rain 2*, belonging to the [[Beetle Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

@@ -1,5 +1,5 @@
-![[Alpha_Construct.webp|128]]
-*Alpha Construct* is a monster from Risk of Rain 2, belonging to the [[Construct Family]].
+![[Alpha_Construct.webp|256]]
+*Alpha Construct* is a monster from *Risk of Rain 2*, belonging to the [[Construct Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

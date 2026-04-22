@@ -1,5 +1,5 @@
-![[Aurelionite.png|128]]
-*Aurelionite* is a monster from Risk of Rain 2, belonging to the [[Golem Family]].
+![[Aurelionite.png|256]]
+*Aurelionite* is a monster from *Risk of Rain 2*, belonging to the [[Golem Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Title</span>

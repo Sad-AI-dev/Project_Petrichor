@@ -1,5 +1,5 @@
-![[Alloy_Hunter.png|128]]
-*Alloy Hunter* is a monster from Risk of Rain 2, belonging to the [[Alloy Family]].
+![[Alloy_Hunter.png|256]]
+*Alloy Hunter* is a monster from *Risk of Rain 2*, belonging to the [[Alloy Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 <span class="lore-title-inline"></span>

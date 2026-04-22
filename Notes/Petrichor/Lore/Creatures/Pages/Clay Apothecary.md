@@ -1,5 +1,5 @@
-![[Clay_Apothecary.png|128]]
-*Clay Apothecary* is a monster from Risk of Rain 2, belonging to the [[Clay Family]].
+![[Clay_Apothecary.png|256]]
+*Clay Apothecary* is a monster from *Risk of Rain 2*, belonging to the [[Clay Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

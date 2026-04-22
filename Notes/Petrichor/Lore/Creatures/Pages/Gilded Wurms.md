@@ -1,5 +1,5 @@
 ![[GildedWurm1.gif|256]] ![[GildedWurm2.gif|256]]
-*Gilded Worms* are a monster from Risk of Rain Returns.
+*Gilded Worms* are a monster from *Risk of Rain Returns*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Title</span>

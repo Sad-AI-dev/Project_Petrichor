@@ -1,5 +1,5 @@
-![[Clay_Dunestrider.png|128]]
-*Clay Dunestrider* is a monster from Risk of Rain 2, belonging to the [[Clay Family]].
+![[Clay_Dunestrider.png|256]]
+*Clay Dunestrider* is a monster from *Risk of Rain 2*, belonging to the [[Clay Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 <span class="lore-title-inline"></span>

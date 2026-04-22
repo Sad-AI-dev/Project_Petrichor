@@ -1,5 +1,5 @@
-![[Blind_Vermin.webp|128]]
-*Blind Vermin* is a monster from Risk of Rain 2, belonging to the [[Blind Family]].
+![[Blind_Vermin.webp|256]]
+*Blind Vermin* is a monster from *Risk of Rain 2*, belonging to the [[Blind Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

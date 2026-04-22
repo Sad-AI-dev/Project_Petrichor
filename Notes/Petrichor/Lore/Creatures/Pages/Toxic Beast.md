@@ -1,5 +1,5 @@
 ![[ToxicBeastPortrait.webp|256]]
-*Cremator* is a monster from Risk of Rain Returns.
+*Toxic Beast* is a monster from *Risk of Rain Returns* belonging to the [[Boar Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Title</span>

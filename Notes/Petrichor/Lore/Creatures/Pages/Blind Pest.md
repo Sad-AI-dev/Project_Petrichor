@@ -1,5 +1,5 @@
-![[Blind_Pest.webp|128]]
-*Blind Pest* is a monster from Risk of Rain 2, belonging to the [[Blind Family]].
+![[Blind_Pest.webp|256]]
+*Blind Pest* is a monster from *Risk of Rain 2*, belonging to the [[Blind Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

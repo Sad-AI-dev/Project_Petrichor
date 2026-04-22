@@ -77,7 +77,7 @@
 		{"id":"d8bb9f56291eb18a","type":"text","text":"<span class=\"card\">![[88px-Gup_Icon.gif|120]]\n[[Gup]]</span>","x":460,"y":1320,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"ae8e8b1751750ee2","type":"text","text":"<span class=\"card\">![[Gup_Thumb.png]]\n[[Gup]]</span>","x":660,"y":1320,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"8bd0749d51b873ac","type":"text","text":"# <span class=\"big-4\"><span class=\"lore-title\">[[Golem Family]]</span></span>","x":900,"y":1200,"width":1220,"height":380,"color":"1"},
-		{"id":"8101e051ae8c5bf1","type":"text","text":"<span class=\"card\">![[88px-Rock_Golem_Icon.gif|120]]\n[[Rock Golem]]</span>","x":920,"y":1320,"width":180,"height":240,"color":"#dc1822"},
+		{"id":"8101e051ae8c5bf1","type":"text","text":"<span class=\"card\">![[88px-Rock_Golem_Icon.gif|120]]\n[[Stone Golem|Rock Golem]]</span>","x":920,"y":1320,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"d1dd5d80ed62ca0a","type":"text","text":"<span class=\"card\">![[StoneGolem_Thumb.png]]\n[[Stone Golem]]</span>","x":1120,"y":1320,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"c57d10b14580f22c","type":"text","text":"<span class=\"card\">![[Halcyonite_Thumb.png]]\n[[Halcyonite]]</span>","x":1320,"y":1320,"width":180,"height":240,"color":"#dc1822"},
 		{"id":"6d7837f8cb5a7b4c","type":"text","text":"<span class=\"card\">![[StoneTitan_Thumb.png]]\n[[Stone Titan]]</span>","x":1520,"y":1320,"width":180,"height":240,"color":"#dc1822"},

@@ -1,5 +1,5 @@
 ![[AcridWalk.gif]]
-*Acrid* can be found as a boss encounter in Risk of Rain Returns.
+*Acrid* can be found as a boss encounter in *Risk of Rain Returns*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

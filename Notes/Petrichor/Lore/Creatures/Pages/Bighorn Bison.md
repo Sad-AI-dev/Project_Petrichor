@@ -1,5 +1,5 @@
-![[BighornBisonPortrait.webp|256]] ![[Bighorn_Bison.webp|128]]
-*Bighorn Bison* is a monster from both Risk of Rain 2 and Risk of Rain Returns.
+![[BighornBisonPortrait.webp|256]] ![[Bighorn_Bison.webp|256]]
+*Bighorn Bison* is a monster from both *Risk of Rain Returns* and *Risk of Rain Returns*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

@@ -1,5 +1,5 @@
 ![[MechanicalspiderPortrait.webp|256]]
-*Mechanical Spider* is a monster from Risk of Rain Returns.
+*Mechanical Spider* is a monster from *Risk of Rain Returns*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

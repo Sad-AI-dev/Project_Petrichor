@@ -1,5 +1,5 @@
-![[Geep.webp|128]]
-*Geep* is a monster from both Risk of Rain Returns and Risk of Rain 2, belonging to the [[Gup Family]].
+![[Geep.webp|256]]
+*Geep* is a monster from both *Risk of Rain Returns* and *Risk of Rain 2*, belonging to the [[Gup Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

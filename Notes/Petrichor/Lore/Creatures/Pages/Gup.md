@@ -1,5 +1,5 @@
-![[GupPortrait.webp|256]] ![[Gup.webp|128]]
-*Gup* is a monster from both Risk of Rain 2 and Risk of Rain Returns.
+![[GupPortrait.webp|256]] ![[Gup.webp|256]]
+*Gup* is a monster from both *Risk of Rain Returns* and *Risk of Rain 2*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

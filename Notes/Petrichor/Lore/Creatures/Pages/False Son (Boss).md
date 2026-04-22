@@ -1,5 +1,5 @@
 ![[False_Son_(Boss).png|128]]
-*False Son* is a boss fight from Risk of Rain 2.
+*False Son* is a boss fight from *Risk of Rain 2*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 <span class="lore-title-inline"></span>

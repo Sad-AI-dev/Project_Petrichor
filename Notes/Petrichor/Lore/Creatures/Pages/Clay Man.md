@@ -1,5 +1,5 @@
 ![[ClayManPortrait.webp|256]]
-*Clay Man* is a monster from Risk of Rain Returns, belonging to the [[Clay Family]].
+*Clay Man* is a monster from *Risk of Rain Returns*, belonging to the [[Clay Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

@@ -1,5 +1,5 @@
-![[Stone_Titan.webp|128]]
-*Stone Titan* is a monster from Risk of Rain 2, belonging to the [[Golem Family]].
+![[Stone_Titan.webp|256]]
+*Stone Titan* is a monster from *Risk of Rain 2*, belonging to the [[Golem Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Title</span>

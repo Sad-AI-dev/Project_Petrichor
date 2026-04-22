@@ -1,5 +1,5 @@
 ![[256x212_flyingBeetle.png|128]]
-*Flying Beetle* is a monster from Risk of Rain 2, belonging to the [[Beetle Family]].
+*Flying Beetle* is a monster from *Risk of Rain 2*, belonging to the [[Beetle Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>

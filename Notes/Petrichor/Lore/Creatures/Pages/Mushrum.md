@@ -1,5 +1,5 @@
-![[MushrumPortrait.webp|256]] ![[Mini_Mushrum.png|128]]
-*Mushrum* is a monster from both Risk of Rain 2 and Risk of Rain Returns.
+![[MushrumPortrait.webp|256]] ![[Mini_Mushrum.png|256]]
+*Mushrum* is a monster from both *Risk of Rain Returns* and *Risk of Rain 2*.
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Lore</span>
@@ -24,7 +24,7 @@ I will describe its properties below. I have assigned their common name as ‘Mi
 # <span class="lore-title-inline">Notes</span>
 This log is an entry from the logbook created by [[D. Furthen & Tharson]], who were aboard the [[UES [REDACTED]|UES [REDACTED].]]
 
-The common name of the [[Mushrum]] is `Mini Mushrum`.
+The common name of the [[Mushrum|Mini Mushrum]] is simply `Mini Mushrum`.
 The `Mini` part was added by [[D. Furthen & Tharson]] to point out how relatively small they are compared to the massive mushrooms found in their habitat.
 The [[Mushrum]] encountered by [[D. Furthen & Tharson]] were bigger than [[D. Furthen & Tharson|Tharson]].
 
@@ -40,13 +40,13 @@ When approaching a large bulbous mushroom, it suddenly sprouted out the ground, 
 
 While sentient, these mushrums were not very intelligent. It had what looked like three eyes, but it could not navigate very well, implying that those may be fake eyes to scare predators. It also had no mouth to eat, but would plant itself over corpses, slowly absorbing nutrients through its root-like feet..</span>
 # <span class="lore-title-inline">Notes</span>
-This log shows that, after using a [[Teleporter]] for the first time, [[The Survivor]] found himself in the [[Damp Caverns]]. This is the natural habitat of the [[Mushrum]]: deep underground, dark and surrounded by a wide variety of giant mushrooms.
+This log shows that, after using a [[Teleporter]] for the first time, [[The Survivor]] found himself in the [[Damp Caverns]]. This is the natural habitat of the [[Mushrum]]: deep underground, dark and surrounded by a wide variety of giant mushrooms. 
 
 The spores spread by the [[Mushrum]] are dense enough to penetrate through the air filtration of [[The Survivor]], causing them to have trouble breathing.
 
 The [[Mushrum|Mushrum's]] eyes are possibly there just to deter predators. The [[Mushrum]] has no mouth, but has been seen planting itself over corpses, slowly absorbing their nutrients through its small nubby feet.
 
 ---
-An enemy called the `Giant Mushrum` was cut from development for *Risk of Rain 1*. 
-This explains why the [[Mushrum]] are occasionally referred to as `Mini Mushrum`.
+An enemy called the `Giant Mushrum` was cut from development for *Risk of Rain 1* and later added to *Risk of Rain 2*. 
+This explains why the [[Mushrum]] are referred to as [[Mushrum|Mini Mushrum]] in the sequel.
 #### <span class="lore-text">Tags</span>
