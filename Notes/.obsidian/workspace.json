@@ -16,31 +16,16 @@
               "state": {
                 "file": "Petrichor/Lore/Creatures/Creatures.canvas",
                 "viewState": {
-                  "x": 759.4564237391075,
-                  "y": 2175.8838182057993,
-                  "zoom": -0.6310647177900492
+                  "x": 1560.9487529582643,
+                  "y": 2581.4727879682737,
+                  "zoom": -0.9643980511233825
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Creatures"
             }
-          },
-          {
-            "id": "7eef20c3c95647ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lemurian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lemurian"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "908a848d683f879a",
@@ -205,34 +190,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "7eef20c3c95647ea",
+  "active": "b39c61cd2ed25bc5",
   "lastOpenFiles": [
+    "Petrichor/Lore/Creatures/Pages/Direseeker.md",
     "Petrichor/Lore/Creatures/Creatures.canvas",
-    "Petrichor/Lore/Creatures/Pages/Beetle.md",
-    "Lemurian.md",
-    "Petrichor/Lore/Creatures/Pages/Imp.md",
-    "Petrichor/Lore/Creatures/Pages/Colossus.md",
-    "Petrichor/Lore/Creatures/FamilyPages/Jellyfish Family.md",
+    "Petrichor/Lore/Creatures/FamilyPages/Lemurian Family.md",
     "Petrichor/Lore/Creatures/FamilyPages/Imp Family.md",
-    "Petrichor/Lore/Creatures/Pages/Jellyfish.md",
+    "Petrichor/Lore/Creatures/Pages/Colossus.md",
     "Petrichor/Lore/Creatures/Pages/Wandering Vagrant.md",
-    "Petrichor/Lore/Creatures/Pages/Imp Overlord.md",
-    "Petrichor/Lore/Creatures/Pages/Young Vagrant.md",
-    "Petrichor/Lore/Creatures/Pages/Tiny Imp.md",
-    "Petrichor/Lore/Creatures/Pages/Boarlit.md",
-    "Petrichor/Lore/Creatures/Pages/Spitter.md",
-    "Petrichor/Lore/Creatures/Pages/Purple Imp.md",
+    "Petrichor/Lore/Creatures/Pages/Alloy Worship Unit.md",
+    "Petrichor/Lore/Creatures/Pages/Alloy Hunter.md",
+    "Petrichor/Lore/Creatures/Pages/Providence.md",
+    "Petrichor/Lore/Creatures/Pages/Ifrit.md",
+    "Petrichor/Lore/Creatures/Pages/Gilded Wurms.md",
+    "Petrichor/Lore/Creatures/Pages/Cremator.md",
+    "Petrichor/Lore/Creatures/Pages/Acrid (Boss).md",
+    "Petrichor/Lore/Creatures/Pages/False Son (Boss).md",
     "Petrichor/Lore/Creatures/Pages/Imp Vanguard.md",
-    "Petrichor/Lore/Creatures/Pages/Toxic Beast.md",
-    "Petrichor/Lore/Creatures/Pages/Bighorn Bison.md",
-    "Petrichor/Lore/Items/Equipment/Jade Elephant.md",
-    "Petrichor/Lore/Creatures/Pages/Xi Construct.md",
-    "Petrichor/Lore/Creatures/Pages/Whorl.md",
-    "Petrichor/Lore/Creatures/Pages/Tuber.md",
-    "Petrichor/Lore/Creatures/Pages/Trokk.md",
-    "Petrichor/Lore/Creatures/Pages/Temple Guard.md",
-    "Petrichor/Lore/Creatures/Pages/Swift.md",
-    "Petrichor/Lore/Creatures/Pages/Stone Titan.md",
+    "Petrichor/Lore/Creatures/Pages/Elder Lemurian.md",
+    "Petrichor/Lore/Items/Equipment/Deus Ex Machina.md",
+    "Petrichor/Lore/Creatures/Pages/Imp.md",
+    "Petrichor/Lore/Creatures/Pages/Lemurian Cavalry.md",
+    "Petrichor/Lore/Items/Green/Chance Doll.md",
+    "Petrichor/Lore/Creatures/Pages/Evolved Lemurian.md",
+    "Petrichor/Lore/Creatures/Pages/Tiny Imp.md",
+    "Petrichor/Lore/Creatures/Pages/Lemurian.md",
+    "The Survivor.md",
+    "Petrichor/Lore/Creatures/Pages/Beetle.md",
+    "Petrichor/Lore/Creatures/FamilyPages/Jellyfish Family.md",
     "Petrichor/Lore/Items/Items.canvas",
     "New folder",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/MushrumPortrait.webp",

@@ -1,9 +1,9 @@
 ![[VagrantPortrait.webp|256]] ![[Wandering_Vagrant.png|256]]
-*Wandering Vagrant* is a monster from *Risk of Rain Returns* and *Risk of Rain 2* belonging to the [[Imp Family]].
+*Wandering Vagrant* is a monster from *Risk of Rain Returns* and *Risk of Rain 2* belonging to the [[Jellyfish Family]].
 For all monsters, see the [[Creatures.canvas|Creatures]] page.
 
 # <span class="lore-title-inline">Title</span>
-<span class="lore-text"><span class="lore-text-dark"><span class="center-inline">Lord of the Red Plane</span></span></span>
+<span class="lore-text"><span class="lore-text-dark"><span class="center-inline">Gentle Protector</span></span></span>
 # <span class="lore-title-inline">Lore</span>
 <span class="lore"><span class="lore-mono">$ Transcribing image... done.
 $ Resolving... done.

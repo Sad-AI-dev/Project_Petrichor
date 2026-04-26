@@ -9,7 +9,8 @@ For all creature families, see the [[Creatures.canvas|Creatures]] page.
 | ------------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------------------- |
 | <span class="center">[[Tiny Imp]]</span>                     | <span class="center">[[Imp]]</span>            | <span class="center">[[Imp Overlord]]</span>           | <span class="center">[[Purple Imp]]</span>                     | <span class="center">[[Imp Vanguard]]</span>                     |
 # <span class="lore-title-inline">Notes</span>
-something something imps die into existence and are looking for the `artifact of origin`, which will allow them to unborn themselves. They do this under the direction of the [[Imp Emperor]].
+The [[Imp Family]] has a unique life cycle. Unlike other species, they die into existence and seek to be born out of it. However, in order to do so, they need the `artifact of origin`.
+They search for this artifact do this under the direction of the [[Imp Emperor]].
 The [[Imp Family]] originates from [[the Red Plane]].
 
 As established in the [[Imp Overlord]] log, the hierarchy of the [[Imp Family]] is very rigid, with those higher in the system often treating those under them rather poorly.

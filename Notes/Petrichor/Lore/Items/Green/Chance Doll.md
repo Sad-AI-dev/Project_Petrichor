@@ -25,7 +25,7 @@ The log covers a conversation between 2 [[Lemurian|Lemurians]] as they deliver t
 
 The item is referred to as `Pebl` (my beloved). The log shows how young [[Lemurian|Lemurians]] are referred to as [[Humling|Humlings]].
 
-There appears to be an agreement between the [[Lemurian Family]] and the [[Golem Family]] to give small dolls to the [[Humlings]], which are to be returned before they grow up.
+There appears to be an agreement between the [[Lemurian Family]] and the [[Golem Family]] to give small dolls to the [[Humling|Humlings]], which are to be returned before they grow up.
 
 The log goes on to mention that when the [[UES Contact Light]] crashed upon the surface of [[Petrichor V]], many inhabitants went into hiding, while the members of the [[Golem Family]] answered the call from [[Providence]] to kill the invaders, so that peace may be restored.
 
