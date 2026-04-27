@@ -8,7 +8,7 @@ For all monsters, see the [[Creatures.canvas|Creatures]] page.
 # <span class="lore-title-inline">Lore</span>
 <span class="lore">N/A</span>
 # <span class="lore-title-inline">Notes</span>
-[[Acrid]] can be found as a boss encounter in [[Sunken Tomb]] inside of a metal cage.
+[[Acrid]] can be found as a boss encounter in [[Sunken Tombs]] inside of a metal cage.
 This metal cage was being shipped by the [[UES Contact Light]]. As the boss title suggests, [[Acrid]] is likely a scientific test subject. 
 
 [[Acrid]] is a unique creature, therefore, because it appears in the [[Void Fields]] in Risk of Rain Returns, it can safely be assumed that [[Acrid]] ends up escaping from the metal cage. It is possible that [[Acrid]] was freed by another survivor, or even [[The Survivor]] specifically.
