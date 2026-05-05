@@ -33,5 +33,15 @@ Y</span></span>
 # <span class="lore-title-inline">Notes</span>
 This log is a translation created by the [[MyBabel Machine Translator]].
 
+The [[Encrypted Cerebellum]] is obtained after defeating the [[Solus Wing]]. The log details that the [[Encrypted Cerebellum]] is a last ditch effort from the [[Solus Wing]] (which is currently acting in place of the [[Solus Mother Unit]]) to protect itself. Within the [[Encrypted Cerebellum]], the entirety of the digital mind of the [[Solus Heart]] is contained.
+
+The log is spoken by [[SPEX]] and is addressed to the survivor who defeated the [[Solus Wing]]. [[SPEX]] explains that they will never decrypt the [[Encrypted Cerebellum]] without their help.
+
+[[SPEX]] instructs the survivor to find "the key", as it contains secret decryption codes from before the [[Solus Wing]] was corrupted by [[Fundamental Element: Soul|Soul]] and become the primary node of [[The Collective]].
+During gameplay, this key can be a [[Sentry Key]], [[Prison Matrix]] or any other vaguely key shaped item, such as the [[Rusty Key]] or [[Encrusted Key]]. 
+Strangely, the [[Empathy Cores]] and [[Orphaned Core]] can also be used.
+
+The last message shows that [[SPEX]] send this message to the survivor while they were still in the [[Solutional Haunt]], before they entered the [[Computational Exchange]].
+
 #### <span class="lore-text">Tags</span>
 #unsolved

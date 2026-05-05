@@ -9,7 +9,7 @@ For all items, see the [[Items.canvas|Items]] page.
 # <span class="lore-title-inline">Notes</span>
 The [[Elite Aspects.canvas|Elite Aspects]] are a collection of items that resemble a morsel of power being granted by a higher power.
 
-This power was granted by the [[Solus Wing]]. (probably, might by `The Collective` instead)
+This power was granted by the [[Solus Wing]] as it processes the [[Fundamental Element: Soul|Soul]] near the core of [[Petrichor V]]. This power is shared among all those within [[The Collective]].
 
 #### <span class="lore-text">Tags</span>
 #double_check

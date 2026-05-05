@@ -33,5 +33,12 @@ Y</span></span>
 # <span class="lore-title-inline">Notes</span>
 This log is a translation created by the [[MyBabel Machine Translator]].
 
+The log is a message from [[SPEX]], which was send to the survivor who defeated the [[Solus Wing]] and just decrypted the [[Encrypted Cerebellum]]. The phrasing of the log suggests that [[SPEX]] said this after the survivor entered the [[Neural Sanctum]].
+
+[[SPEX]] ridicules the [[Solus Heart]], pointing out how it struggles and squirms.
+[[SPEX]] explains that the [[Solus Heart]] is likely to try to bargain to the survivor, but this is a trick, accepting the bargain will result in death.
+
+All that remains now is for the survivor to defeat the [[Solus Heart]] and [[SPEX]] will have completed their objective.
+
 #### <span class="lore-text">Tags</span>
 #unsolved

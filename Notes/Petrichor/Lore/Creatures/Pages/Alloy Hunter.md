@@ -59,5 +59,15 @@ The spear of [[Ra-Thun]] is the weapon that the [[Alloy Hunter]] uses. It's tip 
 
 Finally, [[Ses-Hath]] refers to the [[Solus Wing]] as "The Engine", and comments about how her actions will be remembered.
 
-This long is continued in the [[Conduit Canyon]] log.
+This log is continued in the [[Conduit Canyon]] log.
+
+# <span class="lore-title-inline">Dialogue</span>
+
+| <span class="center"><span class="lore-text"><span class="big-4">Condition</span></span></span>                              | <span class="center"><span class="lore-text"><span class="big-4">Dialogue</span></span></span>                                               |
+| ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| <span class="lore-text"><span class="big-5">[[Alloy Hunter]] spawns</span></span><br><span class="spacer-table-half"></span> | <li><span class="lore-text">Chosen, there can be but one champion! I shall not yield!</span></li><br><span class="spacer-table-half"></span> |
+# <span class="lore-title-inline">Notes</span>
+This line of dialogue shows the state of mind of the [[Alloy Hunter]] as she sees a survivor begin to charge a teleporter at the end of [[Conduit Canyon]].
+To the [[Alloy Hunter]], there can be but one champion. Only one can be credited with ridding this world of the [[Solus Wing]], and she's not backing down.
+
 #### <span class="lore-text">Tags</span>

@@ -16,16 +16,31 @@
               "state": {
                 "file": "Petrichor/Lore/Creatures/Creatures.canvas",
                 "viewState": {
-                  "x": 1143.3814211434908,
-                  "y": 3432.2174453105217,
+                  "x": 1221.6231504979573,
+                  "y": 3120.6850865905517,
                   "zoom": -0.9643980511233825
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Creatures"
             }
+          },
+          {
+            "id": "a12d832326f36e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPEX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SPEX"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "908a848d683f879a",
@@ -190,36 +205,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "b39c61cd2ed25bc5",
+  "active": "f178769d38f44506",
   "lastOpenFiles": [
+    "Pasted image 20260505193913.png",
+    "SPEX.md",
     "Petrichor/Lore/Creatures/Creatures.canvas",
-    "Petrichor/Lore/Creatures/FamilyPages/Scavenger Family.md",
-    "Petrichor/Lore/Creatures/FamilyPages/Clay Family.md",
-    "Petrichor/Lore/Creatures/Pages/Twisted Scavenger.md",
-    "Petrichor/Lore/Creatures/Pages/Beetle Queen.md",
-    "Petrichor/Lore/Creatures/Pages/Scavenger.md",
-    "Petrichor/Lore/Items/White/Tougher Times.md",
-    "Petrichor/Lore/Items/Lunar/Helfire Tincture.md",
+    "Petrichor/Lore/Creatures/Pages/Alloy Hunter.md",
+    "Petrichor/Lore/Creatures/Pages/Mithrix.md",
+    "Pasted image 20260505194704.png",
+    "Pasted image 20260505194546.png",
+    "Pasted image 20260505194514.png",
     "Petrichor/Lore/Items/Items.canvas",
-    "Petrichor/Lore/Creatures/Pages/Child.md",
+    "Petrichor/Lore/Items/Boss/Exposed Cerebellum.md",
+    "Petrichor/Lore/Items/Boss/Encrypted Cerebellum.md",
+    "Petrichor/Lore/Items/Void/Newly Hatched Zoea.md",
+    "Petrichor/Lore/Items/Boss/Prison Matrix.md",
+    "Petrichor/Lore/Items/Boss/Sentry Key.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Heart.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Wing.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Amalgamator.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Transporter.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Scorcher.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Prospector.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Invalidator.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Extractor.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Probe.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Distributor.md",
+    "Petrichor/Lore/Creatures/Pages/Solus Control Unit.md",
+    "Petrichor/Lore/Creatures/Pages/Alloy Worship Unit.md",
+    "Petrichor/Lore/Creatures/Pages/Beetle Queen.md",
+    "Petrichor/Music/Music_Temp.md",
     "Petrichor/Lore/Items/Elite Aspects.canvas",
-    "Petrichor/Lore/Items/Equipment/N'kuhana's Retort.md",
-    "Petrichor/Lore/Creatures/FamilyPages/Parent Family.md",
-    "Petrichor/Lore/Items/Boss/Planula.md",
-    "Petrichor/Lore/Creatures/FamilyPages/Macrobe Family.md",
-    "Petrichor/Lore/Creatures/Pages/Grandparent.md",
-    "Petrichor/Lore/Creatures/Pages/Parent.md",
+    "Petrichor/Lore/Items/Equipment/Of One Mind.md",
     "Petrichor/Lore/Creatures/Pages/Beetle.md",
-    "Petrichor/Lore/Creatures/Pages/Imp.md",
-    "Petrichor/Lore/Creatures/FamilyPages/Lynx Family.md",
-    "Petrichor/Lore/Creatures/Pages/Macrobic Predator.md",
-    "Petrichor/Lore/Creatures/Pages/Macrobe.md",
-    "Petrichor/Lore/Creatures/Pages/Gup.md",
-    "Petrichor/Lore/Creatures/Pages/Whorl.md",
-    "Petrichor/Lore/Creatures/Pages/Acrid (Boss).md",
-    "Petrichor/Lore/Creatures/Pages/Lynx Tribe.md",
-    "Petrichor/Lore/Creatures/FamilyPages/Boar Family.md",
-    "Petrichor/Lore/Creatures/Pages/Lynx Totem.md",
+    "Petrichor/Lore/Creatures/FamilyPages/Scavenger Family.md",
     "New folder",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/MushrumPortrait.webp",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/EvolvedLemurianPortrait.webp",
@@ -228,10 +247,6 @@
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/BugPortrait.webp",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/CrabPortrait.webp - Shortcut.lnk",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/ProvidencePortrait.webp",
-    "Petrichor/Lore/Creatures/Imgs/Thumb_R/GildedWurm2.gif",
-    "Petrichor/Lore/Creatures/Imgs/Thumb_R/GildedWurm1.gif",
-    "Petrichor/Lore/Creatures/Imgs/Thumb_R/96px-ImpVanguardIdle.gif",
-    "Petrichor/Lore/Creatures/Imgs/Thumb_R/96px-DireseekerWalk.gif",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R",
     "Petrichor/Lore/Creatures/Imgs/New folder",
     "Petrichor/Lore/Creatures/Imgs/High_Res_R",
