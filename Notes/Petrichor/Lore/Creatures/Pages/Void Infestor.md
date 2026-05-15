@@ -31,6 +31,32 @@ Okay... okay...  Here, damned thing just record!  Just record!  Okay... light on
 >Full recording may be accessed on a need-to-know basis in report 596f757220707269736f6e.
 ==================================================================</span>
 # <span class="lore-title-inline">Notes</span>
+This log is a document detailing a potential sighting of a [[Void Infestor]].
+The document details that these must be collected and spread among the "crew" immediately.
 
+It also details that any crewmate affected by the [[Void Infestor]] should immediately be considered unsalvageable and must be killed on sight to prevent further harm.
+
+This suggests that these documents are being spread among the crew of the [[UES [REDACTED]|UES [REDACTED] ]]after certain members got in contact with a [[Void Infestor]], in an effort to mitigate the damage.
+
+The contents of the log are made up of 3 fragments, each recorded at a different date.
+The first message was recorded on the `23rd of January`.
+It details the observer noting some strange behavior among a group of [[Lemurian|Lemurians]] that live near the outpost. There doesn't seem to be a visual indication of which [[Lemurian|Lemurians]] are getting attacked by the rest of their group besides the odd behavior.
+
+One of the [[Lemurian]] corpses had been recovered for further study, and the group has contacted `Tharson` (likely the very same as [[D. Furthen & Tharson]]).
+
+The author mentions not wanting to go into those "enclaves" while the [[Lemurian|Lemurians]] are fighting amongst each other. They ponder if the behavior may be caused be a disease such as rabies.
+It is noted that they have yet to spot anything similar to a disease like that on [[Petrichor V]].
+
+The next entry was recorded 2 days later, on the `25th of January`.
+The author notes that the infighting between the [[Lemurian|Lemurians]] is getting worse. They seem to be glad that their hostile neighbors have started wiping themselves out, as that would be one less thing to worry about.
+
+The final entry was recorded somewhere in `February`, presumably not much longer after the last recording. This recording is explicitly stated to be an audio recording, suggesting that the others may have been written instead.
+It is also revealed that this event took place at `SITE 4A`.
+
+The [[Void Infestor|Void Infestors]] have started to infect the humans stationed at `SITE 4A`, and the author was forced to kill one of their own. The tone suggests that the author is deeply distressed over this development and does not seem to understand what is happening to them.
+
+The final line states that the uncensored full recording can be accessed on a need-to-know basis.
+The report number hosts a small Easter egg, where the number can be interpreted as hexadecimal code, which translates to "Your prison".
+[[The Void]] has many connections to prisons, but this seems to be nothing more than an Easter egg pointing to this idea.
 
 #### <span class="lore-text">Tags</span>
