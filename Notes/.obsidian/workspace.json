@@ -16,16 +16,27 @@
               "state": {
                 "file": "Petrichor/Lore/Creatures/Creatures.canvas",
                 "viewState": {
-                  "x": -127.12010473390308,
-                  "y": 1574.802047477849,
-                  "zoom": -1.631064717790049
+                  "x": 1120.3389642601287,
+                  "y": 654.9535983379282,
+                  "zoom": -0.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Creatures"
             }
+          },
+          {
+            "id": "2aa6152857f160c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "908a848d683f879a",
@@ -190,10 +201,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "b39c61cd2ed25bc5",
+  "active": "2aa6152857f160c2",
   "lastOpenFiles": [
-    "Petrichor/Lore/Creatures/Pages/Magma Worm.md",
+    "Petrichor/Lore/Creatures/Pages/Beetle.md",
     "Petrichor/Lore/Creatures/Creatures.canvas",
+    "Petrichor/Lore/Creatures/FamilyPages/Alloy Family.md",
+    "Petrichor/Lore/Creatures/FamilyPages/Clay Family.md",
+    "Petrichor/Lore/Creatures/FamilyPages/Beetle Family.md",
+    "Petrichor/Lore/Creatures/Pages/Beetle Queen.md",
+    "Petrichor/Lore/Creatures/Pages/Mithrix.md",
+    "Petrichor/Lore/Creatures/Pages/Direseeker.md",
+    "Petrichor/Lore/Creatures/Pages/Acrid (Boss).md",
+    "Petrichor/Lore/Creatures/Pages/Magma Worm.md",
     "Petrichor/Lore/Creatures/FamilyPages/Worm Family.md",
     "Petrichor/Lore/Creatures/FamilyPages/Scavenger Family.md",
     "Petrichor/Lore/Creatures/Pages/Overloading Worm.md",
@@ -207,19 +226,11 @@
     "Petrichor/Lore/Items/Green/Toxic Centipede.md",
     "Petrichor/Lore/Items/Boss/Burning Witness.md",
     "Petrichor/Lore/Items/Items.canvas",
-    "Petrichor/Lore/Creatures/Pages/Beetle.md",
     "Petrichor/Lore/Creatures/Pages/Grovetender.md",
-    "Petrichor/Lore/Creatures/Pages/Mithrix.md",
     "Petrichor/Lore/Items/Lunar/Purity.md",
     "Petrichor/Lore/Creatures/Pages/Ancient Wisp.md",
     "Petrichor/Lore/Creatures/FamilyPages/Wisp Family.md",
     "Petrichor/Lore/Creatures/FamilyPages/Macrobe Family.md",
-    "Petrichor/Lore/Creatures/FamilyPages/Jellyfish Family.md",
-    "Petrichor/Lore/Creatures/Pages/Lesser Wisp.md",
-    "Petrichor/Lore/Items/Equipment/Gorag's Opus.md",
-    "Petrichor/Lore/Items/Red/Growth Nectar.md",
-    "Petrichor/Lore/Creatures/Pages/Clay Dunestrider.md",
-    "Petrichor/Lore/Items/Boss/Legendary Spark.md",
     "Petrichor/Lore/Creatures/Imgs/ScreenGrabs/Void_Whale.png",
     "Petrichor/Lore/Creatures/Imgs/Thumb/SolusExtractor_Thumb.png",
     "Pasted image 20260505193913.png",

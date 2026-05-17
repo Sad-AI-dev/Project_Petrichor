@@ -29,6 +29,6 @@ This log is an entry from the logbook created by [[D. Furthen & Tharson]], who w
 The [[Beetle]] wasn't the first unfamiliar outer life discovered by [[D. Furthen & Tharson]] on [[Petrichor V]].
 The common name assigned to the [[Beetle]] is `Worker Beetle`.
 
-The [[Beetle]] secretes a waxy substance from it's body.
+The [[Beetle]] secretes a waxy substance from its body.
 
 #### <span class="lore-text">Tags</span>

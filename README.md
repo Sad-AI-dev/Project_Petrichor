@@ -5,20 +5,25 @@ A key component of this is a complete reference containing all established lore 
 <!-- Cool preview images -->
 <img align="left" alt="Items Canvas" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
 <img align="left" alt="Item Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemPage.PNG"/>
-<img align="left" alt="Graph View" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_Graph.PNG"/>
+<img align="left" alt="Graph View" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/v0.2/Project_Graph_v2.PNG"/>
 
-## Current Version
-The current released version is `v0.1.0`. This is the initial release for the project.  
-`v0.1.0` Adds 365 lore pages covering all the items seen in `Risk of Rain 2` and `Risk of Rain Returns`.  
+# New Release! [v.0.2.0] The Creature Update
+<img align="left" alt="Creature Canvas" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/v0.2/CreatureCanvas.PNG"/>
+<img align="left" alt="Mithrix Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/v0.2/MithrixPage.PNG"/>
+<img align="left" alt="Family Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/v0.2/AlloyFamily.PNG"/>
+
+`v0.2.0` adds 104 new Creature pages. This is the first major update for the project.  
+The update includes pages for every hostile enemy seen in both `Risk of Rain Returns` and `Risk of Rain 2`.  
 For all changes, see the [Changelog](https://github.com/Sad-AI-dev/Project_Petrichor/blob/main/CHANGELOG.md).  
 
 ### Roadmap
-- `v0.2.0` is the next planned major release, which will include pages for all enemies seen in `Risk of Rain 2` and `Risk of Rain Returns`.  
-A preview for this content can be found in the `Creatures` canvas page.  
-
 - `v0.3.0` will be focused on adding all of the locations seen across the franchise.  
 
-- `v0.4.0` will add lore pages for all the drones and survivors.  
+- `v0.3.1` will add new content from the recently announced `Hallowed Concepts` dlc.  
+
+- `v0.4.0` will add lore pages for all the survivors.  
+
+- `v0.5.0` will be a smaller update adding pages for all the drones from `Risk of Rain 2`
 
 The ultimate goal of the project is to create a TTRPG setting that matches the lore as faithfully as possible.  
 Once all lore pages have been added to the *Obsidian* vault has been completed, work will start on adapting the setting to a TTRPG system.  
