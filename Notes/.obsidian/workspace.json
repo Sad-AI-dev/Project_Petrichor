@@ -16,9 +16,9 @@
               "state": {
                 "file": "Petrichor/Lore/Creatures/Creatures.canvas",
                 "viewState": {
-                  "x": 1547.4817692506085,
-                  "y": 3526.544923120801,
-                  "zoom": -0.9643980511233825
+                  "x": 620.5394328287055,
+                  "y": 3976.142264136357,
+                  "zoom": -0.29773138445671593
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -192,9 +192,12 @@
   },
   "active": "b39c61cd2ed25bc5",
   "lastOpenFiles": [
-    "Petrichor/Lore/Creatures/Pages/Void Barnacle.md",
-    "Petrichor/Lore/Creatures/Creatures.canvas",
     "Petrichor/Lore/Creatures/FamilyPages/Void Family.md",
+    "Petrichor/Lore/Creatures/Pages/Void Whale.md",
+    "Petrichor/Lore/Creatures/Pages/Void Infestor.md",
+    "Petrichor/Lore/Creatures/Creatures.canvas",
+    "Petrichor/Lore/Creatures/Imgs/Void_Whale.png",
+    "Petrichor/Lore/Creatures/Pages/Void Barnacle.md",
     "Petrichor/Lore/Creatures/Pages/Void Reaver.md",
     "Petrichor/Lore/Creatures/FamilyPages/Clay Family.md",
     "Petrichor/Lore/Creatures/Pages/Void Devastator.md",
@@ -203,7 +206,6 @@
     "Petrichor/Lore/Creatures/Pages/Solus Control Unit.md",
     "Petrichor/Lore/Creatures/Pages/Void Jailer.md",
     "Petrichor/Lore/Creatures/FamilyPages/Lemurian Family.md",
-    "Petrichor/Lore/Creatures/Pages/Void Infestor.md",
     "Petrichor/Lore/Creatures/FamilyPages/Solus Family.md",
     "Petrichor/Lore/Creatures/FamilyPages/Beetle Family.md",
     "Petrichor/Lore/Creatures/FamilyPages/Parent Family.md",
@@ -223,14 +225,12 @@
     "Pasted image 20260505194546.png",
     "Pasted image 20260505194514.png",
     "Petrichor/Lore/Items/Items.canvas",
-    "Petrichor/Lore/Items/Void/Newly Hatched Zoea.md",
     "Petrichor/Lore/Items/Elite Aspects.canvas",
     "New folder",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/MushrumPortrait.webp",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/EvolvedLemurianPortrait.webp",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/SandCrabPortrait.webp",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/ArcherBugPortrait.webp",
-    "Petrichor/Lore/Creatures/Imgs/Thumb_R/BugPortrait.webp",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/CrabPortrait.webp - Shortcut.lnk",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R",
     "Petrichor/Lore/Creatures/Imgs/New folder",
