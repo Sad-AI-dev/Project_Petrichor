@@ -14,7 +14,7 @@ It sounds like two brothers, chasing glass frogs in the sun.</span>
 # <span class="lore-title-inline">Notes</span>
 Supposedly, the [[Purity]] resembles [[Starseed]].
 
-The spiced fruit, which tastes sweet and hot may be in reference to [[kifruit]].
+The spiced fruit, which tastes sweet and hot may be in reference to [[Kifruit]].
 
 The two brothers referred to are [[Providence]] and [[Mithrix]].
 The chasing of [[Glass Frog|Glass Frogs]] is mentioned.

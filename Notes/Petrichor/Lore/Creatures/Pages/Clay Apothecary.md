@@ -41,7 +41,7 @@ The [[Dunepeople of Aphelia]] created great infrastructure in order to assist th
 Only when it was much to late, did the [[Dunepeople of Aphelia]] realize that their reverence of the [[Tar]] had caused their own downfall, as the land, rivers, and livestock had all been consumed by the [[Tar]]. Even a great number of the [[Dunepeople of Aphelia]] themselves had been taken over by the [[Tar]].
 
 On the brink of extinction, it was [[Providence]] who visited [[Aphelia]] to save the [[Dunepeople of Aphelia]] to save them from the demise they had brought upon themselves through the [[Tar]].
-[[Providence]] had descended down from the heavens riding one of his [[Gilded Wurms]]. He extended his arm and helped the [[Dunepeople of Aphelia]] move to [[Petrichor V]].
+[[Providence]] had descended down from the heavens riding on an [[Overloading Worm]]. He extended his arm and helped the [[Dunepeople of Aphelia]] move to [[Petrichor V]].
 In doing so, he had given the [[Tar]] a new direction to spread to, as it too, had made its way to [[Petrichor V]].
 
 We never see uncorrupted versions of the [[Dunepeople of Aphelia]] during the events of the games, suggesting that the [[Tar]] ultimately killed al of those who remained from the [[Dunepeople of Aphelia]] before continuing to spread over [[Petrichor V]].

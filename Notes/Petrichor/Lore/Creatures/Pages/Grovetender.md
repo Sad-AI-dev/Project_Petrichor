@@ -35,6 +35,7 @@ It is mentioned that the [[Grovetender]] believes that they must satisfy the cur
 As the [[Grovetender]] begins to tell their tale, they mention that [[Petrichor V]] is a paradise gifted to them by [[Providence]]. [[Providence]] did this not just to the [[Grovetender|Grovetenders]], but to many others, saving them all from death.
 
 Out of gratitude, the [[Grovetender|Grovetenders]] created [[The Garden]], a garden filled with fruit trees, [[Mercury Blossoms]] and other exotic plants liked by [[Providence]].
+The various exotic plants are likely to include [[Starseed]], [[Kifruit]] and various spiced fruits as these are likely favored by [[Providence]], as mentioned in the [[Purity]] log.
 However, [[Providence]] never seemed to notice [[The Garden]], so the [[Grovetender|Grovetenders]] toiled to make it the most beautiful garden in the universe. All in the hopes of repaying [[Providence]] for his kindness.
 
 The [[Grovetender]] notes that [[Providence]] loves [[Fundamental Element: Soul|Soul]] and thus loves the [[Lesser Wisp|Lesser Wisps]]. This suggests that the [[Lesser Wisp|Lesser Wisps]] are likely made of some amount of [[Fundamental Element: Soul|Soul]]. And that it was for this reason that the [[Grovetender|Grovetenders]] created the various wisps.
