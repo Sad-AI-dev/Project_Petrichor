@@ -3,10 +3,10 @@ Project Petrichor sets out to create a TTRPG setting based on the `Risk of Rain`
 A key component of this is a complete reference containing all established lore from the franchise.
 
 <!-- Cool preview images -->
-<img align="left" alt="Items Canvas" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
-<img align="left" alt="Item Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/Project_ItemPage.PNG"/>
-<img align="left" alt="Graph View" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/v0.2/Project_Graph_v2.PNG"/>
-<img align="left" width="100%" height="1" src="/ReadMeRefs/imgs/Spacer.png"/>
+<img align="left" alt="Items Canvas" width="30%" style="padding-right:10px; margine-bottom: 10px;" src="/ReadMeRefs/imgs/Project_ItemCanvas.PNG"/>
+<img align="left" alt="Item Page" width="30%" style="padding-right:10px; margine-bottom: 10px;" src="/ReadMeRefs/imgs/Project_ItemPage.PNG"/>
+<img align="left" alt="Graph View" width="30%" style="padding-right:10px; margine-bottom: 10px;" src="/ReadMeRefs/imgs/v0.2/Project_Graph_v2.PNG"/>
+<img align="center" width="100%" height="1" src="/ReadMeRefs/imgs/Spacer.png"/>
 
 # New Release! [v.0.2.0] The Creature Update
 `v0.2.0` adds 104 new Creature pages. This is the first major update for the project.  
@@ -16,7 +16,7 @@ For all changes, see the [Changelog](https://github.com/Sad-AI-dev/Project_Petri
 <img align="left" alt="Creature Canvas" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/v0.2/CreatureCanvas.PNG"/>
 <img align="left" alt="Mithrix Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/v0.2/MithrixPage.PNG"/>
 <img align="left" alt="Family Page" width="30%" style="padding-right:10px;" src="/ReadMeRefs/imgs/v0.2/AlloyFamily.PNG"/>
-<img align="left" width="100%" height="1" src="/ReadMeRefs/imgs/Spacer.png"/>
+<img align="center" width="100%" height="1" src="/ReadMeRefs/imgs/Spacer.png"/>
 
 ## Roadmap
 - `v0.3.0` will be focused on adding all of the locations seen across the franchise.  
