@@ -23,18 +23,18 @@ New Pages:
 	- Prison Matrix
 	- Sentry Key
 
-# Changed
+### Changed
 
 - Creatures Canvas
 	- As mentioned in the [v.0.1.0] update, this canvas had a temporary layout.
 	- This layout has been changed to sort creatures into individual species and "families".
 
-# Removed
+### Removed
 
 - [Item Page] Super Massive Leach
 	- Removed line referrencing the `Massive Leach` item, as it no longer exists due to being renamed in *Risk of Rain Returns*.
 
-# Fixed
+### Fixed
 
 - [Elite Aspect Page] Of one Mind
 	- Fixed line describing the origin of the power having some temp text.
