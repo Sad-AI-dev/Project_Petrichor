@@ -14,29 +14,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Petrichor/Lore/Creatures/Creatures.canvas",
+                "file": "Petrichor/Lore/Locations/Locations.canvas",
                 "viewState": {
-                  "x": 1120.3389642601287,
-                  "y": 654.9535983379282,
-                  "zoom": -0.6666666666666665
+                  "x": 671.6522151636493,
+                  "y": 2090.0054716543086,
+                  "zoom": -1.6666666666666663
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Creatures"
-            }
-          },
-          {
-            "id": "2aa6152857f160c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Locations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "908a848d683f879a",
@@ -201,10 +190,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "2aa6152857f160c2",
+  "active": "b39c61cd2ed25bc5",
   "lastOpenFiles": [
-    "Petrichor/Lore/Creatures/Pages/Beetle.md",
     "Petrichor/Lore/Creatures/Creatures.canvas",
+    "Petrichor/Lore/Items/Items.canvas",
+    "Petrichor/Lore/Locations/Locations.canvas",
+    "Petrichor/Lore/Locations/Imgs/360px-Bulwark's_Ambry_(Wisp_Research).webp",
+    "Petrichor/Lore/Locations/Imgs/360px-Bulwark's_Ambry_(Tar_Research).webp",
+    "Petrichor/Lore/Locations/Imgs/360px-Bulwark's_Ambry_(Aphelian_Research).webp",
+    "Petrichor/Lore/Locations/Imgs/320px-The_Simulacrum.webp",
+    "Petrichor/Lore/Locations/Imgs/320px-Gilded_Coast.webp",
+    "Petrichor/Lore/Locations/Imgs/320px-Bulwark's_Ambry.webp",
+    "Petrichor/Lore/Locations/Imgs/320px-Bazaar_Between_Time.webp",
+    "Petrichor/Lore/Locations/Imgs/320px-A_Moment,_Whole.webp",
+    "Petrichor/Lore/Locations/Imgs/320px-A_Moment,_Fractured.webp",
+    "Petrichor/Lore/Locations/Imgs/320px-Neural_Sanctum.webp",
+    "Petrichor/Lore/Locations/Imgs",
+    "Petrichor/Lore/Locations/Pages",
+    "Petrichor/Lore/Creatures/Pages/Beetle.md",
     "Petrichor/Lore/Creatures/FamilyPages/Alloy Family.md",
     "Petrichor/Lore/Creatures/FamilyPages/Clay Family.md",
     "Petrichor/Lore/Creatures/FamilyPages/Beetle Family.md",
@@ -219,29 +222,18 @@
     "Petrichor/Lore/Creatures/Pages/Void Devastator.md",
     "Petrichor/Lore/Creatures/Pages/Gilded Wurms.md",
     "Petrichor/Lore/Creatures/Pages/Clay Apothecary.md",
-    "Petrichor/Lore/Creatures/Imgs/Thumb/ClayApothecary_Thumb.png",
     "Petrichor/Lore/Creatures/Pages/Wandering Vagrant.md",
     "Petrichor/Lore/Creatures/Pages/Scorch Worm.md",
     "Petrichor/Lore/Items/Equipment/Super Massive Leech.md",
     "Petrichor/Lore/Items/Green/Toxic Centipede.md",
     "Petrichor/Lore/Items/Boss/Burning Witness.md",
-    "Petrichor/Lore/Items/Items.canvas",
     "Petrichor/Lore/Creatures/Pages/Grovetender.md",
     "Petrichor/Lore/Items/Lunar/Purity.md",
     "Petrichor/Lore/Creatures/Pages/Ancient Wisp.md",
     "Petrichor/Lore/Creatures/FamilyPages/Wisp Family.md",
     "Petrichor/Lore/Creatures/FamilyPages/Macrobe Family.md",
-    "Petrichor/Lore/Creatures/Imgs/ScreenGrabs/Void_Whale.png",
-    "Petrichor/Lore/Creatures/Imgs/Thumb/SolusExtractor_Thumb.png",
-    "Pasted image 20260505193913.png",
-    "Pasted image 20260505194704.png",
-    "Pasted image 20260505194546.png",
-    "Pasted image 20260505194514.png",
     "Petrichor/Lore/Items/Elite Aspects.canvas",
     "New folder",
-    "Petrichor/Lore/Creatures/Imgs/Thumb_R/MushrumPortrait.webp",
-    "Petrichor/Lore/Creatures/Imgs/Thumb_R/EvolvedLemurianPortrait.webp",
-    "Petrichor/Lore/Creatures/Imgs/Thumb_R/SandCrabPortrait.webp",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R/CrabPortrait.webp - Shortcut.lnk",
     "Petrichor/Lore/Creatures/Imgs/Thumb_R",
     "Petrichor/Lore/Creatures/Imgs/New folder",
@@ -249,8 +241,6 @@
     "Untitled.base",
     "Petrichor/Other-Temp",
     "Petrichor/Music",
-    "ProjectPetrichor.zip",
-    "Petrichor_VTEST.zip",
     "Petrichor/Lore/Creatures/FamilyPages/Untitled.canvas"
   ]
 }
