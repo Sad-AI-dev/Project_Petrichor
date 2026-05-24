@@ -16,9 +16,9 @@
               "state": {
                 "file": "Petrichor/Lore/Locations/Locations.canvas",
                 "viewState": {
-                  "x": 671.6522151636493,
-                  "y": 2090.0054716543086,
-                  "zoom": -1.6666666666666663
+                  "x": 376.4680254133383,
+                  "y": 1435.2899365318076,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -193,8 +193,8 @@
   "active": "b39c61cd2ed25bc5",
   "lastOpenFiles": [
     "Petrichor/Lore/Creatures/Creatures.canvas",
-    "Petrichor/Lore/Items/Items.canvas",
     "Petrichor/Lore/Locations/Locations.canvas",
+    "Petrichor/Lore/Items/Items.canvas",
     "Petrichor/Lore/Locations/Imgs/360px-Bulwark's_Ambry_(Wisp_Research).webp",
     "Petrichor/Lore/Locations/Imgs/360px-Bulwark's_Ambry_(Tar_Research).webp",
     "Petrichor/Lore/Locations/Imgs/360px-Bulwark's_Ambry_(Aphelian_Research).webp",
