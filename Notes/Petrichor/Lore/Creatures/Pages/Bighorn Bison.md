@@ -31,6 +31,6 @@ When they are not stampeding after me I have observed these monsters using their
 # <span class="lore-title-inline">Notes</span>
 [[The Survivor]] of the [[UES Contact Light]] encountered a [[Bighorn Bison]] directly after making use of a [[Teleporter]]. 
 The destination of this [[Teleporter]] was very likely [[Ancient Valley]]. 
-This is because [[The Survivor]] guesses that the strange behavior of the [[Bighorn Bison|Bighorn Bisons]] was related to the cold temperatures, and [[Ancient Valley]] is the only cold environment the [[Bighorn Bison]] can be found in during gameplay in Risk of Rain Returns.
+This is because [[The Survivor]] guesses that the strange behaviour of the [[Bighorn Bison|Bighorn Bisons]] was related to the cold temperatures, and [[Ancient Valley]] is the only cold environment the [[Bighorn Bison]] can be found in during gameplay in Risk of Rain Returns.
 
 #### <span class="lore-text">Tags</span>
