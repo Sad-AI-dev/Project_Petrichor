@@ -34,8 +34,6 @@ And allow me to bask in your radiance once more.
 # <span class="lore-title-inline">Notes</span>
 This log is a transcription of an image found on [[Petrichor V]], created by the [[FIELDTECH Image-To-Text Translator (v2.5.10b)]].
 
-This introduced [[FIELDTECH]] as a tech company in the Risk of Rain universe.
-
 The transcription resembles a prayer from the denizens of [[Petrichor V]] to their savior: [[Providence]].
 It is unclear if this happens after the events of the [[UES Contact Light]].
 
