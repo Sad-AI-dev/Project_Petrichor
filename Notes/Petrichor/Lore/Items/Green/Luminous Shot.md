@@ -18,7 +18,7 @@ The coup still fresh on Europa’s mind, the new acting government confronts her
 # <span class="lore-title-inline">Notes</span>
 This log is a fragment of [[The Saturn Reporter]], which seems to be a news letter originating from [[Saturn]].
 
-The [[NextTech]] yearly event is introduced. The inventor of not only the Luminous Shot but also the [[Crowdfunder]] is revealed to be [[M. Louis VI]], who hails from [[Europa]].
+The [[NextTech]] yearly event is introduced. The inventor of not only the Luminous Shot but also [[The Crowdfunder]] is revealed to be [[M. Louis VI]], who hails from [[Europa]].
 
 The [[Preon Accumulator]] is revealed to be made by [[Neil Hasting]], from [[Earth]].
 

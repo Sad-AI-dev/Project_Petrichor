@@ -14,7 +14,7 @@ Quickly spinning on his heel, the old man fired his shotgun, decapitating the Le
 
 “I’d worry more about your own safety than mine, private.”</span>
 # <span class="lore-title-inline">Notes</span>
-This log covers the perspective of [[Captian]], who is an older man making use of the Defensive Microbots to protect him from incoming projectiles.
+This log covers the perspective of [[Captain]], who is an older man making use of the Defensive Microbots to protect him from incoming projectiles.
 The [[Captian]] is attacked by a [[Lemurian]], but he quickly dispatches it.
 
 #### <span class="lore-text">Tags</span>

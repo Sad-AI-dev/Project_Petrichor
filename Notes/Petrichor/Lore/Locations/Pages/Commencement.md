@@ -41,4 +41,8 @@ The name "[[Commencement]]" is notable. It suggests that the location represents
 Large statues line the walls of the hallway leading outside. It is unclear what these statues represent.
 
 4 types of pillars can be found across the stage, each representing one of the 4 [[Fundamental Elements]]: [[Fundamental Element: Mass|Mass]], [[Fundamental Element: Design|Design]], [[Fundamental Element: Blood|Blood]], and [[Fundamental Element: Soul|Soul]].
+
+A [[Shuttle]] (which is referred to as the "Rescue Ship") landed on [[Commencement]]. 
+A large number of [[Commando]] corpses litter the floor around the [[Shuttle]], but it is still operational.
+Unfortunately, it appears that [[Mithrix]] has placed a protective barrier around it, preventing survivors from using it to return to the [[UES Safe Travels]], which can be spotted in the sky.
 #### <span class="lore-text">Tags</span>
