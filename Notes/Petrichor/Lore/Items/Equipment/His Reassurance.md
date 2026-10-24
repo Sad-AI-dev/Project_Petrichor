@@ -9,6 +9,6 @@ For all items, see the [[Items.canvas|Items]] page.
 # <span class="lore-title-inline">Notes</span>
 The [[Elite Aspects.canvas|Elite Aspects]] are a collection of items that resemble a morsel of power being granted by a higher power.
 
-While it is unclear who granted this power, it is possible that this was granted by [[Providence]], due to the use of male pronouns and the healing effect of the power, which could be interpreted as compassioned.
+While it is unclear who granted this power, it is possible that this was granted by [[Providence]], due to the use of male pronouns and the healing effect of the power, which could be interpreted as his compassion.
 
 #### <span class="lore-text">Tags</span>
